@@ -1,0 +1,1391 @@
+Tiamat proxy pod: tiamatdb-proxy-4229176698-1k9c2
+stop place primary id: 74707 (NSR:StopPlace:11274) should have a reference to tariff zone with netex_id: OPP:TariffZone:401
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'OPP:TariffZone:401') returning id
+Got tariff zone ref id: 55471
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(74707, 55471)
+------------end iteration----------------
+stop place primary id: 74706 (NSR:StopPlace:11277) should have a reference to tariff zone with netex_id: OPP:TariffZone:401
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'OPP:TariffZone:401') returning id
+Got tariff zone ref id: 55481
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(74706, 55481)
+------------end iteration----------------
+stop place primary id: 74710 (NSR:StopPlace:11363) should have a reference to tariff zone with netex_id: OPP:TariffZone:396
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'OPP:TariffZone:396') returning id
+Got tariff zone ref id: 55491
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(74710, 55491)
+------------end iteration----------------
+stop place primary id: 74709 (NSR:StopPlace:11365) should have a reference to tariff zone with netex_id: OPP:TariffZone:396
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'OPP:TariffZone:396') returning id
+Got tariff zone ref id: 55501
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(74709, 55501)
+------------end iteration----------------
+stop place primary id: 73083 (NSR:StopPlace:15401) should have a reference to tariff zone with netex_id: BRA:TariffZone:128
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'BRA:TariffZone:128') returning id
+Got tariff zone ref id: 55511
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(73083, 55511)
+------------end iteration----------------
+stop place primary id: 73083 (NSR:StopPlace:15401) should have a reference to tariff zone with netex_id: RUT:TariffZone:4V
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:4V') returning id
+Got tariff zone ref id: 55521
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(73083, 55521)
+------------end iteration----------------
+stop place primary id: 73175 (NSR:StopPlace:18699) should have a reference to tariff zone with netex_id: VKT:TariffZone:717
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'VKT:TariffZone:717') returning id
+Got tariff zone ref id: 55531
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(73175, 55531)
+------------end iteration----------------
+stop place primary id: 73093 (NSR:StopPlace:18764) should have a reference to tariff zone with netex_id: VKT:TariffZone:726
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'VKT:TariffZone:726') returning id
+Got tariff zone ref id: 55541
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(73093, 55541)
+------------end iteration----------------
+stop place primary id: 75000 (NSR:StopPlace:2166) should have a reference to tariff zone with netex_id: OST:TariffZone:262
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'OST:TariffZone:262') returning id
+Got tariff zone ref id: 55551
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(75000, 55551)
+------------end iteration----------------
+stop place primary id: 76003 (NSR:StopPlace:23351) should have a reference to tariff zone with netex_id: AKT:TariffZone:804
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'AKT:TariffZone:804') returning id
+Got tariff zone ref id: 55561
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(76003, 55561)
+------------end iteration----------------
+stop place primary id: 76004 (NSR:StopPlace:23353) should have a reference to tariff zone with netex_id: AKT:TariffZone:804
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'AKT:TariffZone:804') returning id
+Got tariff zone ref id: 55571
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(76004, 55571)
+------------end iteration----------------
+stop place primary id: 75989 (NSR:StopPlace:24386) should have a reference to tariff zone with netex_id: AKT:TariffZone:802
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'AKT:TariffZone:802') returning id
+Got tariff zone ref id: 55581
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(75989, 55581)
+------------end iteration----------------
+stop place primary id: 75990 (NSR:StopPlace:24388) should have a reference to tariff zone with netex_id: AKT:TariffZone:802
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'AKT:TariffZone:802') returning id
+Got tariff zone ref id: 55591
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(75990, 55591)
+------------end iteration----------------
+stop place primary id: 75001 (NSR:StopPlace:2452) should have a reference to tariff zone with netex_id: OST:TariffZone:262
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'OST:TariffZone:262') returning id
+Got tariff zone ref id: 55601
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(75001, 55601)
+------------end iteration----------------
+stop place primary id: 73355 (NSR:StopPlace:25480) should have a reference to tariff zone with netex_id: AKT:TariffZone:103
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'AKT:TariffZone:103') returning id
+Got tariff zone ref id: 55611
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(73355, 55611)
+------------end iteration----------------
+stop place primary id: 73356 (NSR:StopPlace:25483) should have a reference to tariff zone with netex_id: AKT:TariffZone:949
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'AKT:TariffZone:949') returning id
+Got tariff zone ref id: 55621
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(73356, 55621)
+------------end iteration----------------
+stop place primary id: 75443 (NSR:StopPlace:26834) should have a reference to tariff zone with netex_id: KOL:TariffZone:541
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'KOL:TariffZone:541') returning id
+Got tariff zone ref id: 55631
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(75443, 55631)
+------------end iteration----------------
+stop place primary id: 75442 (NSR:StopPlace:26837) should have a reference to tariff zone with netex_id: KOL:TariffZone:541
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'KOL:TariffZone:541') returning id
+Got tariff zone ref id: 55641
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(75442, 55641)
+------------end iteration----------------
+stop place primary id: 75444 (NSR:StopPlace:26841) should have a reference to tariff zone with netex_id: KOL:TariffZone:150
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'KOL:TariffZone:150') returning id
+Got tariff zone ref id: 55651
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(75444, 55651)
+------------end iteration----------------
+stop place primary id: 75057 (NSR:StopPlace:269) should have a reference to tariff zone with netex_id: RUT:TariffZone:4N
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:4N') returning id
+Got tariff zone ref id: 55661
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(75057, 55661)
+------------end iteration----------------
+stop place primary id: 74420 (NSR:StopPlace:3402) should have a reference to tariff zone with netex_id: RUT:TariffZone:2V
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:2V') returning id
+Got tariff zone ref id: 55671
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(74420, 55671)
+------------end iteration----------------
+stop place primary id: 74421 (NSR:StopPlace:3405) should have a reference to tariff zone with netex_id: RUT:TariffZone:2V
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:2V') returning id
+Got tariff zone ref id: 55681
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(74421, 55681)
+------------end iteration----------------
+stop place primary id: 73509 (NSR:StopPlace:3586) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 55701
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(73509, 55701)
+------------end iteration----------------
+stop place primary id: 72437 (NSR:StopPlace:3659) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 55711
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72437, 55711)
+------------end iteration----------------
+stop place primary id: 72436 (NSR:StopPlace:3662) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 55721
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72436, 55721)
+------------end iteration----------------
+stop place primary id: 72400 (NSR:StopPlace:3693) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 55731
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72400, 55731)
+------------end iteration----------------
+stop place primary id: 72401 (NSR:StopPlace:3696) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 55741
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72401, 55741)
+------------end iteration----------------
+stop place primary id: 72417 (NSR:StopPlace:3726) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 55751
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72417, 55751)
+------------end iteration----------------
+stop place primary id: 72416 (NSR:StopPlace:3729) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 55761
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72416, 55761)
+------------end iteration----------------
+stop place primary id: 72423 (NSR:StopPlace:3808) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 55771
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72423, 55771)
+------------end iteration----------------
+stop place primary id: 72424 (NSR:StopPlace:3811) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 55781
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72424, 55781)
+------------end iteration----------------
+stop place primary id: 72427 (NSR:StopPlace:3908) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 55791
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72427, 55791)
+------------end iteration----------------
+stop place primary id: 72426 (NSR:StopPlace:3911) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 55801
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72426, 55801)
+------------end iteration----------------
+stop place primary id: 72968 (NSR:StopPlace:3983) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 55811
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72968, 55811)
+------------end iteration----------------
+stop place primary id: 74789 (NSR:StopPlace:3990) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 55821
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(74789, 55821)
+------------end iteration----------------
+stop place primary id: 74788 (NSR:StopPlace:3995) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 55831
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(74788, 55831)
+------------end iteration----------------
+stop place primary id: 74787 (NSR:StopPlace:4004) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 55841
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(74787, 55841)
+------------end iteration----------------
+stop place primary id: 72537 (NSR:StopPlace:40205) should have a reference to tariff zone with netex_id: MOR:TariffZone:220
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'MOR:TariffZone:220') returning id
+Got tariff zone ref id: 55851
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72537, 55851)
+------------end iteration----------------
+stop place primary id: 74736 (NSR:StopPlace:40251) should have a reference to tariff zone with netex_id: MOR:TariffZone:846
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'MOR:TariffZone:846') returning id
+Got tariff zone ref id: 55861
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(74736, 55861)
+------------end iteration----------------
+stop place primary id: 72429 (NSR:StopPlace:4051) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 55871
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72429, 55871)
+------------end iteration----------------
+stop place primary id: 72430 (NSR:StopPlace:4054) should have a reference to tariff zone with netex_id: RUT:TariffZone:2V
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:2V') returning id
+Got tariff zone ref id: 55881
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72430, 55881)
+------------end iteration----------------
+stop place primary id: 72442 (NSR:StopPlace:4060) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 55891
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72442, 55891)
+------------end iteration----------------
+stop place primary id: 72443 (NSR:StopPlace:4062) should have a reference to tariff zone with netex_id: RUT:TariffZone:2V
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:2V') returning id
+Got tariff zone ref id: 55901
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72443, 55901)
+------------end iteration----------------
+stop place primary id: 74622 (NSR:StopPlace:4076) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 55911
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(74622, 55911)
+------------end iteration----------------
+stop place primary id: 74623 (NSR:StopPlace:4081) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 55921
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(74623, 55921)
+------------end iteration----------------
+stop place primary id: 74074 (NSR:StopPlace:4120) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 55931
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(74074, 55931)
+------------end iteration----------------
+stop place primary id: 74073 (NSR:StopPlace:4142) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 55941
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(74073, 55941)
+------------end iteration----------------
+stop place primary id: 72924 (NSR:StopPlace:4151) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 55951
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72924, 55951)
+------------end iteration----------------
+stop place primary id: 72923 (NSR:StopPlace:4160) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 55961
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72923, 55961)
+------------end iteration----------------
+stop place primary id: 74644 (NSR:StopPlace:4183) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 55971
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(74644, 55971)
+------------end iteration----------------
+stop place primary id: 74645 (NSR:StopPlace:4187) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 55981
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(74645, 55981)
+------------end iteration----------------
+stop place primary id: 72926 (NSR:StopPlace:4196) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 55991
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72926, 55991)
+------------end iteration----------------
+stop place primary id: 74283 (NSR:StopPlace:41984) should have a reference to tariff zone with netex_id: ATB:TariffZone:221
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'ATB:TariffZone:221') returning id
+Got tariff zone ref id: 56001
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(74283, 56001)
+------------end iteration----------------
+stop place primary id: 72927 (NSR:StopPlace:4200) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56011
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72927, 56011)
+------------end iteration----------------
+stop place primary id: 74621 (NSR:StopPlace:4205) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56021
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(74621, 56021)
+------------end iteration----------------
+stop place primary id: 74632 (NSR:StopPlace:4209) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56031
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(74632, 56031)
+------------end iteration----------------
+stop place primary id: 72468 (NSR:StopPlace:4231) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56041
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72468, 56041)
+------------end iteration----------------
+stop place primary id: 72467 (NSR:StopPlace:4235) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56051
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72467, 56051)
+------------end iteration----------------
+stop place primary id: 72451 (NSR:StopPlace:4281) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56061
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72451, 56061)
+------------end iteration----------------
+stop place primary id: 73983 (NSR:StopPlace:42848) should have a reference to tariff zone with netex_id: ATB:TariffZone:90
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'ATB:TariffZone:90') returning id
+Got tariff zone ref id: 56071
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(73983, 56071)
+------------end iteration----------------
+stop place primary id: 72956 (NSR:StopPlace:4293) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56081
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72956, 56081)
+------------end iteration----------------
+stop place primary id: 72946 (NSR:StopPlace:4300) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56091
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72946, 56091)
+------------end iteration----------------
+stop place primary id: 72960 (NSR:StopPlace:4304) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56101
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72960, 56101)
+------------end iteration----------------
+stop place primary id: 72942 (NSR:StopPlace:4322) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56111
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72942, 56111)
+------------end iteration----------------
+stop place primary id: 74994 (NSR:StopPlace:4336) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56121
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(74994, 56121)
+------------end iteration----------------
+stop place primary id: 73510 (NSR:StopPlace:4382) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56131
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(73510, 56131)
+------------end iteration----------------
+stop place primary id: 72435 (NSR:StopPlace:4385) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56141
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72435, 56141)
+------------end iteration----------------
+stop place primary id: 75532 (NSR:StopPlace:44054) should have a reference to tariff zone with netex_id: ATB:TariffZone:317
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'ATB:TariffZone:317') returning id
+Got tariff zone ref id: 56151
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(75532, 56151)
+------------end iteration----------------
+stop place primary id: 73539 (NSR:StopPlace:4452) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56161
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(73539, 56161)
+------------end iteration----------------
+stop place primary id: 73541 (NSR:StopPlace:4468) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56171
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(73541, 56171)
+------------end iteration----------------
+stop place primary id: 73540 (NSR:StopPlace:4488) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56181
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(73540, 56181)
+------------end iteration----------------
+stop place primary id: 72935 (NSR:StopPlace:4495) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56191
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72935, 56191)
+------------end iteration----------------
+stop place primary id: 74613 (NSR:StopPlace:4511) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56201
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(74613, 56201)
+------------end iteration----------------
+stop place primary id: 72895 (NSR:StopPlace:4516) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56211
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72895, 56211)
+------------end iteration----------------
+stop place primary id: 72894 (NSR:StopPlace:4522) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56221
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72894, 56221)
+------------end iteration----------------
+stop place primary id: 72892 (NSR:StopPlace:4527) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56231
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72892, 56231)
+------------end iteration----------------
+stop place primary id: 72891 (NSR:StopPlace:4531) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56241
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72891, 56241)
+------------end iteration----------------
+stop place primary id: 72888 (NSR:StopPlace:4537) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56251
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72888, 56251)
+------------end iteration----------------
+stop place primary id: 72889 (NSR:StopPlace:4542) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56261
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72889, 56261)
+------------end iteration----------------
+stop place primary id: 72464 (NSR:StopPlace:4557) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56271
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72464, 56271)
+------------end iteration----------------
+stop place primary id: 74050 (NSR:StopPlace:47106) should have a reference to tariff zone with netex_id: NOR:TariffZone:18066
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'NOR:TariffZone:18066') returning id
+Got tariff zone ref id: 56281
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(74050, 56281)
+------------end iteration----------------
+stop place primary id: 74050 (NSR:StopPlace:47106) should have a reference to tariff zone with netex_id: NOR:TariffZone:18487
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'NOR:TariffZone:18487') returning id
+Got tariff zone ref id: 56291
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(74050, 56291)
+------------end iteration----------------
+stop place primary id: 74049 (NSR:StopPlace:47195) should have a reference to tariff zone with netex_id: NOR:TariffZone:18716
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'NOR:TariffZone:18716') returning id
+Got tariff zone ref id: 56301
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(74049, 56301)
+------------end iteration----------------
+stop place primary id: 76044 (NSR:StopPlace:47419) should have a reference to tariff zone with netex_id: NOR:TariffZone:18727
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'NOR:TariffZone:18727') returning id
+Got tariff zone ref id: 56311
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(76044, 56311)
+------------end iteration----------------
+stop place primary id: 76043 (NSR:StopPlace:49013) should have a reference to tariff zone with netex_id: NOR:TariffZone:18020
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'NOR:TariffZone:18020') returning id
+Got tariff zone ref id: 56321
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(76043, 56321)
+------------end iteration----------------
+stop place primary id: 76056 (NSR:StopPlace:49363) should have a reference to tariff zone with netex_id: NOR:TariffZone:18459
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'NOR:TariffZone:18459') returning id
+Got tariff zone ref id: 56331
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(76056, 56331)
+------------end iteration----------------
+stop place primary id: 76057 (NSR:StopPlace:49365) should have a reference to tariff zone with netex_id: NOR:TariffZone:18048
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'NOR:TariffZone:18048') returning id
+Got tariff zone ref id: 56341
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(76057, 56341)
+------------end iteration----------------
+stop place primary id: 75055 (NSR:StopPlace:5351) should have a reference to tariff zone with netex_id: RUT:TariffZone:4N
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:4N') returning id
+Got tariff zone ref id: 56351
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(75055, 56351)
+------------end iteration----------------
+stop place primary id: 75056 (NSR:StopPlace:5357) should have a reference to tariff zone with netex_id: RUT:TariffZone:4N
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:4N') returning id
+Got tariff zone ref id: 56361
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(75056, 56361)
+------------end iteration----------------
+stop place primary id: 76078 (NSR:StopPlace:55021) should have a reference to tariff zone with netex_id: TRO:TariffZone:19524
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'TRO:TariffZone:19524') returning id
+Got tariff zone ref id: 56371
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(76078, 56371)
+------------end iteration----------------
+stop place primary id: 72994 (NSR:StopPlace:5583) should have a reference to tariff zone with netex_id: RUT:TariffZone:2S
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:2S') returning id
+Got tariff zone ref id: 56381
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72994, 56381)
+------------end iteration----------------
+stop place primary id: 72995 (NSR:StopPlace:5587) should have a reference to tariff zone with netex_id: RUT:TariffZone:2S
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:2S') returning id
+Got tariff zone ref id: 56391
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72995, 56391)
+------------end iteration----------------
+stop place primary id: 72193 (NSR:StopPlace:5607) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56401
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72193, 56401)
+------------end iteration----------------
+stop place primary id: 72192 (NSR:StopPlace:5609) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56411
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72192, 56411)
+------------end iteration----------------
+stop place primary id: 72195 (NSR:StopPlace:5625) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56421
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72195, 56421)
+------------end iteration----------------
+stop place primary id: 72196 (NSR:StopPlace:5627) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56431
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72196, 56431)
+------------end iteration----------------
+stop place primary id: 72203 (NSR:StopPlace:5639) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56441
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72203, 56441)
+------------end iteration----------------
+stop place primary id: 72202 (NSR:StopPlace:5641) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56451
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72202, 56451)
+------------end iteration----------------
+stop place primary id: 72306 (NSR:StopPlace:5687) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56461
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72306, 56461)
+------------end iteration----------------
+stop place primary id: 72307 (NSR:StopPlace:5690) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56471
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72307, 56471)
+------------end iteration----------------
+stop place primary id: 71466 (NSR:StopPlace:5705) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56481
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(71466, 56481)
+------------end iteration----------------
+stop place primary id: 71467 (NSR:StopPlace:5707) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56491
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(71467, 56491)
+------------end iteration----------------
+stop place primary id: 72209 (NSR:StopPlace:5720) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56501
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72209, 56501)
+------------end iteration----------------
+stop place primary id: 72210 (NSR:StopPlace:5722) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56511
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72210, 56511)
+------------end iteration----------------
+stop place primary id: 72205 (NSR:StopPlace:5730) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56521
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72205, 56521)
+------------end iteration----------------
+stop place primary id: 72206 (NSR:StopPlace:5733) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56531
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72206, 56531)
+------------end iteration----------------
+stop place primary id: 72320 (NSR:StopPlace:5796) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56541
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72320, 56541)
+------------end iteration----------------
+stop place primary id: 72315 (NSR:StopPlace:5798) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56551
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72315, 56551)
+------------end iteration----------------
+stop place primary id: 72316 (NSR:StopPlace:5801) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56561
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72316, 56561)
+------------end iteration----------------
+stop place primary id: 72201 (NSR:StopPlace:5803) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56571
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72201, 56571)
+------------end iteration----------------
+stop place primary id: 72212 (NSR:StopPlace:5805) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56581
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72212, 56581)
+------------end iteration----------------
+stop place primary id: 72322 (NSR:StopPlace:5816) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56591
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72322, 56591)
+------------end iteration----------------
+stop place primary id: 72323 (NSR:StopPlace:5818) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56601
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72323, 56601)
+------------end iteration----------------
+stop place primary id: 72309 (NSR:StopPlace:5823) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56611
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72309, 56611)
+------------end iteration----------------
+stop place primary id: 72310 (NSR:StopPlace:5825) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56621
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72310, 56621)
+------------end iteration----------------
+stop place primary id: 72947 (NSR:StopPlace:58311) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56631
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72947, 56631)
+------------end iteration----------------
+stop place primary id: 72959 (NSR:StopPlace:58312) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56641
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72959, 56641)
+------------end iteration----------------
+stop place primary id: 73084 (NSR:StopPlace:58370) should have a reference to tariff zone with netex_id: RUT:TariffZone:4V
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:4V') returning id
+Got tariff zone ref id: 56651
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(73084, 56651)
+------------end iteration----------------
+stop place primary id: 72298 (NSR:StopPlace:5847) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56661
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72298, 56661)
+------------end iteration----------------
+stop place primary id: 72199 (NSR:StopPlace:5848) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56671
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72199, 56671)
+------------end iteration----------------
+stop place primary id: 72297 (NSR:StopPlace:5849) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56681
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72297, 56681)
+------------end iteration----------------
+stop place primary id: 72198 (NSR:StopPlace:5850) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56691
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72198, 56691)
+------------end iteration----------------
+stop place primary id: 72301 (NSR:StopPlace:5862) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56701
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72301, 56701)
+------------end iteration----------------
+stop place primary id: 72300 (NSR:StopPlace:5865) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56711
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72300, 56711)
+------------end iteration----------------
+stop place primary id: 72313 (NSR:StopPlace:5874) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56721
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72313, 56721)
+------------end iteration----------------
+stop place primary id: 72312 (NSR:StopPlace:5877) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56731
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72312, 56731)
+------------end iteration----------------
+stop place primary id: 72303 (NSR:StopPlace:5885) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56741
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72303, 56741)
+------------end iteration----------------
+stop place primary id: 72304 (NSR:StopPlace:5887) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56751
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72304, 56751)
+------------end iteration----------------
+stop place primary id: 72336 (NSR:StopPlace:5900) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56761
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72336, 56761)
+------------end iteration----------------
+stop place primary id: 72335 (NSR:StopPlace:5902) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56771
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72335, 56771)
+------------end iteration----------------
+stop place primary id: 74164 (NSR:StopPlace:5905) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56781
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(74164, 56781)
+------------end iteration----------------
+stop place primary id: 74163 (NSR:StopPlace:5907) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56791
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(74163, 56791)
+------------end iteration----------------
+stop place primary id: 72969 (NSR:StopPlace:5908) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56801
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72969, 56801)
+------------end iteration----------------
+stop place primary id: 72326 (NSR:StopPlace:5917) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56811
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72326, 56811)
+------------end iteration----------------
+stop place primary id: 72325 (NSR:StopPlace:5919) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56821
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72325, 56821)
+------------end iteration----------------
+stop place primary id: 72338 (NSR:StopPlace:5935) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56831
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72338, 56831)
+------------end iteration----------------
+stop place primary id: 72339 (NSR:StopPlace:5937) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56841
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72339, 56841)
+------------end iteration----------------
+stop place primary id: 71463 (NSR:StopPlace:5963) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56851
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(71463, 56851)
+------------end iteration----------------
+stop place primary id: 71464 (NSR:StopPlace:5965) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56861
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(71464, 56861)
+------------end iteration----------------
+stop place primary id: 72289 (NSR:StopPlace:5971) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56871
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72289, 56871)
+------------end iteration----------------
+stop place primary id: 72290 (NSR:StopPlace:5973) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56881
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72290, 56881)
+------------end iteration----------------
+stop place primary id: 74334 (NSR:StopPlace:6014) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56891
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(74334, 56891)
+------------end iteration----------------
+stop place primary id: 74335 (NSR:StopPlace:6017) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56901
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(74335, 56901)
+------------end iteration----------------
+stop place primary id: 74673 (NSR:StopPlace:6022) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56911
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(74673, 56911)
+------------end iteration----------------
+stop place primary id: 71164 (NSR:StopPlace:6029) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56921
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(71164, 56921)
+------------end iteration----------------
+stop place primary id: 71163 (NSR:StopPlace:6031) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56931
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(71163, 56931)
+------------end iteration----------------
+stop place primary id: 74619 (NSR:StopPlace:6039) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56941
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(74619, 56941)
+------------end iteration----------------
+stop place primary id: 74618 (NSR:StopPlace:6045) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56951
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(74618, 56951)
+------------end iteration----------------
+stop place primary id: 72761 (NSR:StopPlace:6057) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56961
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72761, 56961)
+------------end iteration----------------
+stop place primary id: 72773 (NSR:StopPlace:6058) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56971
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72773, 56971)
+------------end iteration----------------
+stop place primary id: 72772 (NSR:StopPlace:6060) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56981
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72772, 56981)
+------------end iteration----------------
+stop place primary id: 72512 (NSR:StopPlace:6083) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 56991
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72512, 56991)
+------------end iteration----------------
+stop place primary id: 75425 (NSR:StopPlace:6086) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57001
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(75425, 57001)
+------------end iteration----------------
+stop place primary id: 75426 (NSR:StopPlace:6089) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57011
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(75426, 57011)
+------------end iteration----------------
+stop place primary id: 72495 (NSR:StopPlace:6093) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57021
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72495, 57021)
+------------end iteration----------------
+stop place primary id: 72499 (NSR:StopPlace:6095) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57031
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72499, 57031)
+------------end iteration----------------
+stop place primary id: 72501 (NSR:StopPlace:6097) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57041
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72501, 57041)
+------------end iteration----------------
+stop place primary id: 72527 (NSR:StopPlace:6125) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57051
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72527, 57051)
+------------end iteration----------------
+stop place primary id: 72528 (NSR:StopPlace:6128) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57061
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72528, 57061)
+------------end iteration----------------
+stop place primary id: 72525 (NSR:StopPlace:6130) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57071
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72525, 57071)
+------------end iteration----------------
+stop place primary id: 72524 (NSR:StopPlace:6134) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57081
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72524, 57081)
+------------end iteration----------------
+stop place primary id: 71181 (NSR:StopPlace:6140) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57091
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(71181, 57091)
+------------end iteration----------------
+stop place primary id: 71180 (NSR:StopPlace:6142) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57101
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(71180, 57101)
+------------end iteration----------------
+stop place primary id: 72385 (NSR:StopPlace:6149) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57111
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72385, 57111)
+------------end iteration----------------
+stop place primary id: 72386 (NSR:StopPlace:6166) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57121
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72386, 57121)
+------------end iteration----------------
+stop place primary id: 72177 (NSR:StopPlace:6180) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57131
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72177, 57131)
+------------end iteration----------------
+stop place primary id: 72178 (NSR:StopPlace:6182) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57141
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72178, 57141)
+------------end iteration----------------
+stop place primary id: 72522 (NSR:StopPlace:62009) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57151
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72522, 57151)
+------------end iteration----------------
+stop place primary id: 72498 (NSR:StopPlace:62010) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57161
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72498, 57161)
+------------end iteration----------------
+stop place primary id: 72496 (NSR:StopPlace:62011) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57171
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72496, 57171)
+------------end iteration----------------
+stop place primary id: 72511 (NSR:StopPlace:62012) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57181
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72511, 57181)
+------------end iteration----------------
+stop place primary id: 71191 (NSR:StopPlace:62014) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57191
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(71191, 57191)
+------------end iteration----------------
+stop place primary id: 72353 (NSR:StopPlace:62015) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57201
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72353, 57201)
+------------end iteration----------------
+stop place primary id: 72461 (NSR:StopPlace:62016) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57211
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72461, 57211)
+------------end iteration----------------
+stop place primary id: 72459 (NSR:StopPlace:62017) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57221
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72459, 57221)
+------------end iteration----------------
+stop place primary id: 72470 (NSR:StopPlace:62018) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57231
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72470, 57231)
+------------end iteration----------------
+stop place primary id: 72462 (NSR:StopPlace:62019) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57241
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72462, 57241)
+------------end iteration----------------
+stop place primary id: 72955 (NSR:StopPlace:62020) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57251
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72955, 57251)
+------------end iteration----------------
+stop place primary id: 74995 (NSR:StopPlace:62021) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57261
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(74995, 57261)
+------------end iteration----------------
+stop place primary id: 72365 (NSR:StopPlace:62022) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57271
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72365, 57271)
+------------end iteration----------------
+stop place primary id: 72941 (NSR:StopPlace:62023) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57281
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72941, 57281)
+------------end iteration----------------
+stop place primary id: 72367 (NSR:StopPlace:62024) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57291
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72367, 57291)
+------------end iteration----------------
+stop place primary id: 74674 (NSR:StopPlace:62025) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57301
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(74674, 57301)
+------------end iteration----------------
+stop place primary id: 71150 (NSR:StopPlace:62028) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57311
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(71150, 57311)
+------------end iteration----------------
+stop place primary id: 72348 (NSR:StopPlace:62029) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57321
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72348, 57321)
+------------end iteration----------------
+stop place primary id: 74612 (NSR:StopPlace:62030) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57331
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(74612, 57331)
+------------end iteration----------------
+stop place primary id: 72345 (NSR:StopPlace:62031) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57341
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72345, 57341)
+------------end iteration----------------
+stop place primary id: 74646 (NSR:StopPlace:62032) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57351
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(74646, 57351)
+------------end iteration----------------
+stop place primary id: 72936 (NSR:StopPlace:62034) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57361
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72936, 57361)
+------------end iteration----------------
+stop place primary id: 74616 (NSR:StopPlace:62036) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57371
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(74616, 57371)
+------------end iteration----------------
+stop place primary id: 72356 (NSR:StopPlace:62037) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57381
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72356, 57381)
+------------end iteration----------------
+stop place primary id: 72373 (NSR:StopPlace:62038) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57391
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72373, 57391)
+------------end iteration----------------
+stop place primary id: 72878 (NSR:StopPlace:62039) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57401
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72878, 57401)
+------------end iteration----------------
+stop place primary id: 72407 (NSR:StopPlace:6236) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57411
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72407, 57411)
+------------end iteration----------------
+stop place primary id: 72408 (NSR:StopPlace:6238) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57421
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72408, 57421)
+------------end iteration----------------
+stop place primary id: 72405 (NSR:StopPlace:6245) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57431
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72405, 57431)
+------------end iteration----------------
+stop place primary id: 72404 (NSR:StopPlace:6248) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57441
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72404, 57441)
+------------end iteration----------------
+stop place primary id: 72465 (NSR:StopPlace:6253) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57451
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72465, 57451)
+------------end iteration----------------
+stop place primary id: 72372 (NSR:StopPlace:6256) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57461
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72372, 57461)
+------------end iteration----------------
+stop place primary id: 74615 (NSR:StopPlace:6258) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57471
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(74615, 57471)
+------------end iteration----------------
+stop place primary id: 72877 (NSR:StopPlace:6263) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57481
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72877, 57481)
+------------end iteration----------------
+stop place primary id: 72938 (NSR:StopPlace:6264) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57491
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72938, 57491)
+------------end iteration----------------
+stop place primary id: 72357 (NSR:StopPlace:6265) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57501
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72357, 57501)
+------------end iteration----------------
+stop place primary id: 72939 (NSR:StopPlace:6266) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57511
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72939, 57511)
+------------end iteration----------------
+stop place primary id: 72359 (NSR:StopPlace:6267) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57521
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72359, 57521)
+------------end iteration----------------
+stop place primary id: 72402 (NSR:StopPlace:6268) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57531
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72402, 57531)
+------------end iteration----------------
+stop place primary id: 72360 (NSR:StopPlace:6269) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57541
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72360, 57541)
+------------end iteration----------------
+stop place primary id: 72391 (NSR:StopPlace:6271) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57551
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72391, 57551)
+------------end iteration----------------
+stop place primary id: 72381 (NSR:StopPlace:6273) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57561
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72381, 57561)
+------------end iteration----------------
+stop place primary id: 72392 (NSR:StopPlace:6275) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57571
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72392, 57571)
+------------end iteration----------------
+stop place primary id: 72376 (NSR:StopPlace:6303) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57581
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72376, 57581)
+------------end iteration----------------
+stop place primary id: 72375 (NSR:StopPlace:6307) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57591
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72375, 57591)
+------------end iteration----------------
+stop place primary id: 72379 (NSR:StopPlace:6311) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57601
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72379, 57601)
+------------end iteration----------------
+stop place primary id: 72378 (NSR:StopPlace:6315) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57611
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72378, 57611)
+------------end iteration----------------
+stop place primary id: 72382 (NSR:StopPlace:6323) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57621
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72382, 57621)
+------------end iteration----------------
+stop place primary id: 72383 (NSR:StopPlace:6327) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57631
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72383, 57631)
+------------end iteration----------------
+stop place primary id: 72389 (NSR:StopPlace:6330) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57641
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72389, 57641)
+------------end iteration----------------
+stop place primary id: 72388 (NSR:StopPlace:6333) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57651
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72388, 57651)
+------------end iteration----------------
+stop place primary id: 72394 (NSR:StopPlace:6336) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57661
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72394, 57661)
+------------end iteration----------------
+stop place primary id: 72395 (NSR:StopPlace:6338) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57671
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72395, 57671)
+------------end iteration----------------
+stop place primary id: 72398 (NSR:StopPlace:6360) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57681
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72398, 57681)
+------------end iteration----------------
+stop place primary id: 72397 (NSR:StopPlace:6362) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57691
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72397, 57691)
+------------end iteration----------------
+stop place primary id: 72362 (NSR:StopPlace:6382) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57701
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72362, 57701)
+------------end iteration----------------
+stop place primary id: 72341 (NSR:StopPlace:6384) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57711
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72341, 57711)
+------------end iteration----------------
+stop place primary id: 71069 (NSR:StopPlace:6394) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57721
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(71069, 57721)
+------------end iteration----------------
+stop place primary id: 71068 (NSR:StopPlace:6398) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57731
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(71068, 57731)
+------------end iteration----------------
+stop place primary id: 72484 (NSR:StopPlace:64016) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57741
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72484, 57741)
+------------end iteration----------------
+stop place primary id: 71190 (NSR:StopPlace:6405) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57751
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(71190, 57751)
+------------end iteration----------------
+stop place primary id: 72331 (NSR:StopPlace:6423) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57761
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72331, 57761)
+------------end iteration----------------
+stop place primary id: 72342 (NSR:StopPlace:6426) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57771
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72342, 57771)
+------------end iteration----------------
+stop place primary id: 72368 (NSR:StopPlace:6430) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57781
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72368, 57781)
+------------end iteration----------------
+stop place primary id: 72364 (NSR:StopPlace:6433) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57791
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72364, 57791)
+------------end iteration----------------
+stop place primary id: 72446 (NSR:StopPlace:6439) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57801
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72446, 57801)
+------------end iteration----------------
+stop place primary id: 72445 (NSR:StopPlace:6441) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57811
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72445, 57811)
+------------end iteration----------------
+stop place primary id: 72916 (NSR:StopPlace:6442) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57821
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72916, 57821)
+------------end iteration----------------
+stop place primary id: 72448 (NSR:StopPlace:6443) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57831
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72448, 57831)
+------------end iteration----------------
+stop place primary id: 72917 (NSR:StopPlace:6444) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57841
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72917, 57841)
+------------end iteration----------------
+stop place primary id: 72449 (NSR:StopPlace:6445) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57851
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72449, 57851)
+------------end iteration----------------
+stop place primary id: 72452 (NSR:StopPlace:6448) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57861
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72452, 57861)
+------------end iteration----------------
+stop place primary id: 72453 (NSR:StopPlace:6450) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57871
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72453, 57871)
+------------end iteration----------------
+stop place primary id: 72354 (NSR:StopPlace:6456) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57881
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72354, 57881)
+------------end iteration----------------
+stop place primary id: 72344 (NSR:StopPlace:6459) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57891
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72344, 57891)
+------------end iteration----------------
+stop place primary id: 72347 (NSR:StopPlace:6462) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57901
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72347, 57901)
+------------end iteration----------------
+stop place primary id: 71151 (NSR:StopPlace:6464) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57911
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(71151, 57911)
+------------end iteration----------------
+stop place primary id: 72439 (NSR:StopPlace:6474) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57921
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72439, 57921)
+------------end iteration----------------
+stop place primary id: 72440 (NSR:StopPlace:6477) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57931
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72440, 57931)
+------------end iteration----------------
+stop place primary id: 72410 (NSR:StopPlace:6490) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57941
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72410, 57941)
+------------end iteration----------------
+stop place primary id: 72411 (NSR:StopPlace:6492) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57951
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72411, 57951)
+------------end iteration----------------
+stop place primary id: 72414 (NSR:StopPlace:6496) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57961
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72414, 57961)
+------------end iteration----------------
+stop place primary id: 72413 (NSR:StopPlace:6499) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57971
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72413, 57971)
+------------end iteration----------------
+stop place primary id: 72471 (NSR:StopPlace:6500) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57981
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72471, 57981)
+------------end iteration----------------
+stop place primary id: 72482 (NSR:StopPlace:6512) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 57991
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72482, 57991)
+------------end iteration----------------
+stop place primary id: 72419 (NSR:StopPlace:6515) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 58001
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72419, 58001)
+------------end iteration----------------
+stop place primary id: 72420 (NSR:StopPlace:6517) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 58011
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72420, 58011)
+------------end iteration----------------
+stop place primary id: 72432 (NSR:StopPlace:6521) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 58021
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72432, 58021)
+------------end iteration----------------
+stop place primary id: 72458 (NSR:StopPlace:6522) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 58031
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72458, 58031)
+------------end iteration----------------
+stop place primary id: 72433 (NSR:StopPlace:6523) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 58041
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72433, 58041)
+------------end iteration----------------
+stop place primary id: 72485 (NSR:StopPlace:6535) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 58051
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72485, 58051)
+------------end iteration----------------
+stop place primary id: 72487 (NSR:StopPlace:6573) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 58061
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72487, 58061)
+------------end iteration----------------
+stop place primary id: 72488 (NSR:StopPlace:6576) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 58071
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72488, 58071)
+------------end iteration----------------
+stop place primary id: 72473 (NSR:StopPlace:6598) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 58081
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72473, 58081)
+------------end iteration----------------
+stop place primary id: 72474 (NSR:StopPlace:6600) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 58091
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72474, 58091)
+------------end iteration----------------
+stop place primary id: 72477 (NSR:StopPlace:6618) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 58101
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72477, 58101)
+------------end iteration----------------
+stop place primary id: 72476 (NSR:StopPlace:6621) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 58111
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72476, 58111)
+------------end iteration----------------
+stop place primary id: 72319 (NSR:StopPlace:6653) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 58121
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72319, 58121)
+------------end iteration----------------
+stop place primary id: 72318 (NSR:StopPlace:6654) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 58131
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72318, 58131)
+------------end iteration----------------
+stop place primary id: 72332 (NSR:StopPlace:6657) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 58141
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72332, 58141)
+------------end iteration----------------
+stop place primary id: 72333 (NSR:StopPlace:6658) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 58151
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72333, 58151)
+------------end iteration----------------
+stop place primary id: 72480 (NSR:StopPlace:6668) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 58161
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72480, 58161)
+------------end iteration----------------
+stop place primary id: 72479 (NSR:StopPlace:6670) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 58171
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72479, 58171)
+------------end iteration----------------
+stop place primary id: 72492 (NSR:StopPlace:6671) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 58181
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72492, 58181)
+------------end iteration----------------
+stop place primary id: 72493 (NSR:StopPlace:6672) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 58191
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72493, 58191)
+------------end iteration----------------
+stop place primary id: 72502 (NSR:StopPlace:6676) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 58201
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72502, 58201)
+------------end iteration----------------
+stop place primary id: 72503 (NSR:StopPlace:6679) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 58211
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72503, 58211)
+------------end iteration----------------
+stop place primary id: 72506 (NSR:StopPlace:6684) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 58221
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72506, 58221)
+------------end iteration----------------
+stop place primary id: 72505 (NSR:StopPlace:6685) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 58231
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72505, 58231)
+------------end iteration----------------
+stop place primary id: 72508 (NSR:StopPlace:6694) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 58241
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72508, 58241)
+------------end iteration----------------
+stop place primary id: 72509 (NSR:StopPlace:6695) should have a reference to tariff zone with netex_id: RUT:TariffZone:1
+insert into tariff_zone_ref(id, ref) values(nextval('tariff_zone_ref_seq'), 'RUT:TariffZone:1') returning id
+Got tariff zone ref id: 58251
+insert into stop_place_tariff_zones(stop_place_id, tariff_zones_id) values(72509, 58251)
+------------end iteration----------------
