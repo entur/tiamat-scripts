@@ -1,5 +1,5 @@
 copy (SELECT s.netex_id,
-          s.name_value,
+          coalesce(s.name_value,p.name_value),
           s.stop_place_type,
           ST_AsGeoJSON(s.centroid, 6)
    FROM stop_place s
