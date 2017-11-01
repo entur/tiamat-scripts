@@ -50,8 +50,8 @@
     </PublicationDelivery>
   </xsl:template>
 
-  <xsl:template match="/kml:MultiGeometry/kml:Polygon/kml:outerBoundaryIs" name="polygon">
-    <xsl:for-each select="//kml:LinearRing/kml:coordinates">
+  <xsl:template match="/kml:MultiGeometry/kml:Polygon/kml:outerBoundaryIs/kml:LinearRing/kml:coordinates" name="polygon">
+    <xsl:for-each select="kml:MultiGeometry/kml:Polygon/kml:outerBoundaryIs/kml:LinearRing/kml:coordinates">
       <xsl:value-of disable-output-escaping="yes" select="fn:replace(., '(\d+\.\d+),(\d+\.\d+),0\s?', '$2 $1 ')"/>
     </xsl:for-each>
   </xsl:template>
