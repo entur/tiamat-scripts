@@ -8,6 +8,12 @@
    <Description>Takstsonene</Description>
    <dataObjects>
       <SiteFrame version="1" id="RUT:SiteFrame:1">
+        <FrameDefaults>
+       <DefaultLocale>
+         <TimeZone>Europe/Oslo</TimeZone>
+         <DefaultLanguage>no</DefaultLanguage>
+       </DefaultLocale>
+     </FrameDefaults>
          <tariffZones>
             <TariffZone version="1" id="RUT:TariffZone:1">
                <Name>1</Name>
