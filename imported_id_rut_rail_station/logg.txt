@@ -1,0 +1,2513 @@
+Tiamat proxy pod: tiamatdb-proxy-386997631-3cs0k
+parsed: rutId: 3012050, nsrId: NSR:StopPlace:385
+got keyvalid 6763, stopplaceid: 172
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:3012050
+insert into value_items (value_id, items) values(6763, 'RUT:StopPlace:3012050')
+
+---------------- iteration ----------------
+parsed: rutId: 4381072, nsrId: NSR:StopPlace:392
+got keyvalid 668084, stopplaceid: 71667
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:4381072
+insert into value_items (value_id, items) values(668084, 'RUT:StopPlace:4381072')
+
+---------------- iteration ----------------
+parsed: rutId: 9061460, nsrId: NSR:StopPlace:380
+got keyvalid 315002, stopplaceid: 67457
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:9061460
+insert into value_items (value_id, items) values(315002, 'RUT:StopPlace:9061460')
+
+---------------- iteration ----------------
+parsed: rutId: 12013420, nsrId: NSR:StopPlace:398
+got keyvalid 668124, stopplaceid: 71668
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:12013420
+insert into value_items (value_id, items) values(668124, 'RUT:StopPlace:12013420')
+
+---------------- iteration ----------------
+parsed: rutId: 2200500, nsrId: NSR:StopPlace:418
+got keyvalid 657491, stopplaceid: 71214
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:2200500
+insert into value_items (value_id, items) values(657491, 'RUT:StopPlace:2200500')
+
+---------------- iteration ----------------
+parsed: rutId: 1240700, nsrId: NSR:StopPlace:412
+got keyvalid 612912, stopplaceid: 70707
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:1240700
+insert into value_items (value_id, items) values(612912, 'RUT:StopPlace:1240700')
+
+---------------- iteration ----------------
+parsed: rutId: 4301435, nsrId: NSR:StopPlace:427
+got keyvalid 6860, stopplaceid: 182
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:4301435
+insert into value_items (value_id, items) values(6860, 'RUT:StopPlace:4301435')
+
+---------------- iteration ----------------
+parsed: rutId: 10271800, nsrId: NSR:StopPlace:434
+got keyvalid 334332, stopplaceid: 68197
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:10271800
+insert into value_items (value_id, items) values(334332, 'RUT:StopPlace:10271800')
+
+---------------- iteration ----------------
+parsed: rutId: 2360000, nsrId: NSR:StopPlace:441
+got keyvalid 295891, stopplaceid: 66134
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:2360000
+insert into value_items (value_id, items) values(295891, 'RUT:StopPlace:2360000')
+
+---------------- iteration ----------------
+parsed: rutId: 4371030, nsrId: NSR:StopPlace:447
+got keyvalid 298653, stopplaceid: 66431
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:4371030
+insert into value_items (value_id, items) values(298653, 'RUT:StopPlace:4371030')
+
+---------------- iteration ----------------
+parsed: rutId: 4381411, nsrId: NSR:StopPlace:500
+got keyvalid 7530, stopplaceid: 248
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:4381411
+insert into value_items (value_id, items) values(7530, 'RUT:StopPlace:4381411')
+
+---------------- iteration ----------------
+parsed: rutId: 12013510, nsrId: NSR:StopPlace:548
+got keyvalid 299991, stopplaceid: 66590
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:12013510
+insert into value_items (value_id, items) values(299991, 'RUT:StopPlace:12013510')
+
+---------------- iteration ----------------
+parsed: rutId: 17213072, nsrId: NSR:StopPlace:453
+got keyvalid 6934, stopplaceid: 190
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:17213072
+insert into value_items (value_id, items) values(6934, 'RUT:StopPlace:17213072')
+
+---------------- iteration ----------------
+parsed: rutId: 16351100, nsrId: NSR:StopPlace:602
+got keyvalid 297856, stopplaceid: 66373
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:16351100
+insert into value_items (value_id, items) values(297856, 'RUT:StopPlace:16351100')
+
+---------------- iteration ----------------
+parsed: rutId: 2200100, nsrId: NSR:StopPlace:577
+got keyvalid 258630, stopplaceid: 64408
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:2200100
+insert into value_items (value_id, items) values(258630, 'RUT:StopPlace:2200100')
+
+---------------- iteration ----------------
+parsed: rutId: 18323610, nsrId: NSR:StopPlace:460
+got keyvalid 685802, stopplaceid: 71790
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:18323610
+insert into value_items (value_id, items) values(685802, 'RUT:StopPlace:18323610')
+
+---------------- iteration ----------------
+parsed: rutId: 5128050, nsrId: NSR:StopPlace:467
+got keyvalid 668313, stopplaceid: 71690
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:5128050
+insert into value_items (value_id, items) values(668313, 'RUT:StopPlace:5128050')
+
+---------------- iteration ----------------
+parsed: rutId: 2260200, nsrId: NSR:StopPlace:487
+got keyvalid 668326, stopplaceid: 71691
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:2260200
+insert into value_items (value_id, items) values(668326, 'RUT:StopPlace:2260200')
+
+---------------- iteration ----------------
+parsed: rutId: 9191410, nsrId: NSR:StopPlace:472
+got keyvalid 301032, stopplaceid: 67114
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:9191410
+insert into value_items (value_id, items) values(301032, 'RUT:StopPlace:9191410')
+
+---------------- iteration ----------------
+parsed: rutId: 5349221, nsrId: NSR:StopPlace:478
+got keyvalid 290923, stopplaceid: 65782
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:5349221
+insert into value_items (value_id, items) values(290923, 'RUT:StopPlace:5349221')
+
+---------------- iteration ----------------
+parsed: rutId: 2190300, nsrId: NSR:StopPlace:493
+got keyvalid 262007, stopplaceid: 64523
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:2190300
+insert into value_items (value_id, items) values(262007, 'RUT:StopPlace:2190300')
+
+---------------- iteration ----------------
+parsed: rutId: 2360710, nsrId: NSR:StopPlace:512
+got keyvalid 295931, stopplaceid: 66141
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:2360710
+insert into value_items (value_id, items) values(295931, 'RUT:StopPlace:2360710')
+
+---------------- iteration ----------------
+parsed: rutId: 18043880, nsrId: NSR:StopPlace:507
+got keyvalid 7539, stopplaceid: 249
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:18043880
+insert into value_items (value_id, items) values(7539, 'RUT:StopPlace:18043880')
+
+---------------- iteration ----------------
+parsed: rutId: 12353340, nsrId: NSR:StopPlace:518
+got keyvalid 299685, stopplaceid: 66546
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:12353340
+insert into value_items (value_id, items) values(299685, 'RUT:StopPlace:12353340')
+
+---------------- iteration ----------------
+parsed: rutId: 2200600, nsrId: NSR:StopPlace:523
+got keyvalid 268194, stopplaceid: 64924
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:2200600
+insert into value_items (value_id, items) values(268194, 'RUT:StopPlace:2200600')
+
+---------------- iteration ----------------
+parsed: rutId: 6029020, nsrId: NSR:StopPlace:536
+got keyvalid 258840, stopplaceid: 64428
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:6029020
+insert into value_items (value_id, items) values(258840, 'RUT:StopPlace:6029020')
+
+---------------- iteration ----------------
+parsed: rutId: 10211760, nsrId: NSR:StopPlace:555
+got keyvalid 668432, stopplaceid: 71698
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:10211760
+insert into value_items (value_id, items) values(668432, 'RUT:StopPlace:10211760')
+
+---------------- iteration ----------------
+parsed: rutId: 4127160, nsrId: NSR:StopPlace:542
+got keyvalid 668377, stopplaceid: 71678
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:4127160
+insert into value_items (value_id, items) values(668377, 'RUT:StopPlace:4127160')
+
+---------------- iteration ----------------
+parsed: rutId: 11192180, nsrId: NSR:StopPlace:561
+got keyvalid 534421, stopplaceid: 70213
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:11192180
+insert into value_items (value_id, items) values(534421, 'RUT:StopPlace:11192180')
+
+---------------- iteration ----------------
+parsed: rutId: 3011460, nsrId: NSR:StopPlace:529
+got keyvalid 295621, stopplaceid: 66082
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:3011460
+insert into value_items (value_id, items) values(295621, 'RUT:StopPlace:3011460')
+
+---------------- iteration ----------------
+parsed: rutId: 11212230, nsrId: NSR:StopPlace:568
+got keyvalid 534437, stopplaceid: 70210
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:11212230
+insert into value_items (value_id, items) values(534437, 'RUT:StopPlace:11212230')
+
+---------------- iteration ----------------
+parsed: rutId: 9061440, nsrId: NSR:StopPlace:608
+got keyvalid 314725, stopplaceid: 67383
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:9061440
+insert into value_items (value_id, items) values(314725, 'RUT:StopPlace:9061440')
+
+---------------- iteration ----------------
+parsed: rutId: 12353310, nsrId: NSR:StopPlace:584
+got keyvalid 299595, stopplaceid: 66533
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:12353310
+insert into value_items (value_id, items) values(299595, 'RUT:StopPlace:12353310')
+
+---------------- iteration ----------------
+parsed: rutId: 8219170, nsrId: NSR:StopPlace:590
+got keyvalid 334736, stopplaceid: 68259
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:8219170
+insert into value_items (value_id, items) values(334736, 'RUT:StopPlace:8219170')
+
+---------------- iteration ----------------
+parsed: rutId: 9191390, nsrId: NSR:StopPlace:597
+got keyvalid 300918, stopplaceid: 66773
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:9191390
+insert into value_items (value_id, items) values(300918, 'RUT:StopPlace:9191390')
+
+---------------- iteration ----------------
+parsed: rutId: 2370600, nsrId: NSR:StopPlace:621
+got keyvalid 296487, stopplaceid: 66211
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:2370600
+insert into value_items (value_id, items) values(296487, 'RUT:StopPlace:2370600')
+
+---------------- iteration ----------------
+parsed: rutId: 12513350, nsrId: NSR:StopPlace:639
+got keyvalid 299700, stopplaceid: 66548
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:12513350
+insert into value_items (value_id, items) values(299700, 'RUT:StopPlace:12513350')
+
+---------------- iteration ----------------
+parsed: rutId: 6246280, nsrId: NSR:StopPlace:628
+got keyvalid 482963, stopplaceid: 69997
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:6246280
+insert into value_items (value_id, items) values(482963, 'RUT:StopPlace:6246280')
+
+---------------- iteration ----------------
+parsed: rutId: 5110230, nsrId: NSR:StopPlace:645
+got keyvalid 296990, stopplaceid: 66275
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:5110230
+insert into value_items (value_id, items) values(296990, 'RUT:StopPlace:5110230')
+
+---------------- iteration ----------------
+parsed: rutId: 5110104, nsrId: NSR:StopPlace:652
+got keyvalid 296935, stopplaceid: 66262
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:5110104
+insert into value_items (value_id, items) values(296935, 'RUT:StopPlace:5110104')
+
+---------------- iteration ----------------
+parsed: rutId: 6021000, nsrId: NSR:StopPlace:11
+got keyvalid 657517, stopplaceid: 71215
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:6021000
+insert into value_items (value_id, items) values(657517, 'RUT:StopPlace:6021000')
+
+---------------- iteration ----------------
+parsed: rutId: 8179100, nsrId: NSR:StopPlace:1
+got keyvalid 300214, stopplaceid: 66620
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:8179100
+insert into value_items (value_id, items) values(300214, 'RUT:StopPlace:8179100')
+
+---------------- iteration ----------------
+parsed: rutId: 18243570, nsrId: NSR:StopPlace:44
+got keyvalid 668267, stopplaceid: 71675
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:18243570
+insert into value_items (value_id, items) values(668267, 'RUT:StopPlace:18243570')
+
+---------------- iteration ----------------
+parsed: rutId: 18333700, nsrId: NSR:StopPlace:25
+got keyvalid 5157, stopplaceid: 11
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:18333700
+insert into value_items (value_id, items) values(5157, 'RUT:StopPlace:18333700')
+
+---------------- iteration ----------------
+parsed: rutId: 11012120, nsrId: NSR:StopPlace:82
+got keyvalid 534294, stopplaceid: 70205
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:11012120
+insert into value_items (value_id, items) values(534294, 'RUT:StopPlace:11012120')
+
+---------------- iteration ----------------
+parsed: rutId: 1255370, nsrId: NSR:StopPlace:63
+got keyvalid 294918, stopplaceid: 65997
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:1255370
+insert into value_items (value_id, items) values(294918, 'RUT:StopPlace:1255370')
+
+---------------- iteration ----------------
+parsed: rutId: 2370300, nsrId: NSR:StopPlace:159
+got keyvalid 296572, stopplaceid: 66216
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:2370300
+insert into value_items (value_id, items) values(296572, 'RUT:StopPlace:2370300')
+
+---------------- iteration ----------------
+parsed: rutId: 2370430, nsrId: NSR:StopPlace:166
+got keyvalid 296504, stopplaceid: 66212
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:2370430
+insert into value_items (value_id, items) values(296504, 'RUT:StopPlace:2370430')
+
+---------------- iteration ----------------
+parsed: rutId: 7095210, nsrId: NSR:StopPlace:92
+got keyvalid 5449, stopplaceid: 38
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:7095210
+insert into value_items (value_id, items) values(5449, 'RUT:StopPlace:7095210')
+
+---------------- iteration ----------------
+parsed: rutId: 5299502, nsrId: NSR:StopPlace:105
+got keyvalid 290952, stopplaceid: 65785
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:5299502
+insert into value_items (value_id, items) values(290952, 'RUT:StopPlace:5299502')
+
+---------------- iteration ----------------
+parsed: rutId: 4279001, nsrId: NSR:StopPlace:117
+got keyvalid 298429, stopplaceid: 66417
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:4279001
+insert into value_items (value_id, items) values(298429, 'RUT:StopPlace:4279001')
+
+---------------- iteration ----------------
+parsed: rutId: 12353330, nsrId: NSR:StopPlace:151
+got keyvalid 299638, stopplaceid: 66543
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:12353330
+insert into value_items (value_id, items) values(299638, 'RUT:StopPlace:12353330')
+
+---------------- iteration ----------------
+parsed: rutId: 4301487, nsrId: NSR:StopPlace:143
+got keyvalid 298580, stopplaceid: 66425
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:4301487
+insert into value_items (value_id, items) values(298580, 'RUT:StopPlace:4301487')
+
+---------------- iteration ----------------
+parsed: rutId: 18413850, nsrId: NSR:StopPlace:176
+got keyvalid 761305, stopplaceid: 76054
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:18413850
+insert into value_items (value_id, items) values(761305, 'RUT:StopPlace:18413850')
+
+---------------- iteration ----------------
+parsed: rutId: 2270100, nsrId: NSR:StopPlace:186
+got keyvalid 295794, stopplaceid: 66122
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:2270100
+insert into value_items (value_id, items) values(295794, 'RUT:StopPlace:2270100')
+
+---------------- iteration ----------------
+parsed: rutId: 12333220, nsrId: NSR:StopPlace:200
+got keyvalid 299170, stopplaceid: 66467
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:12333220
+insert into value_items (value_id, items) values(299170, 'RUT:StopPlace:12333220')
+
+---------------- iteration ----------------
+parsed: rutId: 2300200, nsrId: NSR:StopPlace:208
+got keyvalid 295607, stopplaceid: 66081
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:2300200
+insert into value_items (value_id, items) values(295607, 'RUT:StopPlace:2300200')
+
+---------------- iteration ----------------
+parsed: rutId: 9291362, nsrId: NSR:StopPlace:216
+got keyvalid 5915, stopplaceid: 89
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:9291362
+insert into value_items (value_id, items) values(5915, 'RUT:StopPlace:9291362')
+
+---------------- iteration ----------------
+parsed: rutId: 6153070, nsrId: NSR:StopPlace:223
+got keyvalid 667735, stopplaceid: 71621
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:6153070
+insert into value_items (value_id, items) values(667735, 'RUT:StopPlace:6153070')
+
+---------------- iteration ----------------
+parsed: rutId: 1065220, nsrId: NSR:StopPlace:239
+got keyvalid 295205, stopplaceid: 66032
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:1065220
+insert into value_items (value_id, items) values(295205, 'RUT:StopPlace:1065220')
+
+---------------- iteration ----------------
+parsed: rutId: 2260060, nsrId: NSR:StopPlace:255
+got keyvalid 595946, stopplaceid: 70718
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:2260060
+insert into value_items (value_id, items) values(595946, 'RUT:StopPlace:2260060')
+
+---------------- iteration ----------------
+parsed: rutId: 9191400, nsrId: NSR:StopPlace:247
+got keyvalid 300985, stopplaceid: 66787
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:9191400
+insert into value_items (value_id, items) values(300985, 'RUT:StopPlace:9191400')
+
+---------------- iteration ----------------
+parsed: rutId: 11022250, nsrId: NSR:StopPlace:261
+got keyvalid 534346, stopplaceid: 70206
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:11022250
+insert into value_items (value_id, items) values(534346, 'RUT:StopPlace:11022250')
+
+---------------- iteration ----------------
+parsed: rutId: 6203190, nsrId: NSR:StopPlace:318
+got keyvalid 299093, stopplaceid: 66459
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:6203190
+insert into value_items (value_id, items) values(299093, 'RUT:StopPlace:6203190')
+
+---------------- iteration ----------------
+parsed: rutId: 12353292, nsrId: NSR:StopPlace:311
+got keyvalid 299546, stopplaceid: 66530
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:12353292
+insert into value_items (value_id, items) values(299546, 'RUT:StopPlace:12353292')
+
+---------------- iteration ----------------
+parsed: rutId: 9111070, nsrId: NSR:StopPlace:296
+got keyvalid 300526, stopplaceid: 66670
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:9111070
+insert into value_items (value_id, items) values(300526, 'RUT:StopPlace:9111070')
+
+---------------- iteration ----------------
+parsed: rutId: 5029403, nsrId: NSR:StopPlace:302
+got keyvalid 667945, stopplaceid: 71653
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:5029403
+insert into value_items (value_id, items) values(667945, 'RUT:StopPlace:5029403')
+
+---------------- iteration ----------------
+parsed: rutId: 16400080, nsrId: NSR:StopPlace:331
+got keyvalid 298788, stopplaceid: 66438
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:16400080
+insert into value_items (value_id, items) values(298788, 'RUT:StopPlace:16400080')
+
+---------------- iteration ----------------
+parsed: rutId: 6173150, nsrId: NSR:StopPlace:324
+got keyvalid 298999, stopplaceid: 66454
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:6173150
+insert into value_items (value_id, items) values(298999, 'RUT:StopPlace:6173150')
+
+---------------- iteration ----------------
+parsed: rutId: 5349503, nsrId: NSR:StopPlace:338
+got keyvalid 290731, stopplaceid: 65757
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:5349503
+insert into value_items (value_id, items) values(290731, 'RUT:StopPlace:5349503')
+
+---------------- iteration ----------------
+parsed: rutId: 3012110, nsrId: NSR:StopPlace:343
+got keyvalid 685899, stopplaceid: 71797
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:3012110
+insert into value_items (value_id, items) values(685899, 'RUT:StopPlace:3012110')
+
+---------------- iteration ----------------
+parsed: rutId: 2170300, nsrId: NSR:StopPlace:6
+got keyvalid 5106, stopplaceid: 5
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:2170300
+insert into value_items (value_id, items) values(5106, 'RUT:StopPlace:2170300')
+
+---------------- iteration ----------------
+parsed: rutId: 17423250, nsrId: NSR:StopPlace:351
+got keyvalid 752653, stopplaceid: 74253
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:17423250
+insert into value_items (value_id, items) values(752653, 'RUT:StopPlace:17423250')
+
+---------------- iteration ----------------
+parsed: rutId: 3011970, nsrId: NSR:StopPlace:359
+got keyvalid 295522, stopplaceid: 66074
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:3011970
+insert into value_items (value_id, items) values(295522, 'RUT:StopPlace:3011970')
+
+---------------- iteration ----------------
+parsed: rutId: 5339208, nsrId: NSR:StopPlace:365
+got keyvalid 290569, stopplaceid: 65727
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:5339208
+insert into value_items (value_id, items) values(290569, 'RUT:StopPlace:5339208')
+
+---------------- iteration ----------------
+parsed: rutId: 17112130, nsrId: NSR:StopPlace:3
+got keyvalid 5056, stopplaceid: 4
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:17112130
+insert into value_items (value_id, items) values(5056, 'RUT:StopPlace:17112130')
+
+---------------- iteration ----------------
+parsed: rutId: 2200700, nsrId: NSR:StopPlace:289
+got keyvalid 258720, stopplaceid: 64414
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:2200700
+insert into value_items (value_id, items) values(258720, 'RUT:StopPlace:2200700')
+
+---------------- iteration ----------------
+parsed: rutId: 6029143, nsrId: NSR:StopPlace:18
+got keyvalid 274631, stopplaceid: 65216
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:6029143
+insert into value_items (value_id, items) values(274631, 'RUT:StopPlace:6029143')
+
+---------------- iteration ----------------
+parsed: rutId: 10041840, nsrId: NSR:StopPlace:29
+got keyvalid 667924, stopplaceid: 71637
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:10041840
+insert into value_items (value_id, items) values(667924, 'RUT:StopPlace:10041840')
+
+---------------- iteration ----------------
+parsed: rutId: 2360100, nsrId: NSR:StopPlace:51
+got keyvalid 668340, stopplaceid: 71692
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:2360100
+insert into value_items (value_id, items) values(668340, 'RUT:StopPlace:2360100')
+
+---------------- iteration ----------------
+parsed: rutId: 2330170, nsrId: NSR:StopPlace:61
+got keyvalid 756758, stopplaceid: 75122
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:2330170
+insert into value_items (value_id, items) values(756758, 'RUT:StopPlace:2330170')
+
+---------------- iteration ----------------
+parsed: rutId: 1015460, nsrId: NSR:StopPlace:192
+got keyvalid 295221, stopplaceid: 66034
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:1015460
+insert into value_items (value_id, items) values(295221, 'RUT:StopPlace:1015460')
+
+---------------- iteration ----------------
+parsed: rutId: 12333230, nsrId: NSR:StopPlace:71
+got keyvalid 668515, stopplaceid: 71703
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:12333230
+insert into value_items (value_id, items) values(668515, 'RUT:StopPlace:12333230')
+
+---------------- iteration ----------------
+parsed: rutId: 16440140, nsrId: NSR:StopPlace:116
+got keyvalid 298821, stopplaceid: 66441
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:16440140
+insert into value_items (value_id, items) values(298821, 'RUT:StopPlace:16440140')
+
+---------------- iteration ----------------
+parsed: rutId: 4039100, nsrId: NSR:StopPlace:219
+got keyvalid 296662, stopplaceid: 66221
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:4039100
+insert into value_items (value_id, items) values(296662, 'RUT:StopPlace:4039100')
+
+---------------- iteration ----------------
+parsed: rutId: 2300230, nsrId: NSR:StopPlace:41
+got keyvalid 295593, stopplaceid: 66080
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:2300230
+insert into value_items (value_id, items) values(295593, 'RUT:StopPlace:2300230')
+
+---------------- iteration ----------------
+parsed: rutId: 4321662, nsrId: NSR:StopPlace:81
+got keyvalid 668600, stopplaceid: 71709
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:4321662
+insert into value_items (value_id, items) values(668600, 'RUT:StopPlace:4321662')
+
+---------------- iteration ----------------
+parsed: rutId: 5336100, nsrId: NSR:StopPlace:280
+got keyvalid 290536, stopplaceid: 65723
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:5336100
+insert into value_items (value_id, items) values(290536, 'RUT:StopPlace:5336100')
+
+---------------- iteration ----------------
+parsed: rutId: 17423350, nsrId: NSR:StopPlace:90
+got keyvalid 5389, stopplaceid: 36
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:17423350
+insert into value_items (value_id, items) values(5389, 'RUT:StopPlace:17423350')
+
+---------------- iteration ----------------
+parsed: rutId: 2350030, nsrId: NSR:StopPlace:268
+got keyvalid 296453, stopplaceid: 66209
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:2350030
+insert into value_items (value_id, items) values(296453, 'RUT:StopPlace:2350030')
+
+---------------- iteration ----------------
+parsed: rutId: 6203210, nsrId: NSR:StopPlace:99
+got keyvalid 287411, stopplaceid: 65572
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:6203210
+insert into value_items (value_id, items) values(287411, 'RUT:StopPlace:6203210')
+
+---------------- iteration ----------------
+parsed: rutId: 3011750, nsrId: NSR:StopPlace:167
+got keyvalid 295549, stopplaceid: 66077
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:3011750
+insert into value_items (value_id, items) values(295549, 'RUT:StopPlace:3011750')
+
+---------------- iteration ----------------
+parsed: rutId: 3010910, nsrId: NSR:StopPlace:287
+got keyvalid 293705, stopplaceid: 65823
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:3010910
+insert into value_items (value_id, items) values(293705, 'RUT:StopPlace:3010910')
+
+---------------- iteration ----------------
+parsed: rutId: 2200800, nsrId: NSR:StopPlace:126
+got keyvalid 622574, stopplaceid: 70969
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:2200800
+insert into value_items (value_id, items) values(622574, 'RUT:StopPlace:2200800')
+
+---------------- iteration ----------------
+parsed: rutId: 17142100, nsrId: NSR:StopPlace:253
+got keyvalid 6404, stopplaceid: 136
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:17142100
+insert into value_items (value_id, items) values(6404, 'RUT:StopPlace:17142100')
+
+---------------- iteration ----------------
+parsed: rutId: 1285380, nsrId: NSR:StopPlace:133
+got keyvalid 294932, stopplaceid: 65999
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:1285380
+insert into value_items (value_id, items) values(294932, 'RUT:StopPlace:1285380')
+
+---------------- iteration ----------------
+parsed: rutId: 16011220, nsrId: NSR:StopPlace:210
+got keyvalid 765621, stopplaceid: 77205
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:16011220
+insert into value_items (value_id, items) values(765621, 'RUT:StopPlace:16011220')
+
+---------------- iteration ----------------
+parsed: rutId: 17142080, nsrId: NSR:StopPlace:141
+got keyvalid 5582, stopplaceid: 57
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:17142080
+insert into value_items (value_id, items) values(5582, 'RUT:StopPlace:17142080')
+
+---------------- iteration ----------------
+parsed: rutId: 11012140, nsrId: NSR:StopPlace:149
+got keyvalid 534332, stopplaceid: 70200
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:11012140
+insert into value_items (value_id, items) values(534332, 'RUT:StopPlace:11012140')
+
+---------------- iteration ----------------
+parsed: rutId: 5110217, nsrId: NSR:StopPlace:175
+got keyvalid 667680, stopplaceid: 71617
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:5110217
+insert into value_items (value_id, items) values(667680, 'RUT:StopPlace:5110217')
+
+---------------- iteration ----------------
+parsed: rutId: 6246600, nsrId: NSR:StopPlace:245
+got keyvalid 290411, stopplaceid: 65712
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:6246600
+insert into value_items (value_id, items) values(290411, 'RUT:StopPlace:6246600')
+
+---------------- iteration ----------------
+parsed: rutId: 7025050, nsrId: NSR:StopPlace:259
+got keyvalid 667851, stopplaceid: 71646
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:7025050
+insert into value_items (value_id, items) values(667851, 'RUT:StopPlace:7025050')
+
+---------------- iteration ----------------
+parsed: rutId: 3010920, nsrId: NSR:StopPlace:202
+got keyvalid 293897, stopplaceid: 65850
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:3010920
+insert into value_items (value_id, items) values(293897, 'RUT:StopPlace:3010920')
+
+---------------- iteration ----------------
+parsed: rutId: 16632070, nsrId: NSR:StopPlace:229
+got keyvalid 6328, stopplaceid: 130
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:16632070
+insert into value_items (value_id, items) values(6328, 'RUT:StopPlace:16632070')
+
+---------------- iteration ----------------
+parsed: rutId: 16531150, nsrId: NSR:StopPlace:237
+got keyvalid 667782, stopplaceid: 71631
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:16531150
+insert into value_items (value_id, items) values(667782, 'RUT:StopPlace:16531150')
+
+---------------- iteration ----------------
+parsed: rutId: 5017285, nsrId: NSR:StopPlace:274
+got keyvalid 296730, stopplaceid: 66225
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:5017285
+insert into value_items (value_id, items) values(296730, 'RUT:StopPlace:5017285')
+
+---------------- iteration ----------------
+parsed: rutId: 2200200, nsrId: NSR:StopPlace:295
+got keyvalid 258644, stopplaceid: 64409
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:2200200
+insert into value_items (value_id, items) values(258644, 'RUT:StopPlace:2200200')
+
+---------------- iteration ----------------
+parsed: rutId: 2200400, nsrId: NSR:StopPlace:319
+got keyvalid 587338, stopplaceid: 70668
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:2200400
+insert into value_items (value_id, items) values(587338, 'RUT:StopPlace:2200400')
+
+---------------- iteration ----------------
+parsed: rutId: 6050910, nsrId: NSR:StopPlace:158
+got keyvalid 667631, stopplaceid: 71616
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:6050910
+insert into value_items (value_id, items) values(667631, 'RUT:StopPlace:6050910')
+
+---------------- iteration ----------------
+parsed: rutId: 2190200, nsrId: NSR:StopPlace:303
+got keyvalid 262021, stopplaceid: 64524
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:2190200
+insert into value_items (value_id, items) values(262021, 'RUT:StopPlace:2190200')
+
+---------------- iteration ----------------
+parsed: rutId: 3011660, nsrId: NSR:StopPlace:313
+got keyvalid 295562, stopplaceid: 66078
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:3011660
+insert into value_items (value_id, items) values(295562, 'RUT:StopPlace:3011660')
+
+---------------- iteration ----------------
+parsed: rutId: 4177336, nsrId: NSR:StopPlace:329
+got keyvalid 667972, stopplaceid: 71638
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:4177336
+insert into value_items (value_id, items) values(667972, 'RUT:StopPlace:4177336')
+
+---------------- iteration ----------------
+parsed: rutId: 5349414, nsrId: NSR:StopPlace:336
+got keyvalid 290909, stopplaceid: 65781
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:5349414
+insert into value_items (value_id, items) values(290909, 'RUT:StopPlace:5349414')
+
+---------------- iteration ----------------
+parsed: rutId: 2350200, nsrId: NSR:StopPlace:344
+got keyvalid 296297, stopplaceid: 66199
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:2350200
+insert into value_items (value_id, items) values(296297, 'RUT:StopPlace:2350200')
+
+---------------- iteration ----------------
+parsed: rutId: 17363200, nsrId: NSR:StopPlace:357
+got keyvalid 211797, stopplaceid: 55862
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:17363200
+insert into value_items (value_id, items) values(211797, 'RUT:StopPlace:17363200')
+
+---------------- iteration ----------------
+parsed: rutId: 1040200, nsrId: NSR:StopPlace:513
+got keyvalid 295137, stopplaceid: 66024
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:1040200
+insert into value_items (value_id, items) values(295137, 'RUT:StopPlace:1040200')
+
+---------------- iteration ----------------
+parsed: rutId: 3012160, nsrId: NSR:StopPlace:530
+got keyvalid 274988, stopplaceid: 65252
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:3012160
+insert into value_items (value_id, items) values(274988, 'RUT:StopPlace:3012160')
+
+---------------- iteration ----------------
+parsed: rutId: 7095200, nsrId: NSR:StopPlace:538
+got keyvalid 274364, stopplaceid: 65175
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:7095200
+insert into value_items (value_id, items) values(274364, 'RUT:StopPlace:7095200')
+
+---------------- iteration ----------------
+parsed: rutId: 11207240, nsrId: NSR:StopPlace:543
+got keyvalid 534243, stopplaceid: 70203
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:11207240
+insert into value_items (value_id, items) values(534243, 'RUT:StopPlace:11207240')
+
+---------------- iteration ----------------
+parsed: rutId: 2350005, nsrId: NSR:StopPlace:553
+got keyvalid 296277, stopplaceid: 66198
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:2350005
+insert into value_items (value_id, items) values(296277, 'RUT:StopPlace:2350005')
+
+---------------- iteration ----------------
+parsed: rutId: 12353282, nsrId: NSR:StopPlace:549
+got keyvalid 299521, stopplaceid: 66526
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:12353282
+insert into value_items (value_id, items) values(299521, 'RUT:StopPlace:12353282')
+
+---------------- iteration ----------------
+parsed: rutId: 1380120, nsrId: NSR:StopPlace:560
+got keyvalid 294661, stopplaceid: 65972
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:1380120
+insert into value_items (value_id, items) values(294661, 'RUT:StopPlace:1380120')
+
+---------------- iteration ----------------
+parsed: rutId: 2170100, nsrId: NSR:StopPlace:572
+got keyvalid 293864, stopplaceid: 65846
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:2170100
+insert into value_items (value_id, items) values(293864, 'RUT:StopPlace:2170100')
+
+---------------- iteration ----------------
+parsed: rutId: 6049104, nsrId: NSR:StopPlace:519
+got keyvalid 483035, stopplaceid: 70001
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:6049104
+insert into value_items (value_id, items) values(483035, 'RUT:StopPlace:6049104')
+
+---------------- iteration ----------------
+parsed: rutId: 4020080, nsrId: NSR:StopPlace:635
+got keyvalid 296034, stopplaceid: 66161
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:4020080
+insert into value_items (value_id, items) values(296034, 'RUT:StopPlace:4020080')
+
+---------------- iteration ----------------
+parsed: rutId: 16341030, nsrId: NSR:StopPlace:641
+got keyvalid 668473, stopplaceid: 71700
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:16341030
+insert into value_items (value_id, items) values(668473, 'RUT:StopPlace:16341030')
+
+---------------- iteration ----------------
+parsed: rutId: 4301475, nsrId: NSR:StopPlace:580
+got keyvalid 298602, stopplaceid: 66427
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:4301475
+insert into value_items (value_id, items) values(298602, 'RUT:StopPlace:4301475')
+
+---------------- iteration ----------------
+parsed: rutId: 17112150, nsrId: NSR:StopPlace:592
+got keyvalid 8154, stopplaceid: 312
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:17112150
+insert into value_items (value_id, items) values(8154, 'RUT:StopPlace:17112150')
+
+---------------- iteration ----------------
+parsed: rutId: 16480190, nsrId: NSR:StopPlace:586
+got keyvalid 298871, stopplaceid: 66445
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:16480190
+insert into value_items (value_id, items) values(298871, 'RUT:StopPlace:16480190')
+
+---------------- iteration ----------------
+parsed: rutId: 10011300, nsrId: NSR:StopPlace:609
+got keyvalid 315128, stopplaceid: 67487
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:10011300
+insert into value_items (value_id, items) values(315128, 'RUT:StopPlace:10011300')
+
+---------------- iteration ----------------
+parsed: rutId: 2130400, nsrId: NSR:StopPlace:617
+got keyvalid 294552, stopplaceid: 65963
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:2130400
+insert into value_items (value_id, items) values(294552, 'RUT:StopPlace:2130400')
+
+---------------- iteration ----------------
+parsed: rutId: 5169408, nsrId: NSR:StopPlace:629
+got keyvalid 296821, stopplaceid: 66238
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:5169408
+insert into value_items (value_id, items) values(296821, 'RUT:StopPlace:5169408')
+
+---------------- iteration ----------------
+parsed: rutId: 16531180, nsrId: NSR:StopPlace:369
+got keyvalid 297992, stopplaceid: 66392
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:16531180
+insert into value_items (value_id, items) values(297992, 'RUT:StopPlace:16531180')
+
+---------------- iteration ----------------
+parsed: rutId: 2130500, nsrId: NSR:StopPlace:375
+got keyvalid 294380, stopplaceid: 65936
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:2130500
+insert into value_items (value_id, items) values(294380, 'RUT:StopPlace:2130500')
+
+---------------- iteration ----------------
+parsed: rutId: 16440316, nsrId: NSR:StopPlace:446
+got keyvalid 298834, stopplaceid: 66442
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:16440316
+insert into value_items (value_id, items) values(298834, 'RUT:StopPlace:16440316')
+
+---------------- iteration ----------------
+parsed: rutId: 7095190, nsrId: NSR:StopPlace:506
+got keyvalid 552670, stopplaceid: 70485
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:7095190
+insert into value_items (value_id, items) values(552670, 'RUT:StopPlace:7095190')
+
+---------------- iteration ----------------
+parsed: rutId: 17403370, nsrId: NSR:StopPlace:481
+got keyvalid 749604, stopplaceid: 73167
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:17403370
+insert into value_items (value_id, items) values(749604, 'RUT:StopPlace:17403370')
+
+---------------- iteration ----------------
+parsed: rutId: 16012010, nsrId: NSR:StopPlace:393
+got keyvalid 668103, stopplaceid: 71660
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:16012010
+insert into value_items (value_id, items) values(668103, 'RUT:StopPlace:16012010')
+
+---------------- iteration ----------------
+parsed: rutId: 2310240, nsrId: NSR:StopPlace:475
+got keyvalid 296066, stopplaceid: 66163
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:2310240
+insert into value_items (value_id, items) values(296066, 'RUT:StopPlace:2310240')
+
+---------------- iteration ----------------
+parsed: rutId: 16531170, nsrId: NSR:StopPlace:400
+got keyvalid 297978, stopplaceid: 66391
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:16531170
+insert into value_items (value_id, items) values(297978, 'RUT:StopPlace:16531170')
+
+---------------- iteration ----------------
+parsed: rutId: 16019232, nsrId: NSR:StopPlace:469
+got keyvalid 7398, stopplaceid: 233
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:16019232
+insert into value_items (value_id, items) values(7398, 'RUT:StopPlace:16019232')
+
+---------------- iteration ----------------
+parsed: rutId: 5128010, nsrId: NSR:StopPlace:406
+got keyvalid 668187, stopplaceid: 71671
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:5128010
+insert into value_items (value_id, items) values(668187, 'RUT:StopPlace:5128010')
+
+---------------- iteration ----------------
+parsed: rutId: 5129124, nsrId: NSR:StopPlace:488
+got keyvalid 297653, stopplaceid: 66358
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:5129124
+insert into value_items (value_id, items) values(297653, 'RUT:StopPlace:5129124')
+
+---------------- iteration ----------------
+parsed: rutId: 17193060, nsrId: NSR:StopPlace:413
+got keyvalid 543610, stopplaceid: 70337
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:17193060
+insert into value_items (value_id, items) values(543610, 'RUT:StopPlace:17193060')
+
+---------------- iteration ----------------
+parsed: rutId: 6264170, nsrId: NSR:StopPlace:426
+got keyvalid 258798, stopplaceid: 64422
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:6264170
+insert into value_items (value_id, items) values(258798, 'RUT:StopPlace:6264170')
+
+---------------- iteration ----------------
+parsed: rutId: 16012000, nsrId: NSR:StopPlace:388
+got keyvalid 298891, stopplaceid: 66447
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:16012000
+insert into value_items (value_id, items) values(298891, 'RUT:StopPlace:16012000')
+
+---------------- iteration ----------------
+parsed: rutId: 5019601, nsrId: NSR:StopPlace:420
+got keyvalid 296713, stopplaceid: 66224
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:5019601
+insert into value_items (value_id, items) values(296713, 'RUT:StopPlace:5019601')
+
+---------------- iteration ----------------
+parsed: rutId: 2310300, nsrId: NSR:StopPlace:451
+got keyvalid 657377, stopplaceid: 71209
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:2310300
+insert into value_items (value_id, items) values(657377, 'RUT:StopPlace:2310300')
+
+---------------- iteration ----------------
+parsed: rutId: 2260050, nsrId: NSR:StopPlace:382
+got keyvalid 296105, stopplaceid: 66166
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:2260050
+insert into value_items (value_id, items) values(296105, 'RUT:StopPlace:2260050')
+
+---------------- iteration ----------------
+parsed: rutId: 4030616, nsrId: NSR:StopPlace:382
+got keyvalid 296105, stopplaceid: 66166
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:4030616
+insert into value_items (value_id, items) values(296105, 'RUT:StopPlace:4030616')
+
+---------------- iteration ----------------
+parsed: rutId: 3010820, nsrId: NSR:StopPlace:433
+got keyvalid 293685, stopplaceid: 65820
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:3010820
+insert into value_items (value_id, items) values(293685, 'RUT:StopPlace:3010820')
+
+---------------- iteration ----------------
+parsed: rutId: 12353256, nsrId: NSR:StopPlace:439
+got keyvalid 299434, stopplaceid: 66520
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:12353256
+insert into value_items (value_id, items) values(299434, 'RUT:StopPlace:12353256')
+
+---------------- iteration ----------------
+parsed: rutId: 16531160, nsrId: NSR:StopPlace:461
+got keyvalid 297909, stopplaceid: 66379
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:16531160
+insert into value_items (value_id, items) values(297909, 'RUT:StopPlace:16531160')
+
+---------------- iteration ----------------
+parsed: rutId: 8199140, nsrId: NSR:StopPlace:501
+got keyvalid 300082, stopplaceid: 66594
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:8199140
+insert into value_items (value_id, items) values(300082, 'RUT:StopPlace:8199140')
+
+---------------- iteration ----------------
+parsed: rutId: 5339119, nsrId: NSR:StopPlace:494
+got keyvalid 290689, stopplaceid: 65749
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:5339119
+insert into value_items (value_id, items) values(290689, 'RUT:StopPlace:5339119')
+
+---------------- iteration ----------------
+parsed: rutId: 3012550, nsrId: NSR:StopPlace:157
+got keyvalid 657432, stopplaceid: 71212
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:3012550
+insert into value_items (value_id, items) values(657432, 'RUT:StopPlace:3012550')
+
+---------------- iteration ----------------
+parsed: rutId: 18403760, nsrId: NSR:StopPlace:161
+got keyvalid 9750, stopplaceid: 477
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:18403760
+insert into value_items (value_id, items) values(9750, 'RUT:StopPlace:18403760')
+
+---------------- iteration ----------------
+parsed: rutId: 3011770, nsrId: NSR:StopPlace:163
+got keyvalid 295576, stopplaceid: 66079
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:3011770
+insert into value_items (value_id, items) values(295576, 'RUT:StopPlace:3011770')
+
+---------------- iteration ----------------
+parsed: rutId: 4158066, nsrId: NSR:StopPlace:169
+got keyvalid 667666, stopplaceid: 71627
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:4158066
+insert into value_items (value_id, items) values(667666, 'RUT:StopPlace:4158066')
+
+---------------- iteration ----------------
+parsed: rutId: 18253440, nsrId: NSR:StopPlace:173
+got keyvalid 753672, stopplaceid: 74488
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:18253440
+insert into value_items (value_id, items) values(753672, 'RUT:StopPlace:18253440')
+
+---------------- iteration ----------------
+parsed: rutId: 16011234, nsrId: NSR:StopPlace:618
+got keyvalid 298110, stopplaceid: 66405
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:16011234
+insert into value_items (value_id, items) values(298110, 'RUT:StopPlace:16011234')
+
+---------------- iteration ----------------
+parsed: rutId: 11032322, nsrId: NSR:StopPlace:206
+got keyvalid 534154, stopplaceid: 70185
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:11032322
+insert into value_items (value_id, items) values(534154, 'RUT:StopPlace:11032322')
+
+---------------- iteration ----------------
+parsed: rutId: 10211780, nsrId: NSR:StopPlace:177
+got keyvalid 326133, stopplaceid: 67791
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:10211780
+insert into value_items (value_id, items) values(326133, 'RUT:StopPlace:10211780')
+
+---------------- iteration ----------------
+parsed: rutId: 16531194, nsrId: NSR:StopPlace:214
+got keyvalid 298051, stopplaceid: 66400
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:16531194
+insert into value_items (value_id, items) values(298051, 'RUT:StopPlace:16531194')
+
+---------------- iteration ----------------
+parsed: rutId: 17112140, nsrId: NSR:StopPlace:180
+got keyvalid 9886, stopplaceid: 489
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:17112140
+insert into value_items (value_id, items) values(9886, 'RUT:StopPlace:17112140')
+
+---------------- iteration ----------------
+parsed: rutId: 12353260, nsrId: NSR:StopPlace:183
+got keyvalid 667702, stopplaceid: 71619
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:12353260
+insert into value_items (value_id, items) values(667702, 'RUT:StopPlace:12353260')
+
+---------------- iteration ----------------
+parsed: rutId: 6256295, nsrId: NSR:StopPlace:187
+got keyvalid 274672, stopplaceid: 65220
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:6256295
+insert into value_items (value_id, items) values(274672, 'RUT:StopPlace:6256295')
+
+---------------- iteration ----------------
+parsed: rutId: 18333640, nsrId: NSR:StopPlace:195
+got keyvalid 587392, stopplaceid: 70685
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:18333640
+insert into value_items (value_id, items) values(587392, 'RUT:StopPlace:18333640')
+
+---------------- iteration ----------------
+parsed: rutId: 4127700, nsrId: NSR:StopPlace:191
+got keyvalid 296699, stopplaceid: 66223
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:4127700
+insert into value_items (value_id, items) values(296699, 'RUT:StopPlace:4127700')
+
+---------------- iteration ----------------
+parsed: rutId: 11122046, nsrId: NSR:StopPlace:199
+got keyvalid 667718, stopplaceid: 71620
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:11122046
+insert into value_items (value_id, items) values(667718, 'RUT:StopPlace:11122046')
+
+---------------- iteration ----------------
+parsed: rutId: 18243520, nsrId: NSR:StopPlace:211
+got keyvalid 10026, stopplaceid: 503
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:18243520
+insert into value_items (value_id, items) values(10026, 'RUT:StopPlace:18243520')
+
+---------------- iteration ----------------
+parsed: rutId: 1045160, nsrId: NSR:StopPlace:203
+got keyvalid 295156, stopplaceid: 66027
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:1045160
+insert into value_items (value_id, items) values(295156, 'RUT:StopPlace:1045160')
+
+---------------- iteration ----------------
+parsed: rutId: 3012680, nsrId: NSR:StopPlace:218
+got keyvalid 275016, stopplaceid: 65254
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:3012680
+insert into value_items (value_id, items) values(275016, 'RUT:StopPlace:3012680')
+
+---------------- iteration ----------------
+parsed: rutId: 14213240, nsrId: NSR:StopPlace:222
+got keyvalid 587456, stopplaceid: 70696
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:14213240
+insert into value_items (value_id, items) values(587456, 'RUT:StopPlace:14213240')
+
+---------------- iteration ----------------
+parsed: rutId: 2170500, nsrId: NSR:StopPlace:230
+got keyvalid 294329, stopplaceid: 65930
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:2170500
+insert into value_items (value_id, items) values(294329, 'RUT:StopPlace:2170500')
+
+---------------- iteration ----------------
+parsed: rutId: 1250100, nsrId: NSR:StopPlace:226
+got keyvalid 667760, stopplaceid: 71633
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:1250100
+insert into value_items (value_id, items) values(667760, 'RUT:StopPlace:1250100')
+
+---------------- iteration ----------------
+parsed: rutId: 18043870, nsrId: NSR:StopPlace:234
+got keyvalid 10111, stopplaceid: 512
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:18043870
+insert into value_items (value_id, items) values(10111, 'RUT:StopPlace:18043870')
+
+---------------- iteration ----------------
+parsed: rutId: 17403410, nsrId: NSR:StopPlace:275
+got keyvalid 658633, stopplaceid: 71469
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:17403410
+insert into value_items (value_id, items) values(658633, 'RUT:StopPlace:17403410')
+
+---------------- iteration ----------------
+parsed: rutId: 3010030, nsrId: NSR:StopPlace:288
+got keyvalid 657357, stopplaceid: 71200
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:3010030
+insert into value_items (value_id, items) values(657357, 'RUT:StopPlace:3010030')
+
+---------------- iteration ----------------
+parsed: rutId: 9291130, nsrId: NSR:StopPlace:250
+got keyvalid 667825, stopplaceid: 71644
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:9291130
+insert into value_items (value_id, items) values(667825, 'RUT:StopPlace:9291130')
+
+---------------- iteration ----------------
+parsed: rutId: 2270512, nsrId: NSR:StopPlace:254
+got keyvalid 295739, stopplaceid: 66102
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:2270512
+insert into value_items (value_id, items) values(295739, 'RUT:StopPlace:2270512')
+
+---------------- iteration ----------------
+parsed: rutId: 6163130, nsrId: NSR:StopPlace:260
+got keyvalid 667871, stopplaceid: 71647
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:6163130
+insert into value_items (value_id, items) values(667871, 'RUT:StopPlace:6163130')
+
+---------------- iteration ----------------
+parsed: rutId: 8179110, nsrId: NSR:StopPlace:297
+got keyvalid 300474, stopplaceid: 66656
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:8179110
+insert into value_items (value_id, items) values(300474, 'RUT:StopPlace:8179110')
+
+---------------- iteration ----------------
+parsed: rutId: 8066205, nsrId: NSR:StopPlace:291
+got keyvalid 274565, stopplaceid: 65211
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:8066205
+insert into value_items (value_id, items) values(274565, 'RUT:StopPlace:8066205')
+
+---------------- iteration ----------------
+parsed: rutId: 2330100, nsrId: NSR:StopPlace:267
+got keyvalid 290428, stopplaceid: 65713
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:2330100
+insert into value_items (value_id, items) values(290428, 'RUT:StopPlace:2330100')
+
+---------------- iteration ----------------
+parsed: rutId: 10171754, nsrId: NSR:StopPlace:246
+got keyvalid 315170, stopplaceid: 67491
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:10171754
+insert into value_items (value_id, items) values(315170, 'RUT:StopPlace:10171754')
+
+---------------- iteration ----------------
+parsed: rutId: 8229250, nsrId: NSR:StopPlace:263
+got keyvalid 274590, stopplaceid: 65213
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:8229250
+insert into value_items (value_id, items) values(274590, 'RUT:StopPlace:8229250')
+
+---------------- iteration ----------------
+parsed: rutId: 2350040, nsrId: NSR:StopPlace:238
+got keyvalid 296314, stopplaceid: 66200
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:2350040
+insert into value_items (value_id, items) values(296314, 'RUT:StopPlace:2350040')
+
+---------------- iteration ----------------
+parsed: rutId: 3010810, nsrId: NSR:StopPlace:279
+got keyvalid 293661, stopplaceid: 65818
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:3010810
+insert into value_items (value_id, items) values(293661, 'RUT:StopPlace:3010810')
+
+---------------- iteration ----------------
+parsed: rutId: 8079080, nsrId: NSR:StopPlace:283
+got keyvalid 667907, stopplaceid: 71650
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:8079080
+insert into value_items (value_id, items) values(667907, 'RUT:StopPlace:8079080')
+
+---------------- iteration ----------------
+parsed: rutId: 3012125, nsrId: NSR:StopPlace:301
+got keyvalid 274978, stopplaceid: 65251
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:3012125
+insert into value_items (value_id, items) values(274978, 'RUT:StopPlace:3012125')
+
+---------------- iteration ----------------
+parsed: rutId: 3011960, nsrId: NSR:StopPlace:305
+got keyvalid 534561, stopplaceid: 70232
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:3011960
+insert into value_items (value_id, items) values(534561, 'RUT:StopPlace:3011960')
+
+---------------- iteration ----------------
+parsed: rutId: 11192210, nsrId: NSR:StopPlace:242
+got keyvalid 667804, stopplaceid: 71643
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:11192210
+insert into value_items (value_id, items) values(667804, 'RUT:StopPlace:11192210')
+
+---------------- iteration ----------------
+parsed: rutId: 11192170, nsrId: NSR:StopPlace:309
+got keyvalid 534196, stopplaceid: 70180
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:11192170
+insert into value_items (value_id, items) values(534196, 'RUT:StopPlace:11192170')
+
+---------------- iteration ----------------
+parsed: rutId: 8059010, nsrId: NSR:StopPlace:312
+got keyvalid 667959, stopplaceid: 71654
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:8059010
+insert into value_items (value_id, items) values(667959, 'RUT:StopPlace:8059010')
+
+---------------- iteration ----------------
+parsed: rutId: 16341070, nsrId: NSR:StopPlace:316
+got keyvalid 297820, stopplaceid: 66370
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:16341070
+insert into value_items (value_id, items) values(297820, 'RUT:StopPlace:16341070')
+
+---------------- iteration ----------------
+parsed: rutId: 2170400, nsrId: NSR:StopPlace:323
+got keyvalid 294343, stopplaceid: 65931
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:2170400
+insert into value_items (value_id, items) values(294343, 'RUT:StopPlace:2170400')
+
+---------------- iteration ----------------
+parsed: rutId: 4301506, nsrId: NSR:StopPlace:328
+got keyvalid 298567, stopplaceid: 66424
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:4301506
+insert into value_items (value_id, items) values(298567, 'RUT:StopPlace:4301506')
+
+---------------- iteration ----------------
+parsed: rutId: 4412015, nsrId: NSR:StopPlace:332
+got keyvalid 667989, stopplaceid: 71640
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:4412015
+insert into value_items (value_id, items) values(667989, 'RUT:StopPlace:4412015')
+
+---------------- iteration ----------------
+parsed: rutId: 2350350, nsrId: NSR:StopPlace:269
+got keyvalid 763539, stopplaceid: 76702
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:2350350
+insert into value_items (value_id, items) values(763539, 'RUT:StopPlace:2350350')
+
+---------------- iteration ----------------
+parsed: rutId: 3010010, nsrId: NSR:StopPlace:337
+got keyvalid 754334, stopplaceid: 74606
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:3010010
+insert into value_items (value_id, items) values(754334, 'RUT:StopPlace:3010010')
+
+---------------- iteration ----------------
+parsed: rutId: 5177430, nsrId: NSR:StopPlace:4
+got keyvalid 296851, stopplaceid: 66241
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:5177430
+insert into value_items (value_id, items) values(296851, 'RUT:StopPlace:5177430')
+
+---------------- iteration ----------------
+parsed: rutId: 8056505, nsrId: NSR:StopPlace:12
+got keyvalid 274476, stopplaceid: 65200
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:8056505
+insert into value_items (value_id, items) values(274476, 'RUT:StopPlace:8056505')
+
+---------------- iteration ----------------
+parsed: rutId: 1285390, nsrId: NSR:StopPlace:64
+got keyvalid 668459, stopplaceid: 71679
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:1285390
+insert into value_items (value_id, items) values(668459, 'RUT:StopPlace:1285390')
+
+---------------- iteration ----------------
+parsed: rutId: 5299105, nsrId: NSR:StopPlace:15
+got keyvalid 290978, stopplaceid: 65787
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:5299105
+insert into value_items (value_id, items) values(290978, 'RUT:StopPlace:5299105')
+
+---------------- iteration ----------------
+parsed: rutId: 12353270, nsrId: NSR:StopPlace:42
+got keyvalid 299456, stopplaceid: 66522
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:12353270
+insert into value_items (value_id, items) values(299456, 'RUT:StopPlace:12353270')
+
+---------------- iteration ----------------
+parsed: rutId: 5298323, nsrId: NSR:StopPlace:67
+got keyvalid 465958, stopplaceid: 69946
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:5298323
+insert into value_items (value_id, items) values(465958, 'RUT:StopPlace:5298323')
+
+---------------- iteration ----------------
+parsed: rutId: 16440110, nsrId: NSR:StopPlace:20
+got keyvalid 298801, stopplaceid: 66439
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:16440110
+insert into value_items (value_id, items) values(298801, 'RUT:StopPlace:16440110')
+
+---------------- iteration ----------------
+parsed: rutId: 4290500, nsrId: NSR:StopPlace:23
+got keyvalid 465944, stopplaceid: 69953
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:4290500
+insert into value_items (value_id, items) values(465944, 'RUT:StopPlace:4290500')
+
+---------------- iteration ----------------
+parsed: rutId: 5209104, nsrId: NSR:StopPlace:17
+got keyvalid 296740, stopplaceid: 66226
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:5209104
+insert into value_items (value_id, items) values(296740, 'RUT:StopPlace:5209104')
+
+---------------- iteration ----------------
+parsed: rutId: 9061420, nsrId: NSR:StopPlace:35
+got keyvalid 301042, stopplaceid: 67122
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:9061420
+insert into value_items (value_id, items) values(301042, 'RUT:StopPlace:9061420')
+
+---------------- iteration ----------------
+parsed: rutId: 5339212, nsrId: NSR:StopPlace:46
+got keyvalid 290658, stopplaceid: 65743
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:5339212
+insert into value_items (value_id, items) values(290658, 'RUT:StopPlace:5339212')
+
+---------------- iteration ----------------
+parsed: rutId: 18403820, nsrId: NSR:StopPlace:49
+got keyvalid 9195, stopplaceid: 420
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:18403820
+insert into value_items (value_id, items) values(9195, 'RUT:StopPlace:18403820')
+
+---------------- iteration ----------------
+parsed: rutId: 16480418, nsrId: NSR:StopPlace:31
+got keyvalid 298881, stopplaceid: 66446
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:16480418
+insert into value_items (value_id, items) values(298881, 'RUT:StopPlace:16480418')
+
+---------------- iteration ----------------
+parsed: rutId: 17193040, nsrId: NSR:StopPlace:38
+got keyvalid 668046, stopplaceid: 71657
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:17193040
+insert into value_items (value_id, items) values(668046, 'RUT:StopPlace:17193040')
+
+---------------- iteration ----------------
+parsed: rutId: 3010930, nsrId: NSR:StopPlace:60
+got keyvalid 293848, stopplaceid: 65844
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:3010930
+insert into value_items (value_id, items) values(293848, 'RUT:StopPlace:3010930')
+
+---------------- iteration ----------------
+parsed: rutId: 16012012, nsrId: NSR:StopPlace:57
+got keyvalid 298917, stopplaceid: 66449
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:16012012
+insert into value_items (value_id, items) values(298917, 'RUT:StopPlace:16012012')
+
+---------------- iteration ----------------
+parsed: rutId: 1365180, nsrId: NSR:StopPlace:70
+got keyvalid 295177, stopplaceid: 66030
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:1365180
+insert into value_items (value_id, items) values(295177, 'RUT:StopPlace:1365180')
+
+---------------- iteration ----------------
+parsed: rutId: 18403800, nsrId: NSR:StopPlace:77
+got keyvalid 9323, stopplaceid: 433
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:18403800
+insert into value_items (value_id, items) values(9323, 'RUT:StopPlace:18403800')
+
+---------------- iteration ----------------
+parsed: rutId: 16400060, nsrId: NSR:StopPlace:53
+got keyvalid 298774, stopplaceid: 66437
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:16400060
+insert into value_items (value_id, items) values(298774, 'RUT:StopPlace:16400060')
+
+---------------- iteration ----------------
+parsed: rutId: 6274340, nsrId: NSR:StopPlace:80
+got keyvalid 258751, stopplaceid: 64418
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:6274340
+insert into value_items (value_id, items) values(258751, 'RUT:StopPlace:6274340')
+
+---------------- iteration ----------------
+parsed: rutId: 1355190, nsrId: NSR:StopPlace:84
+got keyvalid 295191, stopplaceid: 66031
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:1355190
+insert into value_items (value_id, items) values(295191, 'RUT:StopPlace:1355190')
+
+---------------- iteration ----------------
+parsed: rutId: 2260300, nsrId: NSR:StopPlace:27
+got keyvalid 667885, stopplaceid: 71648
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:2260300
+insert into value_items (value_id, items) values(667885, 'RUT:StopPlace:2260300')
+
+---------------- iteration ----------------
+parsed: rutId: 2310200, nsrId: NSR:StopPlace:101
+got keyvalid 295653, stopplaceid: 66092
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:2310200
+insert into value_items (value_id, items) values(295653, 'RUT:StopPlace:2310200')
+
+---------------- iteration ----------------
+parsed: rutId: 7135020, nsrId: NSR:StopPlace:662
+got keyvalid 258908, stopplaceid: 64433
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:7135020
+insert into value_items (value_id, items) values(258908, 'RUT:StopPlace:7135020')
+
+---------------- iteration ----------------
+parsed: rutId: 7065140, nsrId: NSR:StopPlace:108
+got keyvalid 274241, stopplaceid: 65159
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:7065140
+insert into value_items (value_id, items) values(274241, 'RUT:StopPlace:7065140')
+
+---------------- iteration ----------------
+parsed: rutId: 11022260, nsrId: NSR:StopPlace:108
+got keyvalid 274241, stopplaceid: 65159
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:11022260
+insert into value_items (value_id, items) values(274241, 'RUT:StopPlace:11022260')
+
+---------------- iteration ----------------
+parsed: rutId: 11022262, nsrId: NSR:StopPlace:702
+got keyvalid 755995, stopplaceid: 74938
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:11022262
+insert into value_items (value_id, items) values(755995, 'RUT:StopPlace:11022262')
+
+---------------- iteration ----------------
+parsed: rutId: 2190400, nsrId: NSR:StopPlace:610
+got keyvalid 657471, stopplaceid: 71213
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:2190400
+insert into value_items (value_id, items) values(657471, 'RUT:StopPlace:2190400')
+
+---------------- iteration ----------------
+parsed: rutId: 1055270, nsrId: NSR:StopPlace:94
+got keyvalid 295012, stopplaceid: 66006
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:1055270
+insert into value_items (value_id, items) values(295012, 'RUT:StopPlace:1055270')
+
+---------------- iteration ----------------
+parsed: rutId: 12353320, nsrId: NSR:StopPlace:114
+got keyvalid 299629, stopplaceid: 66542
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:12353320
+insert into value_items (value_id, items) values(299629, 'RUT:StopPlace:12353320')
+
+---------------- iteration ----------------
+parsed: rutId: 16011230, nsrId: NSR:StopPlace:155
+got keyvalid 667608, stopplaceid: 71614
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:16011230
+insert into value_items (value_id, items) values(667608, 'RUT:StopPlace:16011230')
+
+---------------- iteration ----------------
+parsed: rutId: 16480170, nsrId: NSR:StopPlace:118
+got keyvalid 298858, stopplaceid: 66444
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:16480170
+insert into value_items (value_id, items) values(298858, 'RUT:StopPlace:16480170')
+
+---------------- iteration ----------------
+parsed: rutId: 10042030, nsrId: NSR:StopPlace:120
+got keyvalid 342092, stopplaceid: 68377
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:10042030
+insert into value_items (value_id, items) values(342092, 'RUT:StopPlace:10042030')
+
+---------------- iteration ----------------
+parsed: rutId: 11192160, nsrId: NSR:StopPlace:624
+got keyvalid 534266, stopplaceid: 70197
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:11192160
+insert into value_items (value_id, items) values(534266, 'RUT:StopPlace:11192160')
+
+---------------- iteration ----------------
+parsed: rutId: 16011252, nsrId: NSR:StopPlace:144
+got keyvalid 667596, stopplaceid: 71625
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:16011252
+insert into value_items (value_id, items) values(667596, 'RUT:StopPlace:16011252')
+
+---------------- iteration ----------------
+parsed: rutId: 4190100, nsrId: NSR:StopPlace:123
+got keyvalid 296011, stopplaceid: 66158
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:4190100
+insert into value_items (value_id, items) values(296011, 'RUT:StopPlace:4190100')
+
+---------------- iteration ----------------
+parsed: rutId: 17143010, nsrId: NSR:StopPlace:148
+got keyvalid 9686, stopplaceid: 471
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:17143010
+insert into value_items (value_id, items) values(9686, 'RUT:StopPlace:17143010')
+
+---------------- iteration ----------------
+parsed: rutId: 2130300, nsrId: NSR:StopPlace:127
+got keyvalid 294422, stopplaceid: 65943
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:2130300
+insert into value_items (value_id, items) values(294422, 'RUT:StopPlace:2130300')
+
+---------------- iteration ----------------
+parsed: rutId: 8069030, nsrId: NSR:StopPlace:136
+got keyvalid 685955, stopplaceid: 71807
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:8069030
+insert into value_items (value_id, items) values(685955, 'RUT:StopPlace:8069030')
+
+---------------- iteration ----------------
+parsed: rutId: 12353272, nsrId: NSR:StopPlace:698
+got keyvalid 299489, stopplaceid: 66523
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:12353272
+insert into value_items (value_id, items) values(299489, 'RUT:StopPlace:12353272')
+
+---------------- iteration ----------------
+parsed: rutId: 17193050, nsrId: NSR:StopPlace:110
+got keyvalid 667558, stopplaceid: 71622
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:17193050
+insert into value_items (value_id, items) values(667558, 'RUT:StopPlace:17193050')
+
+---------------- iteration ----------------
+parsed: rutId: 18333660, nsrId: NSR:StopPlace:104
+got keyvalid 667523, stopplaceid: 71598
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:18333660
+insert into value_items (value_id, items) values(667523, 'RUT:StopPlace:18333660')
+
+---------------- iteration ----------------
+parsed: rutId: 7015070, nsrId: NSR:StopPlace:140
+got keyvalid 667577, stopplaceid: 71623
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:7015070
+insert into value_items (value_id, items) values(667577, 'RUT:StopPlace:7015070')
+
+---------------- iteration ----------------
+parsed: rutId: 2130600, nsrId: NSR:StopPlace:97
+got keyvalid 294623, stopplaceid: 65968
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:2130600
+insert into value_items (value_id, items) values(294623, 'RUT:StopPlace:2130600')
+
+---------------- iteration ----------------
+parsed: rutId: 3012500, nsrId: NSR:StopPlace:152
+got keyvalid 657409, stopplaceid: 71201
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:3012500
+insert into value_items (value_id, items) values(657409, 'RUT:StopPlace:3012500')
+
+---------------- iteration ----------------
+parsed: rutId: 2190600, nsrId: NSR:StopPlace:648
+got keyvalid 258616, stopplaceid: 64407
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:2190600
+insert into value_items (value_id, items) values(258616, 'RUT:StopPlace:2190600')
+
+---------------- iteration ----------------
+parsed: rutId: 1255340, nsrId: NSR:StopPlace:654
+got keyvalid 294850, stopplaceid: 65990
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:1255340
+insert into value_items (value_id, items) values(294850, 'RUT:StopPlace:1255340')
+
+---------------- iteration ----------------
+parsed: rutId: 10341810, nsrId: NSR:StopPlace:658
+got keyvalid 8388, stopplaceid: 335
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:10341810
+insert into value_items (value_id, items) values(8388, 'RUT:StopPlace:10341810')
+
+---------------- iteration ----------------
+parsed: rutId: 3012675, nsrId: NSR:StopPlace:666
+got keyvalid 16402, stopplaceid: 2269
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:3012675
+insert into value_items (value_id, items) values(16402, 'RUT:StopPlace:3012675')
+
+---------------- iteration ----------------
+parsed: rutId: 17363210, nsrId: NSR:StopPlace:673
+got keyvalid 237332, stopplaceid: 62707
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:17363210
+insert into value_items (value_id, items) values(237332, 'RUT:StopPlace:17363210')
+
+---------------- iteration ----------------
+parsed: rutId: 2170200, nsrId: NSR:StopPlace:680
+got keyvalid 763613, stopplaceid: 76707
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:2170200
+insert into value_items (value_id, items) values(763613, 'RUT:StopPlace:2170200')
+
+---------------- iteration ----------------
+parsed: rutId: 2110300, nsrId: NSR:StopPlace:684
+got keyvalid 668500, stopplaceid: 71702
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:2110300
+insert into value_items (value_id, items) values(668500, 'RUT:StopPlace:2110300')
+
+---------------- iteration ----------------
+parsed: rutId: 17023110, nsrId: NSR:StopPlace:687
+got keyvalid 8491, stopplaceid: 347
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:17023110
+insert into value_items (value_id, items) values(8491, 'RUT:StopPlace:17023110')
+
+---------------- iteration ----------------
+parsed: rutId: 6274360, nsrId: NSR:StopPlace:694
+got keyvalid 268350, stopplaceid: 64951
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:6274360
+insert into value_items (value_id, items) values(268350, 'RUT:StopPlace:6274360')
+
+---------------- iteration ----------------
+parsed: rutId: 1230600, nsrId: NSR:StopPlace:691
+got keyvalid 500081, stopplaceid: 70077
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:1230600
+insert into value_items (value_id, items) values(500081, 'RUT:StopPlace:1230600')
+
+---------------- iteration ----------------
+parsed: rutId: 2190100, nsrId: NSR:StopPlace:706
+got keyvalid 657453, stopplaceid: 71210
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:2190100
+insert into value_items (value_id, items) values(657453, 'RUT:StopPlace:2190100')
+
+---------------- iteration ----------------
+parsed: rutId: 4301485, nsrId: NSR:StopPlace:704
+got keyvalid 298591, stopplaceid: 66426
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:4301485
+insert into value_items (value_id, items) values(298591, 'RUT:StopPlace:4301485')
+
+---------------- iteration ----------------
+parsed: rutId: 4177400, nsrId: NSR:StopPlace:708
+got keyvalid 296603, stopplaceid: 66218
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:4177400
+insert into value_items (value_id, items) values(296603, 'RUT:StopPlace:4177400')
+
+---------------- iteration ----------------
+parsed: rutId: 12513360, nsrId: NSR:StopPlace:710
+got keyvalid 668538, stopplaceid: 71705
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:12513360
+insert into value_items (value_id, items) values(668538, 'RUT:StopPlace:12513360')
+
+---------------- iteration ----------------
+parsed: rutId: 11032340, nsrId: NSR:StopPlace:596
+got keyvalid 534451, stopplaceid: 70215
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:11032340
+insert into value_items (value_id, items) values(534451, 'RUT:StopPlace:11032340')
+
+---------------- iteration ----------------
+parsed: rutId: 6256570, nsrId: NSR:StopPlace:91
+got keyvalid 274686, stopplaceid: 65221
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:6256570
+insert into value_items (value_id, items) values(274686, 'RUT:StopPlace:6256570')
+
+---------------- iteration ----------------
+parsed: rutId: 17023140, nsrId: NSR:StopPlace:714
+got keyvalid 753298, stopplaceid: 74428
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:17023140
+insert into value_items (value_id, items) values(753298, 'RUT:StopPlace:17023140')
+
+---------------- iteration ----------------
+parsed: rutId: 4301533, nsrId: NSR:StopPlace:669
+got keyvalid 298488, stopplaceid: 66421
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:4301533
+insert into value_items (value_id, items) values(298488, 'RUT:StopPlace:4301533')
+
+---------------- iteration ----------------
+parsed: rutId: 17143002, nsrId: NSR:StopPlace:712
+got keyvalid 587321, stopplaceid: 70667
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:17143002
+insert into value_items (value_id, items) values(587321, 'RUT:StopPlace:17143002')
+
+---------------- iteration ----------------
+parsed: rutId: 7205120, nsrId: NSR:StopPlace:132
+got keyvalid 259099, stopplaceid: 64460
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:7205120
+insert into value_items (value_id, items) values(259099, 'RUT:StopPlace:7205120')
+
+---------------- iteration ----------------
+parsed: rutId: 10371830, nsrId: NSR:StopPlace:585
+got keyvalid 11416, stopplaceid: 648
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:10371830
+insert into value_items (value_id, items) values(11416, 'RUT:StopPlace:10371830')
+
+---------------- iteration ----------------
+parsed: rutId: 5339308, nsrId: NSR:StopPlace:630
+got keyvalid 668445, stopplaceid: 71699
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:5339308
+insert into value_items (value_id, items) values(668445, 'RUT:StopPlace:5339308')
+
+---------------- iteration ----------------
+parsed: rutId: 2310100, nsrId: NSR:StopPlace:716
+got keyvalid 668569, stopplaceid: 71707
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:2310100
+insert into value_items (value_id, items) values(668569, 'RUT:StopPlace:2310100')
+
+---------------- iteration ----------------
+parsed: rutId: 16481140, nsrId: NSR:StopPlace:603
+got keyvalid 406022, stopplaceid: 69665
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:16481140
+insert into value_items (value_id, items) values(406022, 'RUT:StopPlace:16481140')
+
+---------------- iteration ----------------
+parsed: rutId: 2270702, nsrId: NSR:StopPlace:613
+got keyvalid 295811, stopplaceid: 66124
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:2270702
+insert into value_items (value_id, items) values(295811, 'RUT:StopPlace:2270702')
+
+---------------- iteration ----------------
+parsed: rutId: 2260100, nsrId: NSR:StopPlace:640
+got keyvalid 268659, stopplaceid: 65035
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:2260100
+insert into value_items (value_id, items) values(268659, 'RUT:StopPlace:2260100')
+
+---------------- iteration ----------------
+parsed: rutId: 4177446, nsrId: NSR:StopPlace:646
+got keyvalid 296589, stopplaceid: 66217
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:4177446
+insert into value_items (value_id, items) values(296589, 'RUT:StopPlace:4177446')
+
+---------------- iteration ----------------
+parsed: rutId: 4361960, nsrId: NSR:StopPlace:663
+got keyvalid 668486, stopplaceid: 71701
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:4361960
+insert into value_items (value_id, items) values(668486, 'RUT:StopPlace:4361960')
+
+---------------- iteration ----------------
+parsed: rutId: 1380100, nsrId: NSR:StopPlace:667
+got keyvalid 294639, stopplaceid: 65970
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:1380100
+insert into value_items (value_id, items) values(294639, 'RUT:StopPlace:1380100')
+
+---------------- iteration ----------------
+parsed: rutId: 7060750, nsrId: NSR:StopPlace:667
+got keyvalid 294639, stopplaceid: 65970
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:7060750
+insert into value_items (value_id, items) values(294639, 'RUT:StopPlace:7060750')
+
+---------------- iteration ----------------
+parsed: rutId: 12013390, nsrId: NSR:StopPlace:677
+got keyvalid 299977, stopplaceid: 66589
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:12013390
+insert into value_items (value_id, items) values(299977, 'RUT:StopPlace:12013390')
+
+---------------- iteration ----------------
+parsed: rutId: 18253480, nsrId: NSR:StopPlace:685
+got keyvalid 11826, stopplaceid: 686
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:18253480
+insert into value_items (value_id, items) values(11826, 'RUT:StopPlace:18253480')
+
+---------------- iteration ----------------
+parsed: rutId: 16011260, nsrId: NSR:StopPlace:659
+got keyvalid 298376, stopplaceid: 66414
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:16011260
+insert into value_items (value_id, items) values(298376, 'RUT:StopPlace:16011260')
+
+---------------- iteration ----------------
+parsed: rutId: 8220539, nsrId: NSR:StopPlace:690
+got keyvalid 300058, stopplaceid: 66592
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:8220539
+insert into value_items (value_id, items) values(300058, 'RUT:StopPlace:8220539')
+
+---------------- iteration ----------------
+parsed: rutId: 2270112, nsrId: NSR:StopPlace:695
+got keyvalid 295721, stopplaceid: 66100
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:2270112
+insert into value_items (value_id, items) values(295721, 'RUT:StopPlace:2270112')
+
+---------------- iteration ----------------
+parsed: rutId: 4371000, nsrId: NSR:StopPlace:699
+got keyvalid 298714, stopplaceid: 66434
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:4371000
+insert into value_items (value_id, items) values(298714, 'RUT:StopPlace:4371000')
+
+---------------- iteration ----------------
+parsed: rutId: 7045100, nsrId: NSR:StopPlace:653
+got keyvalid 259082, stopplaceid: 64459
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:7045100
+insert into value_items (value_id, items) values(259082, 'RUT:StopPlace:7045100')
+
+---------------- iteration ----------------
+parsed: rutId: 3011420, nsrId: NSR:StopPlace:339
+got keyvalid 10651, stopplaceid: 564
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:3011420
+insert into value_items (value_id, items) values(10651, 'RUT:StopPlace:3011420')
+
+---------------- iteration ----------------
+parsed: rutId: 14213250, nsrId: NSR:StopPlace:349
+got keyvalid 299425, stopplaceid: 66519
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:14213250
+insert into value_items (value_id, items) values(299425, 'RUT:StopPlace:14213250')
+
+---------------- iteration ----------------
+parsed: rutId: 12353280, nsrId: NSR:StopPlace:354
+got keyvalid 668008, stopplaceid: 71663
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:12353280
+insert into value_items (value_id, items) values(668008, 'RUT:StopPlace:12353280')
+
+---------------- iteration ----------------
+parsed: rutId: 6203200, nsrId: NSR:StopPlace:358
+got keyvalid 299158, stopplaceid: 66466
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:6203200
+insert into value_items (value_id, items) values(299158, 'RUT:StopPlace:6203200')
+
+---------------- iteration ----------------
+parsed: rutId: 12513370, nsrId: NSR:StopPlace:364
+got keyvalid 668027, stopplaceid: 71655
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:12513370
+insert into value_items (value_id, items) values(668027, 'RUT:StopPlace:12513370')
+
+---------------- iteration ----------------
+parsed: rutId: 2200300, nsrId: NSR:StopPlace:368
+got keyvalid 258658, stopplaceid: 64410
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:2200300
+insert into value_items (value_id, items) values(258658, 'RUT:StopPlace:2200300')
+
+---------------- iteration ----------------
+parsed: rutId: 11192200, nsrId: NSR:StopPlace:411
+got keyvalid 534277, stopplaceid: 70198
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:11192200
+insert into value_items (value_id, items) values(534277, 'RUT:StopPlace:11192200')
+
+---------------- iteration ----------------
+parsed: rutId: 2330155, nsrId: NSR:StopPlace:379
+got keyvalid 290461, stopplaceid: 65716
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:2330155
+insert into value_items (value_id, items) values(290461, 'RUT:StopPlace:2330155')
+
+---------------- iteration ----------------
+parsed: rutId: 9121100, nsrId: NSR:StopPlace:407
+got keyvalid 668216, stopplaceid: 71684
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:9121100
+insert into value_items (value_id, items) values(668216, 'RUT:StopPlace:9121100')
+
+---------------- iteration ----------------
+parsed: rutId: 10141240, nsrId: NSR:StopPlace:435
+got keyvalid 668243, stopplaceid: 71686
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:10141240
+insert into value_items (value_id, items) values(668243, 'RUT:StopPlace:10141240')
+
+---------------- iteration ----------------
+parsed: rutId: 17213080, nsrId: NSR:StopPlace:390
+got keyvalid 668064, stopplaceid: 71666
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:17213080
+insert into value_items (value_id, items) values(668064, 'RUT:StopPlace:17213080')
+
+---------------- iteration ----------------
+parsed: rutId: 2110100, nsrId: NSR:StopPlace:384
+got keyvalid 295065, stopplaceid: 66013
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:2110100
+insert into value_items (value_id, items) values(295065, 'RUT:StopPlace:2110100')
+
+---------------- iteration ----------------
+parsed: rutId: 6246004, nsrId: NSR:StopPlace:401
+got keyvalid 668144, stopplaceid: 71669
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:6246004
+insert into value_items (value_id, items) values(668144, 'RUT:StopPlace:6246004')
+
+---------------- iteration ----------------
+parsed: rutId: 2130700, nsrId: NSR:StopPlace:396
+got keyvalid 294357, stopplaceid: 65932
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:2130700
+insert into value_items (value_id, items) values(294357, 'RUT:StopPlace:2130700')
+
+---------------- iteration ----------------
+parsed: rutId: 12333252, nsrId: NSR:StopPlace:445
+got keyvalid 11031, stopplaceid: 603
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:12333252
+insert into value_items (value_id, items) values(11031, 'RUT:StopPlace:12333252')
+
+---------------- iteration ----------------
+parsed: rutId: 11192190, nsrId: NSR:StopPlace:421
+got keyvalid 668229, stopplaceid: 71685
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:11192190
+insert into value_items (value_id, items) values(668229, 'RUT:StopPlace:11192190')
+
+---------------- iteration ----------------
+parsed: rutId: 6236120, nsrId: NSR:StopPlace:429
+got keyvalid 274784, stopplaceid: 65238
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:6236120
+insert into value_items (value_id, items) values(274784, 'RUT:StopPlace:6236120')
+
+---------------- iteration ----------------
+parsed: rutId: 5169304, nsrId: NSR:StopPlace:425
+got keyvalid 296805, stopplaceid: 66236
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:5169304
+insert into value_items (value_id, items) values(296805, 'RUT:StopPlace:5169304')
+
+---------------- iteration ----------------
+parsed: rutId: 12353300, nsrId: NSR:StopPlace:440
+got keyvalid 753527, stopplaceid: 74466
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:12353300
+insert into value_items (value_id, items) values(753527, 'RUT:StopPlace:12353300')
+
+---------------- iteration ----------------
+parsed: rutId: 17143003, nsrId: NSR:StopPlace:452
+got keyvalid 756747, stopplaceid: 75110
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:17143003
+insert into value_items (value_id, items) values(756747, 'RUT:StopPlace:17143003')
+
+---------------- iteration ----------------
+parsed: rutId: 12353290, nsrId: NSR:StopPlace:462
+got keyvalid 299536, stopplaceid: 66529
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:12353290
+insert into value_items (value_id, items) values(299536, 'RUT:StopPlace:12353290')
+
+---------------- iteration ----------------
+parsed: rutId: 11207242, nsrId: NSR:StopPlace:480
+got keyvalid 534168, stopplaceid: 70186
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:11207242
+insert into value_items (value_id, items) values(534168, 'RUT:StopPlace:11207242')
+
+---------------- iteration ----------------
+parsed: rutId: 12353254, nsrId: NSR:StopPlace:468
+got keyvalid 11072, stopplaceid: 608
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:12353254
+insert into value_items (value_id, items) values(11072, 'RUT:StopPlace:12353254')
+
+---------------- iteration ----------------
+parsed: rutId: 12353274, nsrId: NSR:StopPlace:474
+got keyvalid 299498, stopplaceid: 66524
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:12353274
+insert into value_items (value_id, items) values(299498, 'RUT:StopPlace:12353274')
+
+---------------- iteration ----------------
+parsed: rutId: 6193170, nsrId: NSR:StopPlace:508
+got keyvalid 299073, stopplaceid: 66458
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:6193170
+insert into value_items (value_id, items) values(299073, 'RUT:StopPlace:6193170')
+
+---------------- iteration ----------------
+parsed: rutId: 16440120, nsrId: NSR:StopPlace:514
+got keyvalid 298811, stopplaceid: 66440
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:16440120
+insert into value_items (value_id, items) values(298811, 'RUT:StopPlace:16440120')
+
+---------------- iteration ----------------
+parsed: rutId: 15398100, nsrId: NSR:StopPlace:520
+got keyvalid 668363, stopplaceid: 71677
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:15398100
+insert into value_items (value_id, items) values(668363, 'RUT:StopPlace:15398100')
+
+---------------- iteration ----------------
+parsed: rutId: 2330400, nsrId: NSR:StopPlace:502
+got keyvalid 290448, stopplaceid: 65715
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:2330400
+insert into value_items (value_id, items) values(290448, 'RUT:StopPlace:2330400')
+
+---------------- iteration ----------------
+parsed: rutId: 2360300, nsrId: NSR:StopPlace:540
+got keyvalid 334406, stopplaceid: 68204
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:2360300
+insert into value_items (value_id, items) values(334406, 'RUT:StopPlace:2360300')
+
+---------------- iteration ----------------
+parsed: rutId: 2140200, nsrId: NSR:StopPlace:547
+got keyvalid 295034, stopplaceid: 66010
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:2140200
+insert into value_items (value_id, items) values(295034, 'RUT:StopPlace:2140200')
+
+---------------- iteration ----------------
+parsed: rutId: 17193030, nsrId: NSR:StopPlace:554
+got keyvalid 668419, stopplaceid: 71697
+delete from value_items where value_id = 6763 and items like 'RUT:StopPlace:%';
+
+new imported id will be: RUT:StopPlace:17193030
+insert into value_items (value_id, items) values(668419, 'RUT:StopPlace:17193030')
+
+---------------- iteration ----------------
