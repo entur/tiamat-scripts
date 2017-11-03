@@ -8,10 +8,10 @@ echo "Tiamat proxy pod: $pod"
 
 
 
-sed 1d nsr-mapping.csv | tr ',' ' ' | while read line; do
-  read name rutId nsrId <<< $line;
+sed 1d nsr-mapping.csv | tr ';' ' ' | while read line; do
+  read rutId nsrId <<< $line;
 
-  echo "parsed: $name, rutId: $rutId, nsrId: $nsrId";
+  echo "parsed: rutId: $rutId, nsrId: $nsrId";
 
   findSql="SELECT skv.key_values_id, s.id
     FROM stop_place_key_values skv
