@@ -29,9 +29,7 @@ sed 1d nsr-mapping.csv | tr ';' ' ' | while read line; do
                AND (s.to_date IS NULL
                     OR s.to_date > now())))
       AND skv.key_values_key = 'imported-id'
-      AND s.netex_id = '$nsrId'
-    ORDER BY s.netex_id,
-             s.version"
+      AND s.netex_id = '$nsrId'"
 
   result=`$psql "copy($findSql) to stdout with csv;" | tr ',' ' '`
 
