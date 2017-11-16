@@ -1,14 +1,14 @@
 SELECT s.id stop_placeid,
        s.netex_id stop_placenxid,
-       s.version qv,
-       s2.version q2v,
+       s.version sv,
+       s2.version s2v,
        pe.netex_id penxid,
        pe2.netex_id pe2nxid,
        pe.version pev,
        pe2.version pe2v,
        ie.netex_id ienxid,
        ie2.netex_id ie2nxid,
-       ie.version iev       ,
+       ie.version iev,
        ie2.version ie2v
 FROM stop_place s
 INNER JOIN installed_equipment_version_structure pe ON pe.id = s.place_equipments_id
