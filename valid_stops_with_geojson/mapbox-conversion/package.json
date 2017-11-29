@@ -1,21 +1,22 @@
 {
   "name": "nsr-scripts",
   "version": "1.0.0",
-  "author": "Seán Erik Scully",
+  "author": "",
   "description": "Convert data set to GeoJSON feature set for MapBox",
   "main": "index.js",
   "dependencies": {
     "babel-core": "^6.26.0",
-    "babel-preset-env": "^1.6.1"
+    "babel-preset-env": "^1.6.1",
+    "stdio": "^0.2.7"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "babel-node index.js"
+    "parkings": "babel-node index.js --type parkings",
+    "stops": "babel-node index.js --type stops"
   },
   "keywords": [],
-  "author": "",
   "license": "ISC"
 }
