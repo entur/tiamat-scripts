@@ -53,6 +53,3 @@ curl -H "Content-Type: application/xml" -XPOST -d@Troms_Netex.xml_Enriched.xml "
 
 echo Finnmark
 curl -H "Content-Type: application/xml" -XPOST -d@Finnmark_Netex.xml_Enriched.xml "http://localhost:1997/services/stop_places/netex?onlyMatchOutsideTopographicPlaces=KVE:TopographicPlace:20&onlyMatchOutsideTopographicPlaces=WOF:TopographicPlace:85632685&onlyMatchOutsideTopographicPlaces=WOF:TopographicPlace:85633143&importType=MERGE&skipOutput=true"
-
-#echo NRI
-#curl -H "Content-Type: application/xml" -XPOST -d@NRI_Netex.xml_Enriched.xml "http://localhost:1997/services/stop_places/netex?importType=MERGE&skipOutput=true"
