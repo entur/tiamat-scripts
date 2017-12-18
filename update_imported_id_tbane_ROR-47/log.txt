@@ -1,0 +1,631 @@
+Tiamat proxy pod: tiamatdb-proxy-4229176698-m802h
+-------- importedId: RUT:Quay:301193001, newImportedId: RUT:Quay:AMM1 --------
+got keyvalid 432190
+insert into value_items (value_id, items) values(432190, 'RUT:Quay:AMM1')
+-------- importedId: RUT:Quay:301193002, newImportedId: RUT:Quay:AMM2 --------
+got keyvalid 432189
+insert into value_items (value_id, items) values(432189, 'RUT:Quay:AMM2')
+-------- importedId: RUT:Quay:219028001, newImportedId: RUT:Quay:AVL1 --------
+got keyvalid 414743
+insert into value_items (value_id, items) values(414743, 'RUT:Quay:AVL1')
+-------- importedId: RUT:Quay:219028002, newImportedId: RUT:Quay:AVL2 --------
+got keyvalid 414744
+insert into value_items (value_id, items) values(414744, 'RUT:Quay:AVL2')
+-------- importedId: RUT:Quay:219015001, newImportedId: RUT:Quay:BEK1 --------
+got keyvalid 721666
+insert into value_items (value_id, items) values(721666, 'RUT:Quay:BEK1')
+-------- importedId: RUT:Quay:219015002, newImportedId: RUT:Quay:BEK2 --------
+got keyvalid 721667
+insert into value_items (value_id, items) values(721667, 'RUT:Quay:BEK2')
+-------- importedId: RUT:Quay:301222001, newImportedId: RUT:Quay:BER1 --------
+got keyvalid 482934
+insert into value_items (value_id, items) values(482934, 'RUT:Quay:BER1')
+-------- importedId: RUT:Quay:301222002, newImportedId: RUT:Quay:BER2 --------
+got keyvalid 482935
+insert into value_items (value_id, items) values(482935, 'RUT:Quay:BER2')
+-------- importedId: RUT:Quay:301236501, newImportedId: RUT:Quay:BES1 --------
+got keyvalid 721575
+insert into value_items (value_id, items) values(721575, 'RUT:Quay:BES1')
+-------- importedId: RUT:Quay:301236502, newImportedId: RUT:Quay:BES2 --------
+got keyvalid 721574
+insert into value_items (value_id, items) values(721574, 'RUT:Quay:BES2')
+-------- importedId: RUT:Quay:301103001, newImportedId: RUT:Quay:BKR1 --------
+got keyvalid 721393
+insert into value_items (value_id, items) values(721393, 'RUT:Quay:BKR1')
+-------- importedId: RUT:Quay:301103002, newImportedId: RUT:Quay:BKR2 --------
+got keyvalid 721394
+insert into value_items (value_id, items) values(721394, 'RUT:Quay:BKR2')
+-------- importedId: RUT:Quay:301259001, newImportedId: RUT:Quay:BJØ1 --------
+got keyvalid 721652
+insert into value_items (value_id, items) values(721652, 'RUT:Quay:BJØ1')
+-------- importedId: RUT:Quay:301259002, newImportedId: RUT:Quay:BJØ2 --------
+got keyvalid 721653
+insert into value_items (value_id, items) values(721653, 'RUT:Quay:BJØ2')
+-------- importedId: RUT:Quay:301036001, newImportedId: RUT:Quay:BLI1 --------
+got keyvalid 482953
+insert into value_items (value_id, items) values(482953, 'RUT:Quay:BLI1')
+-------- importedId: RUT:Quay:301036002, newImportedId: RUT:Quay:BLI2 --------
+got keyvalid 482954
+insert into value_items (value_id, items) values(482954, 'RUT:Quay:BLI2')
+-------- importedId: RUT:Quay:301113001, newImportedId: RUT:Quay:BOG1 --------
+got keyvalid 721365
+insert into value_items (value_id, items) values(721365, 'RUT:Quay:BOG1')
+-------- importedId: RUT:Quay:301113002, newImportedId: RUT:Quay:BOG2 --------
+got keyvalid 721366
+insert into value_items (value_id, items) values(721366, 'RUT:Quay:BOG2')
+-------- importedId: RUT:Quay:301256001, newImportedId: RUT:Quay:BOR1 --------
+got keyvalid 721605
+insert into value_items (value_id, items) values(721605, 'RUT:Quay:BOR1')
+-------- importedId: RUT:Quay:301256002, newImportedId: RUT:Quay:BOR2 --------
+got keyvalid 721604
+insert into value_items (value_id, items) values(721604, 'RUT:Quay:BOR2')
+-------- importedId: RUT:Quay:301078001, newImportedId: RUT:Quay:BRA1 --------
+got keyvalid 721420
+insert into value_items (value_id, items) values(721420, 'RUT:Quay:BRA1')
+-------- importedId: RUT:Quay:301078002, newImportedId: RUT:Quay:BRA2 --------
+got keyvalid 721419
+insert into value_items (value_id, items) values(721419, 'RUT:Quay:BRA2')
+-------- importedId: RUT:Quay:301145001, newImportedId: RUT:Quay:BRY1 --------
+got keyvalid 758569
+insert into value_items (value_id, items) values(758569, 'RUT:Quay:BRY1')
+-------- importedId: RUT:Quay:301145002, newImportedId: RUT:Quay:BRY2 --------
+got keyvalid 758572
+insert into value_items (value_id, items) values(758572, 'RUT:Quay:BRY2')
+-------- importedId: RUT:Quay:301145003, newImportedId: RUT:Quay:BRY3 --------
+got keyvalid 758571
+insert into value_items (value_id, items) values(758571, 'RUT:Quay:BRY3')
+-------- importedId: RUT:Quay:301145004, newImportedId: RUT:Quay:BRY4 --------
+got keyvalid 758570
+insert into value_items (value_id, items) values(758570, 'RUT:Quay:BRY4')
+-------- importedId: RUT:Quay:301112001, newImportedId: RUT:Quay:BØL1 --------
+got keyvalid 721357
+insert into value_items (value_id, items) values(721357, 'RUT:Quay:BØL1')
+-------- importedId: RUT:Quay:301112002, newImportedId: RUT:Quay:BØL2 --------
+got keyvalid 721358
+insert into value_items (value_id, items) values(721358, 'RUT:Quay:BØL2')
+-------- importedId: RUT:Quay:301140001, newImportedId: RUT:Quay:CBP1 --------
+got keyvalid 257981
+insert into value_items (value_id, items) values(257981, 'RUT:Quay:CBP1')
+-------- importedId: RUT:Quay:301140002, newImportedId: RUT:Quay:CBP2 --------
+got keyvalid 257980
+insert into value_items (value_id, items) values(257980, 'RUT:Quay:CBP2')
+-------- importedId: RUT:Quay:219007001, newImportedId: RUT:Quay:EIK1 --------
+got keyvalid 721634
+insert into value_items (value_id, items) values(721634, 'RUT:Quay:EIK1')
+-------- importedId: RUT:Quay:219007002, newImportedId: RUT:Quay:EIK2 --------
+got keyvalid 721633
+insert into value_items (value_id, items) values(721633, 'RUT:Quay:EIK2')
+-------- importedId: RUT:Quay:301246001, newImportedId: RUT:Quay:EKR1 --------
+got keyvalid 423511
+insert into value_items (value_id, items) values(423511, 'RUT:Quay:EKR1')
+-------- importedId: RUT:Quay:301246002, newImportedId: RUT:Quay:EKR2 --------
+got keyvalid 423512
+insert into value_items (value_id, items) values(423512, 'RUT:Quay:EKR2')
+-------- importedId: RUT:Quay:301163001, newImportedId: RUT:Quay:ELÅ1 --------
+got keyvalid 695707
+insert into value_items (value_id, items) values(695707, 'RUT:Quay:ELÅ1')
+-------- importedId: RUT:Quay:301163002, newImportedId: RUT:Quay:ELÅ2 --------
+got keyvalid 695706
+insert into value_items (value_id, items) values(695706, 'RUT:Quay:ELÅ2')
+-------- importedId: RUT:Quay:301143001, newImportedId: RUT:Quay:ENS1 --------
+got keyvalid 483001
+insert into value_items (value_id, items) values(483001, 'RUT:Quay:ENS1')
+-------- importedId: RUT:Quay:301143002, newImportedId: RUT:Quay:ENS2 --------
+got keyvalid 483002
+insert into value_items (value_id, items) values(483002, 'RUT:Quay:ENS2')
+-------- importedId: RUT:Quay:301037001, newImportedId: RUT:Quay:FOR1 --------
+got keyvalid 482951
+insert into value_items (value_id, items) values(482951, 'RUT:Quay:FOR1')
+-------- importedId: RUT:Quay:301037002, newImportedId: RUT:Quay:FOR2 --------
+got keyvalid 482950
+insert into value_items (value_id, items) values(482950, 'RUT:Quay:FOR2')
+-------- importedId: RUT:Quay:301263001, newImportedId: RUT:Quay:FRS1 --------
+got keyvalid 26049
+insert into value_items (value_id, items) values(26049, 'RUT:Quay:FRS1')
+-------- importedId: RUT:Quay:301263002, newImportedId: RUT:Quay:FRS2 --------
+got keyvalid 26051
+insert into value_items (value_id, items) values(26051, 'RUT:Quay:FRS2')
+-------- importedId: RUT:Quay:301230501, newImportedId: RUT:Quay:FRØ1 --------
+got keyvalid 25269
+insert into value_items (value_id, items) values(25269, 'RUT:Quay:FRØ1')
+-------- importedId: RUT:Quay:301230502, newImportedId: RUT:Quay:FRØ2 --------
+got keyvalid 25273
+insert into value_items (value_id, items) values(25273, 'RUT:Quay:FRØ2')
+-------- importedId: RUT:Quay:301162001, newImportedId: RUT:Quay:FUR1 --------
+got keyvalid 695697
+insert into value_items (value_id, items) values(695697, 'RUT:Quay:FUR1')
+-------- importedId: RUT:Quay:301162002, newImportedId: RUT:Quay:FUR2 --------
+got keyvalid 695696
+insert into value_items (value_id, items) values(695696, 'RUT:Quay:FUR2')
+-------- importedId: RUT:Quay:301232001, newImportedId: RUT:Quay:GAU1 --------
+got keyvalid 25297
+insert into value_items (value_id, items) values(25297, 'RUT:Quay:GAU1')
+-------- importedId: RUT:Quay:301232002, newImportedId: RUT:Quay:GAU2 --------
+got keyvalid 25298
+insert into value_items (value_id, items) values(25298, 'RUT:Quay:GAU2')
+-------- importedId: RUT:Quay:219036001, newImportedId: RUT:Quay:GJE1 --------
+got keyvalid 414741
+insert into value_items (value_id, items) values(414741, 'RUT:Quay:GJE1')
+-------- importedId: RUT:Quay:219036002, newImportedId: RUT:Quay:GJE2 --------
+got keyvalid 414740
+insert into value_items (value_id, items) values(414740, 'RUT:Quay:GJE2')
+-------- importedId: RUT:Quay:219018001, newImportedId: RUT:Quay:GJØ1 --------
+got keyvalid 423186
+insert into value_items (value_id, items) values(423186, 'RUT:Quay:GJØ1')
+-------- importedId: RUT:Quay:219018002, newImportedId: RUT:Quay:GJØ2 --------
+got keyvalid 423187
+insert into value_items (value_id, items) values(423187, 'RUT:Quay:GJØ2')
+-------- importedId: RUT:Quay:301131001, newImportedId: RUT:Quay:GOD1 --------
+got keyvalid 414707
+insert into value_items (value_id, items) values(414707, 'RUT:Quay:GOD1')
+-------- importedId: RUT:Quay:301131002, newImportedId: RUT:Quay:GOD2 --------
+got keyvalid 414708
+insert into value_items (value_id, items) values(414708, 'RUT:Quay:GOD2')
+-------- importedId: RUT:Quay:301234001, newImportedId: RUT:Quay:GRÅ1 --------
+got keyvalid 25344
+insert into value_items (value_id, items) values(25344, 'RUT:Quay:GRÅ1')
+-------- importedId: RUT:Quay:301234002, newImportedId: RUT:Quay:GRÅ2 --------
+got keyvalid 25345
+insert into value_items (value_id, items) values(25345, 'RUT:Quay:GRÅ2')
+-------- importedId: RUT:Quay:301194001, newImportedId: RUT:Quay:GRO1 --------
+got keyvalid 695738
+insert into value_items (value_id, items) values(695738, 'RUT:Quay:GRO1')
+-------- importedId: RUT:Quay:301194002, newImportedId: RUT:Quay:GRO2 --------
+got keyvalid 695739
+insert into value_items (value_id, items) values(695739, 'RUT:Quay:GRO2')
+-------- importedId: RUT:Quay:301061001, newImportedId: RUT:Quay:GRØ1 --------
+got keyvalid 648286
+insert into value_items (value_id, items) values(648286, 'RUT:Quay:GRØ1')
+-------- importedId: RUT:Quay:301061002, newImportedId: RUT:Quay:GRØ2 --------
+got keyvalid 648288
+insert into value_items (value_id, items) values(648288, 'RUT:Quay:GRØ2')
+-------- importedId: RUT:Quay:301234502, newImportedId: RUT:Quay:GUL2 --------
+got keyvalid 25352
+insert into value_items (value_id, items) values(25352, 'RUT:Quay:GUL2')
+-------- importedId: RUT:Quay:219022001, newImportedId: RUT:Quay:HAL1 --------
+got keyvalid 721675
+insert into value_items (value_id, items) values(721675, 'RUT:Quay:HAL1')
+-------- importedId: RUT:Quay:219022002, newImportedId: RUT:Quay:HAL2 --------
+got keyvalid 721674
+insert into value_items (value_id, items) values(721674, 'RUT:Quay:HAL2')
+-------- importedId: RUT:Quay:301141001, newImportedId: RUT:Quay:HAS1 --------
+got keyvalid 648718
+insert into value_items (value_id, items) values(648718, 'RUT:Quay:HAS1')
+-------- importedId: RUT:Quay:301141002, newImportedId: RUT:Quay:HAS2 --------
+got keyvalid 648717
+insert into value_items (value_id, items) values(648717, 'RUT:Quay:HAS2')
+-------- importedId: RUT:Quay:219044001, newImportedId: RUT:Quay:HAE1 --------
+got keyvalid 721678
+insert into value_items (value_id, items) values(721678, 'RUT:Quay:HAE1')
+-------- importedId: RUT:Quay:219044002, newImportedId: RUT:Quay:HAE2 --------
+got keyvalid 721677
+insert into value_items (value_id, items) values(721677, 'RUT:Quay:HAE2')
+-------- importedId: RUT:Quay:301153001, newImportedId: RUT:Quay:HAU1 --------
+got keyvalid 695681
+insert into value_items (value_id, items) values(695681, 'RUT:Quay:HAU1')
+-------- importedId: RUT:Quay:301153002, newImportedId: RUT:Quay:HAU2 --------
+got keyvalid 695680
+insert into value_items (value_id, items) values(695680, 'RUT:Quay:HAU2')
+-------- importedId: RUT:Quay:301151001, newImportedId: RUT:Quay:HEL1 --------
+got keyvalid 648827
+insert into value_items (value_id, items) values(648827, 'RUT:Quay:HEL1')
+-------- importedId: RUT:Quay:301151002, newImportedId: RUT:Quay:HEL2 --------
+got keyvalid 648828
+insert into value_items (value_id, items) values(648828, 'RUT:Quay:HEL2')
+-------- importedId: RUT:Quay:301144001, newImportedId: RUT:Quay:HFY1 --------
+got keyvalid 414666
+insert into value_items (value_id, items) values(414666, 'RUT:Quay:HFY1')
+-------- importedId: RUT:Quay:301144002, newImportedId: RUT:Quay:HFY2 --------
+got keyvalid 414667
+insert into value_items (value_id, items) values(414667, 'RUT:Quay:HFY2')
+-------- importedId: RUT:Quay:301237001, newImportedId: RUT:Quay:HOK1 --------
+got keyvalid 25380
+insert into value_items (value_id, items) values(25380, 'RUT:Quay:HOK1')
+-------- importedId: RUT:Quay:301237002, newImportedId: RUT:Quay:HOK2 --------
+got keyvalid 25381
+insert into value_items (value_id, items) values(25381, 'RUT:Quay:HOK2')
+-------- importedId: RUT:Quay:301226001, newImportedId: RUT:Quay:HLS1 --------
+got keyvalid 482926
+insert into value_items (value_id, items) values(482926, 'RUT:Quay:HLS1')
+-------- importedId: RUT:Quay:301226002, newImportedId: RUT:Quay:HLS2 --------
+got keyvalid 482925
+insert into value_items (value_id, items) values(482925, 'RUT:Quay:HLS2')
+-------- importedId: RUT:Quay:301242001, newImportedId: RUT:Quay:HOL1 --------
+got keyvalid 423347
+insert into value_items (value_id, items) values(423347, 'RUT:Quay:HOL1')
+-------- importedId: RUT:Quay:301242002, newImportedId: RUT:Quay:HOL2 --------
+got keyvalid 423346
+insert into value_items (value_id, items) values(423346, 'RUT:Quay:HOL2')
+-------- importedId: RUT:Quay:301243001, newImportedId: RUT:Quay:HOV1 --------
+got keyvalid 721631
+insert into value_items (value_id, items) values(721631, 'RUT:Quay:HOV1')
+-------- importedId: RUT:Quay:301243002, newImportedId: RUT:Quay:HOV2 --------
+got keyvalid 721630
+insert into value_items (value_id, items) values(721630, 'RUT:Quay:HOV2')
+-------- importedId: RUT:Quay:301257201, newImportedId: RUT:Quay:HUB1 --------
+./update_imported_ids_tbane.sh: line 37: ((: > 0 : syntax error: operand expected (error token is "> 0 ")
+No match for RUT:Quay:301257201
+-------- importedId: RUT:Quay:301257202, newImportedId: RUT:Quay:HUB2 --------
+./update_imported_ids_tbane.sh: line 37: ((: > 0 : syntax error: operand expected (error token is "> 0 ")
+No match for RUT:Quay:301257202
+-------- importedId: RUT:Quay:301122001, newImportedId: RUT:Quay:HØY1 --------
+got keyvalid 721441
+insert into value_items (value_id, items) values(721441, 'RUT:Quay:HØY1')
+-------- importedId: RUT:Quay:301122002, newImportedId: RUT:Quay:HØY2 --------
+got keyvalid 721442
+insert into value_items (value_id, items) values(721442, 'RUT:Quay:HØY2')
+-------- importedId: RUT:Quay:219005001, newImportedId: RUT:Quay:JAR1 --------
+got keyvalid 721664
+insert into value_items (value_id, items) values(721664, 'RUT:Quay:JAR1')
+-------- importedId: RUT:Quay:219005002, newImportedId: RUT:Quay:JAR2 --------
+got keyvalid 721663
+insert into value_items (value_id, items) values(721663, 'RUT:Quay:JAR2')
+-------- importedId: RUT:Quay:301001101, newImportedId: RUT:Quay:JER1 --------
+got keyvalid 755250
+insert into value_items (value_id, items) values(755250, 'RUT:Quay:JER1')
+-------- importedId: RUT:Quay:301001102, newImportedId: RUT:Quay:JER2 --------
+got keyvalid 755248
+insert into value_items (value_id, items) values(755248, 'RUT:Quay:JER2')
+-------- importedId: RUT:Quay:301192001, newImportedId: RUT:Quay:KAL1 --------
+got keyvalid 432192
+insert into value_items (value_id, items) values(432192, 'RUT:Quay:KAL1')
+-------- importedId: RUT:Quay:301192002, newImportedId: RUT:Quay:KAL2 --------
+got keyvalid 432193
+insert into value_items (value_id, items) values(432193, 'RUT:Quay:KAL2')
+-------- importedId: RUT:Quay:301077001, newImportedId: RUT:Quay:KAR1 --------
+got keyvalid 721413
+insert into value_items (value_id, items) values(721413, 'RUT:Quay:KAR1')
+-------- importedId: RUT:Quay:301077002, newImportedId: RUT:Quay:KAR2 --------
+got keyvalid 721414
+insert into value_items (value_id, items) values(721414, 'RUT:Quay:KAR2')
+-------- importedId: RUT:Quay:219045001, newImportedId: RUT:Quay:KOL1 --------
+got keyvalid 721683
+insert into value_items (value_id, items) values(721683, 'RUT:Quay:KOL1')
+-------- importedId: RUT:Quay:219045002, newImportedId: RUT:Quay:KOL2 --------
+got keyvalid 721684
+insert into value_items (value_id, items) values(721684, 'RUT:Quay:KOL2')
+-------- importedId: RUT:Quay:301227001, newImportedId: RUT:Quay:KRI1 --------
+got keyvalid 482922
+insert into value_items (value_id, items) values(482922, 'RUT:Quay:KRI1')
+-------- importedId: RUT:Quay:301227002, newImportedId: RUT:Quay:KRI2 --------
+got keyvalid 482923
+insert into value_items (value_id, items) values(482923, 'RUT:Quay:KRI2')
+-------- importedId: RUT:Quay:301101001, newImportedId: RUT:Quay:LAM1 --------
+got keyvalid 721405
+insert into value_items (value_id, items) values(721405, 'RUT:Quay:LAM1')
+-------- importedId: RUT:Quay:301101002, newImportedId: RUT:Quay:LAM2 --------
+got keyvalid 721404
+insert into value_items (value_id, items) values(721404, 'RUT:Quay:LAM2')
+-------- importedId: RUT:Quay:301161001, newImportedId: RUT:Quay:LIB1 --------
+got keyvalid 695692
+insert into value_items (value_id, items) values(695692, 'RUT:Quay:LIB1')
+-------- importedId: RUT:Quay:301161002, newImportedId: RUT:Quay:LIB2 --------
+got keyvalid 695691
+insert into value_items (value_id, items) values(695691, 'RUT:Quay:LIB2')
+-------- importedId: RUT:Quay:219008001, newImportedId: RUT:Quay:LIJ1 --------
+got keyvalid 423502
+insert into value_items (value_id, items) values(423502, 'RUT:Quay:LIJ1')
+-------- importedId: RUT:Quay:219008002, newImportedId: RUT:Quay:LIJ2 --------
+got keyvalid 423501
+insert into value_items (value_id, items) values(423501, 'RUT:Quay:LIJ2')
+-------- importedId: RUT:Quay:301203001, newImportedId: RUT:Quay:LIN1 --------
+got keyvalid 465965
+insert into value_items (value_id, items) values(465965, 'RUT:Quay:LIN1')
+-------- importedId: RUT:Quay:301203002, newImportedId: RUT:Quay:LIN2 --------
+got keyvalid 465964
+insert into value_items (value_id, items) values(465964, 'RUT:Quay:LIN2')
+-------- importedId: RUT:Quay:301238501, newImportedId: RUT:Quay:LIV1 --------
+got keyvalid 25507
+insert into value_items (value_id, items) values(25507, 'RUT:Quay:LIV1')
+-------- importedId: RUT:Quay:301238502, newImportedId: RUT:Quay:LIV2 --------
+got keyvalid 25506
+insert into value_items (value_id, items) values(25506, 'RUT:Quay:LIV2')
+-------- importedId: RUT:Quay:301149001, newImportedId: RUT:Quay:LØR1 --------
+got keyvalid 648341
+insert into value_items (value_id, items) values(648341, 'RUT:Quay:LØR1')
+-------- importedId: RUT:Quay:301149002, newImportedId: RUT:Quay:LØR2 --------
+got keyvalid 648342
+insert into value_items (value_id, items) values(648342, 'RUT:Quay:LØR2')
+-------- importedId: RUT:Quay:301241001, newImportedId: RUT:Quay:MAK1 --------
+got keyvalid 721623
+insert into value_items (value_id, items) values(721623, 'RUT:Quay:MAK1')
+-------- importedId: RUT:Quay:301241002, newImportedId: RUT:Quay:MAK2 --------
+got keyvalid 721622
+insert into value_items (value_id, items) values(721622, 'RUT:Quay:MAK2')
+-------- importedId: RUT:Quay:301121001, newImportedId: RUT:Quay:MAN1 --------
+got keyvalid 721438
+insert into value_items (value_id, items) values(721438, 'RUT:Quay:MAN1')
+-------- importedId: RUT:Quay:301121002, newImportedId: RUT:Quay:MAN2 --------
+got keyvalid 721439
+insert into value_items (value_id, items) values(721439, 'RUT:Quay:MAN2')
+-------- importedId: RUT:Quay:301020001, newImportedId: RUT:Quay:MAJ1 --------
+got keyvalid 751078
+insert into value_items (value_id, items) values(751078, 'RUT:Quay:MAJ1')
+-------- importedId: RUT:Quay:301020002, newImportedId: RUT:Quay:MAJ2 --------
+got keyvalid 751076
+insert into value_items (value_id, items) values(751076, 'RUT:Quay:MAJ2')
+-------- importedId: RUT:Quay:301020004, newImportedId: RUT:Quay:MAJ4 --------
+./update_imported_ids_tbane.sh: line 37: ((: > 0 : syntax error: operand expected (error token is "> 0 ")
+No match for RUT:Quay:301020004
+-------- importedId: RUT:Quay:30102000A, newImportedId: RUT:Quay:MAJA --------
+./update_imported_ids_tbane.sh: line 37: ((: > 0 : syntax error: operand expected (error token is "> 0 ")
+No match for RUT:Quay:30102000A
+-------- importedId: RUT:Quay:301257501, newImportedId: RUT:Quay:MON1 --------
+got keyvalid 423223
+insert into value_items (value_id, items) values(423223, 'RUT:Quay:MON1')
+-------- importedId: RUT:Quay:301257502, newImportedId: RUT:Quay:MON2 --------
+got keyvalid 423222
+insert into value_items (value_id, items) values(423222, 'RUT:Quay:MON2')
+-------- importedId: RUT:Quay:301095001, newImportedId: RUT:Quay:MOR1 --------
+got keyvalid 721383
+insert into value_items (value_id, items) values(721383, 'RUT:Quay:MOR1')
+-------- importedId: RUT:Quay:301095002, newImportedId: RUT:Quay:MOR2 --------
+got keyvalid 721382
+insert into value_items (value_id, items) values(721382, 'RUT:Quay:MOR2')
+-------- importedId: RUT:Quay:301236001, newImportedId: RUT:Quay:MID1 --------
+got keyvalid 25363
+insert into value_items (value_id, items) values(25363, 'RUT:Quay:MID1')
+-------- importedId: RUT:Quay:301236002, newImportedId: RUT:Quay:MID2 --------
+got keyvalid 25361
+insert into value_items (value_id, items) values(25361, 'RUT:Quay:MID2')
+-------- importedId: RUT:Quay:301102001, newImportedId: RUT:Quay:MUN1 --------
+got keyvalid 721398
+insert into value_items (value_id, items) values(721398, 'RUT:Quay:MUN1')
+-------- importedId: RUT:Quay:301102002, newImportedId: RUT:Quay:MUN2 --------
+got keyvalid 721399
+insert into value_items (value_id, items) values(721399, 'RUT:Quay:MUN2')
+-------- importedId: RUT:Quay:301003101, newImportedId: RUT:Quay:NAT1 --------
+got keyvalid 414677
+insert into value_items (value_id, items) values(414677, 'RUT:Quay:NAT1')
+-------- importedId: RUT:Quay:301003102, newImportedId: RUT:Quay:NAT2 --------
+got keyvalid 414676
+insert into value_items (value_id, items) values(414676, 'RUT:Quay:NAT2')
+-------- importedId: RUT:Quay:301213001, newImportedId: RUT:Quay:NYD1 --------
+got keyvalid 474480
+insert into value_items (value_id, items) values(474480, 'RUT:Quay:NYD1')
+-------- importedId: RUT:Quay:301213002, newImportedId: RUT:Quay:NYD2 --------
+got keyvalid 474481
+insert into value_items (value_id, items) values(474481, 'RUT:Quay:NYD2')
+-------- importedId: RUT:Quay:301133001, newImportedId: RUT:Quay:OPP1 --------
+got keyvalid 414702
+insert into value_items (value_id, items) values(414702, 'RUT:Quay:OPP1')
+-------- importedId: RUT:Quay:301133002, newImportedId: RUT:Quay:OPP2 --------
+got keyvalid 414701
+insert into value_items (value_id, items) values(414701, 'RUT:Quay:OPP2')
+-------- importedId: RUT:Quay:219012001, newImportedId: RUT:Quay:RIN1 --------
+got keyvalid 423189
+insert into value_items (value_id, items) values(423189, 'RUT:Quay:RIN1')
+-------- importedId: RUT:Quay:219012002, newImportedId: RUT:Quay:RIN2 --------
+got keyvalid 423190
+insert into value_items (value_id, items) values(423190, 'RUT:Quay:RIN2')
+-------- importedId: RUT:Quay:301232501, newImportedId: RUT:Quay:RIS1 --------
+got keyvalid 721587
+insert into value_items (value_id, items) values(721587, 'RUT:Quay:RIS1')
+-------- importedId: RUT:Quay:301232502, newImportedId: RUT:Quay:RIS2 --------
+got keyvalid 721588
+insert into value_items (value_id, items) values(721588, 'RUT:Quay:RIS2')
+-------- importedId: RUT:Quay:301201001, newImportedId: RUT:Quay:RLØ1 --------
+got keyvalid 465980
+insert into value_items (value_id, items) values(465980, 'RUT:Quay:RLØ1')
+-------- importedId: RUT:Quay:301201002, newImportedId: RUT:Quay:RLØ2 --------
+got keyvalid 465979
+insert into value_items (value_id, items) values(465979, 'RUT:Quay:RLØ2')
+-------- importedId: RUT:Quay:301171001, newImportedId: RUT:Quay:ROM1 --------
+got keyvalid 658611
+insert into value_items (value_id, items) values(658611, 'RUT:Quay:ROM1')
+-------- importedId: RUT:Quay:301171002, newImportedId: RUT:Quay:ROM2 --------
+got keyvalid 658612
+insert into value_items (value_id, items) values(658612, 'RUT:Quay:ROM2')
+-------- importedId: RUT:Quay:301120001, newImportedId: RUT:Quay:RYE1 --------
+got keyvalid 721432
+insert into value_items (value_id, items) values(721432, 'RUT:Quay:RYE1')
+-------- importedId: RUT:Quay:301120002, newImportedId: RUT:Quay:RYE2 --------
+got keyvalid 721433
+insert into value_items (value_id, items) values(721433, 'RUT:Quay:RYE2')
+-------- importedId: RUT:Quay:301245001, newImportedId: RUT:Quay:RØA1 --------
+got keyvalid 423515
+insert into value_items (value_id, items) values(423515, 'RUT:Quay:RØA1')
+-------- importedId: RUT:Quay:301245002, newImportedId: RUT:Quay:RØA2 --------
+got keyvalid 423514
+insert into value_items (value_id, items) values(423514, 'RUT:Quay:RØA2')
+-------- importedId: RUT:Quay:301191001, newImportedId: RUT:Quay:RØD1 --------
+got keyvalid 695742
+insert into value_items (value_id, items) values(695742, 'RUT:Quay:RØD1')
+-------- importedId: RUT:Quay:301191002, newImportedId: RUT:Quay:RØD2 --------
+got keyvalid 695743
+insert into value_items (value_id, items) values(695743, 'RUT:Quay:RØD2')
+-------- importedId: RUT:Quay:301181001, newImportedId: RUT:Quay:RÅS1 --------
+got keyvalid 432181
+insert into value_items (value_id, items) values(432181, 'RUT:Quay:RÅS1')
+-------- importedId: RUT:Quay:301181002, newImportedId: RUT:Quay:RÅS2 --------
+got keyvalid 432180
+insert into value_items (value_id, items) values(432180, 'RUT:Quay:RÅS2')
+-------- importedId: RUT:Quay:301210001, newImportedId: RUT:Quay:SIN1 --------
+got keyvalid 474474
+insert into value_items (value_id, items) values(474474, 'RUT:Quay:SIN1')
+-------- importedId: RUT:Quay:301210002, newImportedId: RUT:Quay:SIN2 --------
+got keyvalid 474475
+insert into value_items (value_id, items) values(474475, 'RUT:Quay:SIN2')
+-------- importedId: RUT:Quay:301238001, newImportedId: RUT:Quay:SKO1 --------
+got keyvalid 25386
+insert into value_items (value_id, items) values(25386, 'RUT:Quay:SKO1')
+-------- importedId: RUT:Quay:301238002, newImportedId: RUT:Quay:SKO2 --------
+got keyvalid 25388
+insert into value_items (value_id, items) values(25388, 'RUT:Quay:SKO2')
+-------- importedId: RUT:Quay:301114001, newImportedId: RUT:Quay:SKU1 --------
+got keyvalid 721370
+insert into value_items (value_id, items) values(721370, 'RUT:Quay:SKU1')
+-------- importedId: RUT:Quay:301114002, newImportedId: RUT:Quay:SKU2 --------
+got keyvalid 721369
+insert into value_items (value_id, items) values(721369, 'RUT:Quay:SKU2')
+-------- importedId: RUT:Quay:301235501, newImportedId: RUT:Quay:SKÅ1 --------
+got keyvalid 25358
+insert into value_items (value_id, items) values(25358, 'RUT:Quay:SKÅ1')
+-------- importedId: RUT:Quay:301235502, newImportedId: RUT:Quay:SKÅ2 --------
+got keyvalid 25357
+insert into value_items (value_id, items) values(25357, 'RUT:Quay:SKÅ2')
+-------- importedId: RUT:Quay:301233001, newImportedId: RUT:Quay:SLE1 --------
+got keyvalid 721578
+insert into value_items (value_id, items) values(721578, 'RUT:Quay:SLE1')
+-------- importedId: RUT:Quay:301233002, newImportedId: RUT:Quay:SLE2 --------
+got keyvalid 721577
+insert into value_items (value_id, items) values(721577, 'RUT:Quay:SLE2')
+-------- importedId: RUT:Quay:301256501, newImportedId: RUT:Quay:SME1 --------
+got keyvalid 721619
+insert into value_items (value_id, items) values(721619, 'RUT:Quay:SME1')
+-------- importedId: RUT:Quay:301256502, newImportedId: RUT:Quay:SME2 --------
+got keyvalid 721620
+insert into value_items (value_id, items) values(721620, 'RUT:Quay:SME2')
+-------- importedId: RUT:Quay:301231001, newImportedId: RUT:Quay:STE1 --------
+got keyvalid 721600
+insert into value_items (value_id, items) values(721600, 'RUT:Quay:STE1')
+-------- importedId: RUT:Quay:301231002, newImportedId: RUT:Quay:STE2 --------
+got keyvalid 721599
+insert into value_items (value_id, items) values(721599, 'RUT:Quay:STE2')
+-------- importedId: RUT:Quay:301172001, newImportedId: RUT:Quay:STO1 --------
+got keyvalid 695722
+insert into value_items (value_id, items) values(695722, 'RUT:Quay:STO1')
+-------- importedId: RUT:Quay:301172002, newImportedId: RUT:Quay:STO2 --------
+got keyvalid 695721
+insert into value_items (value_id, items) values(695721, 'RUT:Quay:STO2')
+-------- importedId: RUT:Quay:301212001, newImportedId: RUT:Quay:STR1 --------
+got keyvalid 731119
+insert into value_items (value_id, items) values(731119, 'RUT:Quay:STR1')
+-------- importedId: RUT:Quay:301212002, newImportedId: RUT:Quay:STR2 --------
+got keyvalid 731118
+insert into value_items (value_id, items) values(731118, 'RUT:Quay:STR2')
+-------- importedId: RUT:Quay:301002001, newImportedId: RUT:Quay:STT1 --------
+got keyvalid 757536
+insert into value_items (value_id, items) values(757536, 'RUT:Quay:STT1')
+-------- importedId: RUT:Quay:301002002, newImportedId: RUT:Quay:STT2 --------
+got keyvalid 757533
+insert into value_items (value_id, items) values(757533, 'RUT:Quay:STT2')
+-------- importedId: RUT:Quay:301002003, newImportedId: RUT:Quay:STT3 --------
+got keyvalid 757531
+insert into value_items (value_id, items) values(757531, 'RUT:Quay:STT3')
+-------- importedId: RUT:Quay:301020004, newImportedId: RUT:Quay:STT4 --------
+./update_imported_ids_tbane.sh: line 37: ((: > 0 : syntax error: operand expected (error token is "> 0 ")
+No match for RUT:Quay:301020004
+-------- importedId: RUT:Quay:301228001, newImportedId: RUT:Quay:SOG1 --------
+got keyvalid 474484
+insert into value_items (value_id, items) values(474484, 'RUT:Quay:SOG1')
+-------- importedId: RUT:Quay:301228002, newImportedId: RUT:Quay:SOG2 --------
+got keyvalid 474483
+insert into value_items (value_id, items) values(474483, 'RUT:Quay:SOG2')
+-------- importedId: RUT:Quay:301132001, newImportedId: RUT:Quay:SÅS1 --------
+got keyvalid 721339
+insert into value_items (value_id, items) values(721339, 'RUT:Quay:SÅS1')
+-------- importedId: RUT:Quay:301132002, newImportedId: RUT:Quay:SÅS2 --------
+got keyvalid 721338
+insert into value_items (value_id, items) values(721338, 'RUT:Quay:SÅS2')
+-------- importedId: RUT:Quay:301154001, newImportedId: RUT:Quay:TRO1 --------
+got keyvalid 431941
+insert into value_items (value_id, items) values(431941, 'RUT:Quay:TRO1')
+-------- importedId: RUT:Quay:301154002, newImportedId: RUT:Quay:TRO2 --------
+got keyvalid 431942
+insert into value_items (value_id, items) values(431942, 'RUT:Quay:TRO2')
+-------- importedId: RUT:Quay:301223001, newImportedId: RUT:Quay:TÅS1 --------
+got keyvalid 482931
+insert into value_items (value_id, items) values(482931, 'RUT:Quay:TÅS1')
+-------- importedId: RUT:Quay:301223002, newImportedId: RUT:Quay:TÅS2 --------
+got keyvalid 482932
+insert into value_items (value_id, items) values(482932, 'RUT:Quay:TÅS2')
+-------- importedId: RUT:Quay:301152001, newImportedId: RUT:Quay:TVE1 --------
+got keyvalid 483058
+insert into value_items (value_id, items) values(483058, 'RUT:Quay:TVE1')
+-------- importedId: RUT:Quay:301152002, newImportedId: RUT:Quay:TVE2 --------
+got keyvalid 483057
+insert into value_items (value_id, items) values(483057, 'RUT:Quay:TVE2')
+-------- importedId: RUT:Quay:301060001, newImportedId: RUT:Quay:TØY1 --------
+got keyvalid 587471
+insert into value_items (value_id, items) values(587471, 'RUT:Quay:TØY1')
+-------- importedId: RUT:Quay:301060002, newImportedId: RUT:Quay:TØY2 --------
+got keyvalid 587469
+insert into value_items (value_id, items) values(587469, 'RUT:Quay:TØY2')
+-------- importedId: RUT:Quay:301060004, newImportedId: RUT:Quay:TØY4 --------
+got keyvalid 587467
+insert into value_items (value_id, items) values(587467, 'RUT:Quay:TØY4')
+-------- importedId: RUT:Quay:301258001, newImportedId: RUT:Quay:ULL1 --------
+got keyvalid 423220
+insert into value_items (value_id, items) values(423220, 'RUT:Quay:ULL1')
+-------- importedId: RUT:Quay:301258002, newImportedId: RUT:Quay:ULL2 --------
+got keyvalid 423219
+insert into value_items (value_id, items) values(423219, 'RUT:Quay:ULL2')
+-------- importedId: RUT:Quay:301111001, newImportedId: RUT:Quay:ULS1 --------
+got keyvalid 721348
+insert into value_items (value_id, items) values(721348, 'RUT:Quay:ULS1')
+-------- importedId: RUT:Quay:301111002, newImportedId: RUT:Quay:ULS2 --------
+got keyvalid 721349
+insert into value_items (value_id, items) values(721349, 'RUT:Quay:ULS2')
+-------- importedId: RUT:Quay:301221001, newImportedId: RUT:Quay:UST1 --------
+got keyvalid 721559
+insert into value_items (value_id, items) values(721559, 'RUT:Quay:UST1')
+-------- importedId: RUT:Quay:301221002, newImportedId: RUT:Quay:UST2 --------
+got keyvalid 721558
+insert into value_items (value_id, items) values(721558, 'RUT:Quay:UST2')
+-------- importedId: RUT:Quay:301204001, newImportedId: RUT:Quay:VEI1 --------
+got keyvalid 658594
+insert into value_items (value_id, items) values(658594, 'RUT:Quay:VEI1')
+-------- importedId: RUT:Quay:301204002, newImportedId: RUT:Quay:VEI2 --------
+got keyvalid 658593
+insert into value_items (value_id, items) values(658593, 'RUT:Quay:VEI2')
+-------- importedId: RUT:Quay:301173001, newImportedId: RUT:Quay:VES1 --------
+got keyvalid 695710
+insert into value_items (value_id, items) values(695710, 'RUT:Quay:VES1')
+-------- importedId: RUT:Quay:301173002, newImportedId: RUT:Quay:VES2 --------
+got keyvalid 695711
+insert into value_items (value_id, items) values(695711, 'RUT:Quay:VES2')
+-------- importedId: RUT:Quay:301235001, newImportedId: RUT:Quay:VET1 --------
+got keyvalid 25354
+insert into value_items (value_id, items) values(25354, 'RUT:Quay:VET1')
+-------- importedId: RUT:Quay:301235002, newImportedId: RUT:Quay:VET2 --------
+got keyvalid 25356
+insert into value_items (value_id, items) values(25356, 'RUT:Quay:VET2')
+-------- importedId: RUT:Quay:301231501, newImportedId: RUT:Quay:VIN1 --------
+got keyvalid 721596
+insert into value_items (value_id, items) values(721596, 'RUT:Quay:VIN1')
+-------- importedId: RUT:Quay:301231502, newImportedId: RUT:Quay:VIN2 --------
+got keyvalid 721597
+insert into value_items (value_id, items) values(721597, 'RUT:Quay:VIN2')
+-------- importedId: RUT:Quay:301239001, newImportedId: RUT:Quay:VKO1 --------
+got keyvalid 721564
+insert into value_items (value_id, items) values(721564, 'RUT:Quay:VKO1')
+-------- importedId: RUT:Quay:301239002, newImportedId: RUT:Quay:VKO2 --------
+got keyvalid 721565
+insert into value_items (value_id, items) values(721565, 'RUT:Quay:VKO2')
+-------- importedId: RUT:Quay:301237501, newImportedId: RUT:Quay:VLA1 --------
+got keyvalid 25387
+insert into value_items (value_id, items) values(25387, 'RUT:Quay:VLA1')
+-------- importedId: RUT:Quay:301237502, newImportedId: RUT:Quay:VLA2 --------
+got keyvalid 25385
+insert into value_items (value_id, items) values(25385, 'RUT:Quay:VLA2')
+-------- importedId: RUT:Quay:301202001, newImportedId: RUT:Quay:VOL1 --------
+got keyvalid 465967
+insert into value_items (value_id, items) values(465967, 'RUT:Quay:VOL1')
+-------- importedId: RUT:Quay:301202002, newImportedId: RUT:Quay:VOL2 --------
+got keyvalid 465968
+insert into value_items (value_id, items) values(465968, 'RUT:Quay:VOL2')
+-------- importedId: RUT:Quay:301200001, newImportedId: RUT:Quay:ØKE1 --------
+got keyvalid 752291
+insert into value_items (value_id, items) values(752291, 'RUT:Quay:ØKE1')
+-------- importedId: RUT:Quay:301200002, newImportedId: RUT:Quay:ØKE2 --------
+got keyvalid 752290
+insert into value_items (value_id, items) values(752290, 'RUT:Quay:ØKE2')
+-------- importedId: RUT:Quay:219009001, newImportedId: RUT:Quay:ØSÅ1 --------
+got keyvalid 721644
+insert into value_items (value_id, items) values(721644, 'RUT:Quay:ØSÅ1')
+-------- importedId: RUT:Quay:219009002, newImportedId: RUT:Quay:ØSÅ2 --------
+got keyvalid 721643
+insert into value_items (value_id, items) values(721643, 'RUT:Quay:ØSÅ2')
+-------- importedId: RUT:Quay:301224001, newImportedId: RUT:Quay:ØSH1 --------
+got keyvalid 482929
+insert into value_items (value_id, items) values(482929, 'RUT:Quay:ØSH1')
+-------- importedId: RUT:Quay:301224002, newImportedId: RUT:Quay:ØSH2 --------
+got keyvalid 482928
+insert into value_items (value_id, items) values(482928, 'RUT:Quay:ØSH2')
+-------- importedId: RUT:Quay:301258501, newImportedId: RUT:Quay:ÅSJ1 --------
+got keyvalid 721647
+insert into value_items (value_id, items) values(721647, 'RUT:Quay:ÅSJ1')
+-------- importedId: RUT:Quay:301258502, newImportedId: RUT:Quay:ÅSJ2 --------
+got keyvalid 721646
+insert into value_items (value_id, items) values(721646, 'RUT:Quay:ÅSJ2')
