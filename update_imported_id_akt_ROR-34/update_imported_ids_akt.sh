@@ -22,7 +22,7 @@ quaysSql="SELECT qkv.key_values_id, vi.items
                 ((p.netex_id IS NOT NULL AND (p.from_date IS NULL OR p.from_date <= now()) AND (p.to_date IS NULL OR p.to_date > now()))
                   OR (p.netex_id IS NULL AND (s.from_date IS NULL OR s.from_date <= now()) AND (s.to_date IS NULL OR s.to_date > now())))
                 AND qkv.key_values_key = 'imported-id'
-                AND vi.items ~ 'ATB:Quay:\d{8}$'
+                AND vi.items ~ 'AKT:Quay:\d{8}$'
               ORDER BY q.netex_id, q.version, vi.items"
 
 $psql "copy($quaysSql) TO STDOUT WITH CSV" | tr ',' ' ' | while read line; do
