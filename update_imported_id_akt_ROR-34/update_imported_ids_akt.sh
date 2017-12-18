@@ -6,6 +6,11 @@ pod=`kubectl get pods | grep tiamatdb-proxy | head -n1 | cut -d '-' -f 1-4 | awk
 psql="kubectl exec -t $pod -- psql -h tiamatdb-proxy-service postgresql://tiamat:$DB_PASS@/tiamat -qtA -c "
 echo "Tiamat proxy pod: $pod"
 
+statements_file="statements.sql"
+
+if [ -f $statements_file ]; then
+  rm $statements_file
+fi
 
 quaysSql="SELECT qkv.key_values_id, vi.items
             FROM quay_key_values qkv
@@ -31,7 +36,9 @@ $psql "copy($quaysSql) TO STDOUT WITH CSV" | tr ',' ' ' | while read line; do
   echo "-------- keyValuesId: $keyValuesId, importedId: $importedId --------";
 
   newImportedId="${importedId}00"
-  insertSql="insert into value_items (value_id, items) values($keyValuesId, '$newImportedId')"
-  echo $insertSql
-  $psql "$insertSql"
+  insertSql="insert into value_items (value_id, items) values($keyValuesId, '$newImportedId');"
+  echo $insertSql >> statements.sql
 done;
+
+
+echo "See the file $statements_file for statements to execute"
