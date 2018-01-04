@@ -1,4 +1,3 @@
-update stop_place s set name_value='new_name' where s.netex_id = 'id' and s.version = (select max(sv.version) from stop_place sv where sv.netex_id = s.netex_id);
 update stop_place s set name_value='Alvdal stasjon' where s.netex_id = 'NSR:StopPlace:392' and s.version = (select max(sv.version) from stop_place sv where sv.netex_id = s.netex_id);
 update stop_place s set name_value='Bellingmo stasjon' where s.netex_id = 'NSR:StopPlace:500' and s.version = (select max(sv.version) from stop_place sv where sv.netex_id = s.netex_id);
 update stop_place s set name_value='Rise stasjon' where s.netex_id = 'NSR:StopPlace:35' and s.version = (select max(sv.version) from stop_place sv where sv.netex_id = s.netex_id);
