@@ -1,0 +1,436 @@
+id;original_name;new_name
+NSR:StopPlace:392;Alvdal;Alvdal stasjon
+NSR:StopPlace:500;Bellingmo;Bellingmo stasjon
+NSR:StopPlace:35;Rise;Rise stasjon
+NSR:StopPlace:380;Arendal;Arendal stasjon
+NSR:StopPlace:608;Bråstad;Bråstad stasjon
+NSR:StopPlace:676;Stoa;Stoa stasjon
+NSR:StopPlace:126;Heggedal;Heggedal stasjon
+NSR:StopPlace:289;Gullhella;Gullhella stasjon
+NSR:StopPlace:295;Hvalstad;Hvalstad stasjon
+NSR:StopPlace:319;Høn;Høn stasjon
+NSR:StopPlace:368;Vakås;Vakås stasjon
+NSR:StopPlace:418;Asker;Asker stasjon
+NSR:StopPlace:523;Bondivann;Bondivann stasjon
+NSR:StopPlace:577;Billingstad;Billingstad stasjon
+NSR:StopPlace:412;Askim;Askim stasjon
+NSR:StopPlace:434;Audnedal;Audnedal stasjon
+NSR:StopPlace:222;Myrdal;Myrdal stasjon
+NSR:StopPlace:231;Flåm;Flåm stasjon
+NSR:StopPlace:326;Håreina;Håreina stasjon
+NSR:StopPlace:349;Upsete;Upsete stasjon
+NSR:StopPlace:448;Vatnahalsen;Vatnahalsen stasjon
+NSR:StopPlace:45;Reinunga;Reinunga stasjon
+NSR:StopPlace:457;Berekvam;Berekvam stasjon
+NSR:StopPlace:466;Lunden;Lunden stasjon
+NSR:StopPlace:484;Blomheller;Blomheller stasjon
+NSR:StopPlace:535;Kjosfossen;Kjosfossen stasjon
+NSR:StopPlace:398;Arna;Arna stasjon
+NSR:StopPlace:548;Bergen;Bergen stasjon
+NSR:StopPlace:677;Trengereid;Trengereid stasjon
+NSR:StopPlace:234;Mørkved;Mørkved stasjon
+NSR:StopPlace:507;Bodø;Bodø stasjon
+NSR:StopPlace:575;Tverlandet;Tverlandet stasjon
+NSR:StopPlace:58415;Oteråga;Oteråga stasjon
+NSR:StopPlace:157;Lysaker;Lysaker stasjon
+NSR:StopPlace:303;Høvik;Høvik stasjon
+NSR:StopPlace:493;Blommenholm;Blommenholm stasjon
+NSR:StopPlace:57940;Smutterud;Smutterud stasjon
+NSR:StopPlace:57941;Bjørkåsen;Bjørkåsen stasjon
+NSR:StopPlace:57942;Gundershogget;Gundershogget stasjon
+NSR:StopPlace:610;Sandvika;Sandvika stasjon
+NSR:StopPlace:648;Slependen;Slependen stasjon
+NSR:StopPlace:706;Stabekk;Stabekk stasjon
+NSR:StopPlace:590;Bø;Bø stasjon
+NSR:StopPlace:175;Hjerkinn;Hjerkinn stasjon
+NSR:StopPlace:645;Dombås;Dombås stasjon
+NSR:StopPlace:652;Dovre;Dovre stasjon
+NSR:StopPlace:11;Drammen;Drammen stasjon
+NSR:StopPlace:18;Gulskogen;Gulskogen stasjon
+NSR:StopPlace:536;Brakerøya;Brakerøya stasjon
+NSR:StopPlace:1;Drangedal;Drangedal stasjon
+NSR:StopPlace:297;Neslandsvatn;Neslandsvatn stasjon
+NSR:StopPlace:133;Heia;Heia stasjon
+NSR:StopPlace:226;Mysen;Mysen stasjon
+NSR:StopPlace:63;Eidsberg;Eidsberg stasjon
+NSR:StopPlace:654;Slitu;Slitu stasjon
+NSR:StopPlace:159;Eidsvoll;Eidsvoll stasjon
+NSR:StopPlace:166;Eidsvoll Verk;Eidsvoll Verk stasjon
+NSR:StopPlace:621;Dal;Dal stasjon
+NSR:StopPlace:149;Hellvik;Hellvik stasjon
+NSR:StopPlace:82;Egersund;Egersund stasjon
+NSR:StopPlace:117;Elverum;Elverum stasjon
+NSR:StopPlace:176;Fauske;Fauske stasjon
+NSR:StopPlace:372;Valnesfjord;Valnesfjord stasjon
+NSR:StopPlace:186;Fetsund;Fetsund stasjon
+NSR:StopPlace:254;Nerdrum;Nerdrum stasjon
+NSR:StopPlace:613;Svingen;Svingen stasjon
+NSR:StopPlace:695;Tuen;Tuen stasjon
+NSR:StopPlace:120;Sira;Sira stasjon
+NSR:StopPlace:29;Gyland;Gyland stasjon
+NSR:StopPlace:223;Flå;Flå stasjon
+NSR:StopPlace:239;Fredrikstad;Fredrikstad stasjon
+NSR:StopPlace:247;Froland;Froland stasjon
+NSR:StopPlace:472;Blakstad;Blakstad stasjon
+NSR:StopPlace:597;Bøylestad;Bøylestad stasjon
+NSR:StopPlace:296;Gjerstad;Gjerstad stasjon
+NSR:StopPlace:302;Gjøvik;Gjøvik stasjon
+NSR:StopPlace:324;Gol;Gol stasjon
+NSR:StopPlace:336;Jaren;Jaren stasjon
+NSR:StopPlace:338;Gran;Gran stasjon
+NSR:StopPlace:478;Bleiken;Bleiken stasjon
+NSR:StopPlace:173;Majavatn;Majavatn stasjon
+NSR:StopPlace:685;Trofors;Trofors stasjon
+NSR:StopPlace:351;Grong;Grong stasjon
+NSR:StopPlace:90;Harran;Harran stasjon
+NSR:StopPlace:192;Halden;Halden stasjon
+NSR:StopPlace:566;Kornsjø;Kornsjø stasjon
+NSR:StopPlace:219;Hamar;Hamar stasjon
+NSR:StopPlace:329;Ilseng;Ilseng stasjon
+NSR:StopPlace:460;Bjerka;Bjerka stasjon
+NSR:StopPlace:560;Knapstad;Knapstad stasjon
+NSR:StopPlace:667;Tomter;Tomter stasjon
+NSR:StopPlace:318;Geilo;Geilo stasjon
+NSR:StopPlace:358;Ustaoset;Ustaoset stasjon
+NSR:StopPlace:99;Haugastøl;Haugastøl stasjon
+NSR:StopPlace:259;Holmestrand;Holmestrand stasjon
+NSR:StopPlace:116;Haltdalen;Haltdalen stasjon
+NSR:StopPlace:20;Reitan;Reitan stasjon
+NSR:StopPlace:446;Langlete;Langlete stasjon
+NSR:StopPlace:514;Ålen;Ålen stasjon
+NSR:StopPlace:140;Skoppum;Skoppum stasjon
+NSR:StopPlace:658;Snartemo;Snartemo stasjon
+NSR:StopPlace:242;Nærbø;Nærbø stasjon
+NSR:StopPlace:309;Ogna;Ogna stasjon
+NSR:StopPlace:411;Varhaug;Varhaug stasjon
+NSR:StopPlace:421;Vigrestad;Vigrestad stasjon
+NSR:StopPlace:561;Brusand;Brusand stasjon
+NSR:StopPlace:624;Sirevåg;Sirevåg stasjon
+NSR:StopPlace:74;Røra;Røra stasjon
+NSR:StopPlace:480;Øksnavadporten;Øksnavadporten stasjon
+NSR:StopPlace:543;Klepp;Klepp stasjon
+NSR:StopPlace:519;Kongsberg;Kongsberg stasjon
+NSR:StopPlace:635;Kongsvinger;Kongsvinger stasjon
+NSR:StopPlace:609;Kristiansand;Kristiansand stasjon
+NSR:StopPlace:585;Storekvina;Storekvina stasjon
+NSR:StopPlace:506;Larvik;Larvik stasjon
+NSR:StopPlace:538;Kjose;Kjose stasjon
+NSR:StopPlace:92;Eikenes;Eikenes stasjon
+NSR:StopPlace:406;Lesja;Lesja stasjon
+NSR:StopPlace:467;Bjorli;Bjorli stasjon
+NSR:StopPlace:488;Lesjaverk;Lesjaverk stasjon
+NSR:StopPlace:110;Skogn;Skogn stasjon
+NSR:StopPlace:38;Ronglan;Ronglan stasjon
+NSR:StopPlace:413;Levanger;Levanger stasjon
+NSR:StopPlace:54;Røstad;Røstad stasjon
+NSR:StopPlace:554;Åsen;Åsen stasjon
+NSR:StopPlace:426;Lier;Lier stasjon
+NSR:StopPlace:274;Hunderfossen;Hunderfossen stasjon
+NSR:StopPlace:420;Lillehammer;Lillehammer stasjon
+NSR:StopPlace:199;Moi;Moi stasjon
+NSR:StopPlace:280;Harestua;Harestua stasjon
+NSR:StopPlace:365;Grua;Grua stasjon
+NSR:StopPlace:46;Roa;Roa stasjon
+NSR:StopPlace:494;Lunner;Lunner stasjon
+NSR:StopPlace:574;Bjørgeseter;Bjørgeseter stasjon
+NSR:StopPlace:630;Stryken;Stryken stasjon
+NSR:StopPlace:163;Lørenskog;Lørenskog stasjon
+NSR:StopPlace:208;Fjellhamar;Fjellhamar stasjon
+NSR:StopPlace:41;Hanaborg;Hanaborg stasjon
+NSR:StopPlace:169;Løten;Løten stasjon
+NSR:StopPlace:229;Hommelvik;Hommelvik stasjon
+NSR:StopPlace:416;Vikhammer;Vikhammer stasjon
+NSR:StopPlace:177;Marnardal;Marnardal stasjon
+NSR:StopPlace:555;Breland;Breland stasjon
+NSR:StopPlace:62013;Løkken stasjon;Løkken stasjon
+NSR:StopPlace:214;Melhus Skysstasjon;Melhus Skysstasjon
+NSR:StopPlace:237;Hovin;Hovin stasjon
+NSR:StopPlace:369;Kvål;Kvål stasjon
+NSR:StopPlace:400;Ler;Ler stasjon
+NSR:StopPlace:461;Lundamo;Lundamo stasjon
+NSR:StopPlace:636;Søberg;Søberg stasjon
+NSR:StopPlace:180;Meråker;Meråker stasjon
+NSR:StopPlace:3;Gudå;Gudå stasjon
+NSR:StopPlace:592;Kopperå;Kopperå stasjon
+NSR:StopPlace:118;Singsås;Singsås stasjon
+NSR:StopPlace:31;Rognes;Rognes stasjon
+NSR:StopPlace:586;Kotsøy;Kotsøy stasjon
+NSR:StopPlace:603;Støren;Støren stasjon
+NSR:StopPlace:429;Vikersund;Vikersund stasjon
+NSR:StopPlace:57947;Kløftefoss stasjon;Kløftefoss stasjon
+NSR:StopPlace:57948;Sysle stasjon;Sysle stasjon
+NSR:StopPlace:57949;Snarum stasjon;Snarum stasjon
+NSR:StopPlace:203;Moss;Moss stasjon
+NSR:StopPlace:513;Kambo;Kambo stasjon
+NSR:StopPlace:275;Namsskogan;Namsskogan stasjon
+NSR:StopPlace:481;Lassemoen;Lassemoen stasjon
+NSR:StopPlace:58234;Narvik;Narvik stasjon
+NSR:StopPlace:58575;Rombak;Rombak stasjon
+NSR:StopPlace:58576;Bjørnfjell;Bjørnfjell stasjon
+NSR:StopPlace:58610;Katterat;Katterat stasjon
+NSR:StopPlace:187;Mjøndalen;Mjøndalen stasjon
+NSR:StopPlace:91;Steinberg;Steinberg stasjon
+NSR:StopPlace:260;Nesbyen;Nesbyen stasjon
+NSR:StopPlace:441;Auli;Auli stasjon
+NSR:StopPlace:51;Haga;Haga stasjon
+NSR:StopPlace:512;Bodung;Bodung stasjon
+NSR:StopPlace:540;Årnes;Årnes stasjon
+NSR:StopPlace:267;Nittedal;Nittedal stasjon
+NSR:StopPlace:379;Varingskollen;Varingskollen stasjon
+NSR:StopPlace:502;Åneby;Åneby stasjon
+NSR:StopPlace:61;Hakadal;Hakadal stasjon
+NSR:StopPlace:501;Lunde;Lunde stasjon
+NSR:StopPlace:425;Vinstra;Vinstra stasjon
+NSR:StopPlace:629;Kvam;Kvam stasjon
+NSR:StopPlace:283;Notodden;Notodden stasjon
+NSR:StopPlace:316;Oppdal;Oppdal stasjon
+NSR:StopPlace:641;Kongsvoll;Kongsvoll stasjon
+NSR:StopPlace:230;Myrvoll;Myrvoll stasjon
+NSR:StopPlace:323;Oppegård;Oppegård stasjon
+NSR:StopPlace:572;Kolbotn;Kolbotn stasjon
+NSR:StopPlace:6;Greverud;Greverud stasjon
+NSR:StopPlace:680;Solbråtan;Solbråtan stasjon
+NSR:StopPlace:57945;Svorkmo stasjon;Svorkmo stasjon
+NSR:StopPlace:57946;Bårdshaug;Bårdshaug stasjon
+NSR:StopPlace:62004;Fannrem stasjon;Fannrem stasjon
+NSR:StopPlace:332;Os;Os stasjon
+NSR:StopPlace:152;Skøyen;Skøyen stasjon
+NSR:StopPlace:167;Haugenstua;Haugenstua stasjon
+NSR:StopPlace:202;Holmlia;Holmlia stasjon
+NSR:StopPlace:218;Movatn;Movatn stasjon
+NSR:StopPlace:279;Nordstrand;Nordstrand stasjon
+NSR:StopPlace:287;Hauketo;Hauketo stasjon
+NSR:StopPlace:288;Nationaltheatret;Nationaltheatret stasjon
+NSR:StopPlace:301;Nydalen;Nydalen stasjon
+NSR:StopPlace:305;Nyland;Nyland stasjon
+NSR:StopPlace:313;Høybråten;Høybråten stasjon
+NSR:StopPlace:337;Oslo S;Oslo S
+NSR:StopPlace:339;Tøyen;Tøyen stasjon
+NSR:StopPlace:343;Grefsen;Grefsen stasjon
+NSR:StopPlace:359;Grorud;Grorud stasjon
+NSR:StopPlace:385;Alna;Alna stasjon
+NSR:StopPlace:433;Ljan;Ljan stasjon
+NSR:StopPlace:529;Bryn;Bryn stasjon
+NSR:StopPlace:530;Kjelsås;Kjelsås stasjon
+NSR:StopPlace:60;Rosenholm;Rosenholm stasjon
+NSR:StopPlace:666;Snippen;Snippen stasjon
+NSR:StopPlace:12;Porsgrunn;Porsgrunn stasjon
+NSR:StopPlace:312;Oklungen;Oklungen stasjon
+NSR:StopPlace:58416;Eidanger;Eidanger stasjon
+NSR:StopPlace:64;Rakkestad;Rakkestad stasjon
+NSR:StopPlace:104;Skonseng;Skonseng stasjon
+NSR:StopPlace:195;Mo i Rana;Mo i Rana stasjon
+NSR:StopPlace:25;Dunderland;Dunderland stasjon
+NSR:StopPlace:520;Åndalsnes;Åndalsnes stasjon
+NSR:StopPlace:81;Hanestad;Hanestad stasjon
+NSR:StopPlace:602;Berkåk;Berkåk stasjon
+NSR:StopPlace:17;Ringebu;Ringebu stasjon
+NSR:StopPlace:158;Hønefoss;Hønefoss stasjon
+NSR:StopPlace:191;Moelv;Moelv stasjon
+NSR:StopPlace:542;Brumunddal;Brumunddal stasjon
+NSR:StopPlace:70;Rygge;Rygge stasjon
+NSR:StopPlace:331;Glåmos;Glåmos stasjon
+NSR:StopPlace:53;Røros;Røros stasjon
+NSR:StopPlace:694;Spikkestad;Spikkestad stasjon
+NSR:StopPlace:80;Røyken;Røyken stasjon
+NSR:StopPlace:84;Råde;Råde stasjon
+NSR:StopPlace:161;Lønsdal;Lønsdal stasjon
+NSR:StopPlace:49;Rognan;Rognan stasjon
+NSR:StopPlace:77;Røkland;Røkland stasjon
+NSR:StopPlace:662;Sande;Sande stasjon
+NSR:StopPlace:108;Sandefjord;Sandefjord stasjon
+NSR:StopPlace:672;Torp lufthavn;Torp lufthavn stasjon
+NSR:StopPlace:261;Ganddal;Ganddal stasjon
+NSR:StopPlace:702;Sandnes Sentrum;Sandnes Sentrum stasjon
+NSR:StopPlace:87;Skeiane;Skeiane stasjon
+NSR:StopPlace:94;Sarpsborg;Sarpsborg stasjon
+NSR:StopPlace:263;Nordagutu;Nordagutu stasjon
+NSR:StopPlace:690;Trykkerud;Trykkerud stasjon
+NSR:StopPlace:4;Otta;Otta stasjon
+NSR:StopPlace:101;Sagdalen;Sagdalen stasjon
+NSR:StopPlace:451;Lillestrøm;Lillestrøm stasjon
+NSR:StopPlace:475;Leirsund;Leirsund stasjon
+NSR:StopPlace:716;Strømmen;Strømmen stasjon
+NSR:StopPlace:127;Ski;Ski stasjon
+NSR:StopPlace:375;Langhus;Langhus stasjon
+NSR:StopPlace:396;Vevelstad;Vevelstad stasjon
+NSR:StopPlace:617;Kråkstad;Kråkstad stasjon
+NSR:StopPlace:97;Skotbu;Skotbu stasjon
+NSR:StopPlace:136;Skien;Skien stasjon
+NSR:StopPlace:291;Nisterud;Nisterud stasjon
+NSR:StopPlace:357;Jørstad;Jørstad stasjon
+NSR:StopPlace:673;Snåsa;Snåsa stasjon
+NSR:StopPlace:246;Nodeland;Nodeland stasjon
+NSR:StopPlace:691;Spydeberg;Spydeberg stasjon
+NSR:StopPlace:646;Tangen;Tangen stasjon
+NSR:StopPlace:708;Stange;Stange stasjon
+NSR:StopPlace:206;Mariero;Mariero stasjon
+NSR:StopPlace:282;Gausel;Gausel stasjon
+NSR:StopPlace:362;Jåttåvågen;Jåttåvågen stasjon
+NSR:StopPlace:596;Stavanger;Stavanger stasjon
+NSR:StopPlace:8;Paradis;Paradis stasjon
+NSR:StopPlace:687;Sparbu;Sparbu stasjon
+NSR:StopPlace:714;Steinkjer;Steinkjer stasjon
+NSR:StopPlace:141;Hell;Hell stasjon
+NSR:StopPlace:148;Skatval;Skatval stasjon
+NSR:StopPlace:253;Hegra;Hegra stasjon
+NSR:StopPlace:456;Trondheim lufthavn;Trondheim lufthavn stasjon
+NSR:StopPlace:712;Stjørdal;Stjørdal stasjon
+NSR:StopPlace:132;Stokke;Stokke stasjon
+NSR:StopPlace:143;Evenstad;Evenstad stasjon
+NSR:StopPlace:328;Opphus;Opphus stasjon
+NSR:StopPlace:427;Atna;Atna stasjon
+NSR:StopPlace:580;Koppang;Koppang stasjon
+NSR:StopPlace:669;Steinvik;Steinvik stasjon
+NSR:StopPlace:704;Stai;Stai stasjon
+NSR:StopPlace:107;Högboda;Högboda station
+NSR:StopPlace:128;Edane;Edane station
+NSR:StopPlace:135;Enafors;Enafors station
+NSR:StopPlace:184;Hallsberg;Hallsberg station
+NSR:StopPlace:193;Fagerås;Fagerås station
+NSR:StopPlace:34;Duved;Duved station
+NSR:StopPlace:345;Undersåker;Undersåker station
+NSR:StopPlace:350;Järpen;Järpen station
+NSR:StopPlace:374;Göteborg Centralstation;Göteborg Centralstation
+NSR:StopPlace:405;Arvika;Arvika station
+NSR:StopPlace:452;Välsviken;Välsviken station
+NSR:StopPlace:485;Östersund C;Östersund Centralstation
+NSR:StopPlace:492;Östersund västra;Östersund västra station
+NSR:StopPlace:496;Öxnered;Öxnered station
+NSR:StopPlace:525;Kil;Kil station
+NSR:StopPlace:527;Ånn;Ånn station
+NSR:StopPlace:532;Åre;Åre station
+NSR:StopPlace:559;Åmotfors;Åmotfors station
+NSR:StopPlace:565;Mörsil;Mörsil station
+NSR:StopPlace:567;Kumla;Kumla station
+NSR:StopPlace:570;Örebro C;Örebro Centralstation
+NSR:StopPlace:57778;Abisko östra;Abisko östra station
+NSR:StopPlace:57779;Kiruna station;Kiruna station
+NSR:StopPlace:579;Väse;Väse station
+NSR:StopPlace:581;Örebro södra station;Örebro södra station
+NSR:StopPlace:58393;Malmö Centralstation;Malmö Centralstation
+NSR:StopPlace:58611;Katterjåkk;Katterjåkk station
+NSR:StopPlace:58612;Björkliden;Björkliden station
+NSR:StopPlace:58613;Abisko turiststation;Abisko turiststation
+NSR:StopPlace:58614;Gällivare station;Gällivare station
+NSR:StopPlace:58615;Nattavaara;Nattavaara station
+NSR:StopPlace:58616;Murjek;Murjek station
+NSR:StopPlace:58619;Luleå Centralstation;Luleå Centralstation
+NSR:StopPlace:58620;Älvsbyn;Älvsbyn station
+NSR:StopPlace:58621;Jörn;Jörn station
+NSR:StopPlace:58622;Bastuträsk;Bastuträsk station
+NSR:StopPlace:58623;Katrineholm C;Katrineholm Centralstation
+NSR:StopPlace:58625;Örnsköldsvik C;Örnsköldsvik Centralstation
+NSR:StopPlace:58626;Kramfors station;Kramfors station
+NSR:StopPlace:58628;Härnösand station;Härnösand station
+NSR:StopPlace:58629;Sundsvall C;Sundsvall Centralstation
+NSR:StopPlace:58630;Hudiksvall;Hudiksvall station
+NSR:StopPlace:58631;Söderhamn station;Söderhamn station
+NSR:StopPlace:58632;Gävle Centralstation;Gävle Centralstation
+NSR:StopPlace:58633;Uppsala C;Uppsala Centralstation
+NSR:StopPlace:58637;Brunflo;Brunflo station
+NSR:StopPlace:58638;Pilgrimstad;Pilgrimstad station
+NSR:StopPlace:58639;Gällö;Gällö station
+NSR:StopPlace:58640;Stavre station;Stavre station
+NSR:StopPlace:58641;Bräcke;Bräcke station
+NSR:StopPlace:58642;Ånge;Ånge station
+NSR:StopPlace:58643;Erikslund;Erikslund station
+NSR:StopPlace:58644;Ljungaverk;Ljungaverk station
+NSR:StopPlace:58645;Fränsta;Fränsta station
+NSR:StopPlace:58646;Torpshammar station;Torpshammar station
+NSR:StopPlace:58647;Stöde;Stöde station
+NSR:StopPlace:58648;Sundsvall västra;Sundsvall västra station
+NSR:StopPlace:58651;Låktatjåkko;Låktatjåkko station
+NSR:StopPlace:58675;Vassijaure;Vassijaure station
+NSR:StopPlace:591;Storlien;Storlien station
+NSR:StopPlace:598;Kristinehamn;Kristinehamn station
+NSR:StopPlace:604;Krokom;Krokom station
+NSR:StopPlace:615;Charlottenberg;Charlottenberg station
+NSR:StopPlace:623;Karlstad;Karlstad station
+NSR:StopPlace:634;Degerfors;Degerfors station
+NSR:StopPlace:681;Trollhättan;Trollhättan station
+NSR:StopPlace:73;Ed;Ed station
+NSR:StopPlace:123;Skarnes;Skarnes stasjon
+NSR:StopPlace:255;Frogner;Frogner stasjon
+NSR:StopPlace:27;Rånåsfoss;Rånåsfoss stasjon
+NSR:StopPlace:382;Lindeberg;Lindeberg stasjon
+NSR:StopPlace:487;Blaker;Blaker stasjon
+NSR:StopPlace:57943;Bingsfoss;Bingsfoss stasjon
+NSR:StopPlace:57944;Fossum stasjon;Fossum stasjon
+NSR:StopPlace:62035;Sørumsand Tertitten;Sørumsand Tertitten stasjon
+NSR:StopPlace:640;Sørumsand;Sørumsand stasjon
+NSR:StopPlace:568;Bryne;Bryne stasjon
+NSR:StopPlace:663;Tolga;Tolga stasjon
+NSR:StopPlace:144;Skansen;Skansen stasjon
+NSR:StopPlace:155;Selsbakk;Selsbakk stasjon
+NSR:StopPlace:210;Heimdal;Heimdal stasjon
+NSR:StopPlace:271;Nedre Elvehavn;Nedre Elvehavn stasjon
+NSR:StopPlace:33;Ranheim;Ranheim stasjon
+NSR:StopPlace:388;Lilleby;Lilleby stasjon
+NSR:StopPlace:393;Leangen;Leangen stasjon
+NSR:StopPlace:469;Lerkendal;Lerkendal stasjon
+NSR:StopPlace:57;Rotvoll;Rotvoll stasjon
+NSR:StopPlace:618;Marienborg;Marienborg stasjon
+NSR:StopPlace:659;Trondheim S;Trondheim S
+NSR:StopPlace:447;Auma;Auma stasjon
+NSR:StopPlace:699;Tynset;Tynset stasjon
+NSR:StopPlace:653;Tønsberg;Tønsberg stasjon
+NSR:StopPlace:238;Nordby;Nordby stasjon
+NSR:StopPlace:268;Hauerseter;Hauerseter stasjon
+NSR:StopPlace:58211;Oslo Lufthavn;Oslo Lufthavn stasjon
+NSR:StopPlace:344;Jessheim;Jessheim stasjon
+NSR:StopPlace:553;Kløfta;Kløfta stasjon
+NSR:StopPlace:200;Finse;Finse stasjon
+NSR:StopPlace:445;Vieren;Vieren stasjon
+NSR:StopPlace:71;Hallingskeid;Hallingskeid stasjon
+NSR:StopPlace:364;Vaksdal;Vaksdal stasjon
+NSR:StopPlace:639;Dale;Dale stasjon
+NSR:StopPlace:710;Stanghelle;Stanghelle stasjon
+NSR:StopPlace:211;Mosjøen;Mosjøen stasjon
+NSR:StopPlace:44;Drevvatn;Drevvatn stasjon
+NSR:StopPlace:407;Vegårshei;Vegårshei stasjon
+NSR:StopPlace:435;Vennesla;Vennesla stasjon
+NSR:StopPlace:57950;Beihøldalen;Beihøldalen stasjon
+NSR:StopPlace:57951;Kringsjaa;Kringsjaa stasjon
+NSR:StopPlace:57952;Paulen;Paulen stasjon
+NSR:StopPlace:62006;Grovane;Grovane stasjon
+NSR:StopPlace:62027;Røyknes;Røyknes stasjon
+NSR:StopPlace:390;Verdal;Verdal stasjon
+NSR:StopPlace:453;Bergsgrav;Bergsgrav stasjon
+NSR:StopPlace:384;Vestby;Vestby stasjon
+NSR:StopPlace:684;Sonsveien;Sonsveien stasjon
+NSR:StopPlace:105;Eina;Eina stasjon
+NSR:StopPlace:15;Raufoss;Raufoss stasjon
+NSR:StopPlace:67;Reinsvoll;Reinsvoll stasjon
+NSR:StopPlace:114;Seimsgrend;Seimsgrend stasjon
+NSR:StopPlace:151;Evanger;Evanger stasjon
+NSR:StopPlace:183;Mjølfjell;Mjølfjell stasjon
+NSR:StopPlace:311;Gjerdåker;Gjerdåker stasjon
+NSR:StopPlace:354;Urdland;Urdland stasjon
+NSR:StopPlace:42;Reimegrend;Reimegrend stasjon
+NSR:StopPlace:439;Ljosanbotn;Ljosanbotn stasjon
+NSR:StopPlace:440;Voss;Voss stasjon
+NSR:StopPlace:462;Ygre;Ygre stasjon
+NSR:StopPlace:468;Ørneberget;Ørneberget stasjon
+NSR:StopPlace:474;Øyeflaten;Øyeflaten stasjon
+NSR:StopPlace:518;Bolstadøyri;Bolstadøyri stasjon
+NSR:StopPlace:549;Kløve;Kløve stasjon
+NSR:StopPlace:584;Bulken;Bulken stasjon
+NSR:StopPlace:698;Skiple;Skiple stasjon
+NSR:StopPlace:245;Hokksund;Hokksund stasjon
+NSR:StopPlace:401;Vestfossen;Vestfossen stasjon
+NSR:StopPlace:628;Darbu;Darbu stasjon
+NSR:StopPlace:64017;Øyer;Øyer stasjon
+NSR:StopPlace:64018;Hafjell;Hafjell stasjon
+NSR:StopPlace:508;Ål;Ål stasjon
+NSR:StopPlace:216;Flaten;Flaten stasjon
+NSR:StopPlace:250;Nelaug;Nelaug stasjon
+NSR:StopPlace:23;Rena;Rena stasjon
+NSR:StopPlace:547;Ås;Ås stasjon
+NSR:StopPlace:57777;Riksgränsen station;Riksgränsen station
+NSR:StopPlace:58617;Boden C;Boden Centralstation
+NSR:StopPlace:58618;Sunderby sjukhus station;Sunderby sjukhus station
+NSR:StopPlace:58624;Umeå C;Umeå Centralstation
+NSR:StopPlace:58634;Arlanda Centralstation;Arlanda Centralstation
+NSR:StopPlace:58635;Stockholm C;Stockholm Centralstation
+NSR:StopPlace:58660;Södertälje syd;Södertälje syd station
