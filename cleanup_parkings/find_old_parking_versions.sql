@@ -1,0 +1,1 @@
+select p1.id, p1.netex_id, p1.version, p1.from_date, p1.to_date, p1.created, p1.changed from parking p1 where p1.version < (select max(p2.version) from parking p2 where p2.netex_id = p1.netex_id)  order by netex_id, version
