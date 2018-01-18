@@ -1,108 +1,109 @@
-NSR:StopPlace:10016;mot Kongsvinger;;ONSTREET_BUS;
-NSR:StopPlace:10077;Jessnes;;ONSTREET_BUS;
-NSR:StopPlace:10142;riksgrensen;;ONSTREET_BUS;
-NSR:StopPlace:10277;mot Tingnes;;ONSTREET_BUS;
-NSR:StopPlace:10342;mot Tingnes;;ONSTREET_BUS;
-NSR:StopPlace:10348;mot Elverum;;ONSTREET_BUS;
-NSR:StopPlace:10352;til sentrum;;ONSTREET_BUS;
-NSR:StopPlace:10402;Øvrebyen vgs.;;ONSTREET_BUS;
-NSR:StopPlace:10431;mot Hulleberg;;ONSTREET_BUS;
-NSR:StopPlace:10470;mot Hamar;;ONSTREET_BUS;
-NSR:StopPlace:10484;mot Hamar;;ONSTREET_BUS;
-NSR:StopPlace:10491;mot Hamar;;ONSTREET_BUS;
-NSR:StopPlace:10567;mot Hamar;;ONSTREET_BUS;
-NSR:StopPlace:10576;mot Elverum;;ONSTREET_BUS;
-NSR:StopPlace:10674;mot Hamar;;ONSTREET_BUS;
-NSR:StopPlace:10711;mot Solvang;;ONSTREET_BUS;
-NSR:StopPlace:10779;mot Hamar;;ONSTREET_BUS;
-NSR:StopPlace:10839;mot Gåsbu;;ONSTREET_BUS;
-NSR:StopPlace:142;(Alternativ transport);;ONSTREET_BUS;
-NSR:StopPlace:2;Alternativ transport;;ONSTREET_BUS;
-NSR:StopPlace:26415;Lagt ned.;;ONSTREET_BUS;
-NSR:StopPlace:27160;Lagt ned;;ONSTREET_BUS;
-NSR:StopPlace:27613;Lagt ned;;ONSTREET_BUS;
-NSR:StopPlace:28809;Lagt ned;;ONSTREET_BUS;
-NSR:StopPlace:290;(Alternativ transport);;ONSTREET_BUS;
-NSR:StopPlace:3086;Ørbekk;;ONSTREET_BUS;
-NSR:StopPlace:31026;Midlertidig;;ONSTREET_BUS;
-NSR:StopPlace:31369;Elvebakken;;ONSTREET_BUS;
-NSR:StopPlace:37662;Stranda;;ONSTREET_BUS;
-NSR:StopPlace:37801;Ørsta;;ONSTREET_BUS;
-NSR:StopPlace:38764;tunet;;ONSTREET_BUS;
-NSR:StopPlace:388;Lademoen;;RAIL_STATION;
-NSR:StopPlace:391;Lademoen;;ONSTREET_BUS;
-NSR:StopPlace:41272;Volda;;ONSTREET_BUS;
-NSR:StopPlace:42185;Oppøyen;;ONSTREET_BUS;
-NSR:StopPlace:42638;skole;;ONSTREET_BUS;
-NSR:StopPlace:43134;Ikke i bruk;;ONSTREET_BUS;
-NSR:StopPlace:43866;Vikvarvet skole;;ONSTREET_BUS;
-NSR:StopPlace:498;(Alternativ transport);;ONSTREET_BUS;NSR:StopPlace:58843
-NSR:StopPlace:5351;Avgangshall, øvre plan;;ONSTREET_BUS;NSR:StopPlace:58211
-NSR:StopPlace:5357;Ankomsthall, nedre plan;;BUS_STATION;NSR:StopPlace:58211
-NSR:StopPlace:57587;Shell;;ONSTREET_BUS;
-NSR:StopPlace:57591;E6 mot Oslo;;ONSTREET_BUS;
-NSR:StopPlace:57647;Selje;;ONSTREET_BUS;
-NSR:StopPlace:57778;sverige;;RAIL_STATION;
-NSR:StopPlace:58239;Snuplass for bussen;;ONSTREET_BUS;
-NSR:StopPlace:58422;ved bensinstasjonen;;ONSTREET_BUS;
-NSR:StopPlace:7043;mot Elverum;;ONSTREET_BUS;
-NSR:StopPlace:7121;Trøanakeren;;ONSTREET_BUS;
-NSR:StopPlace:7167;mot Oslo;;ONSTREET_BUS;
-NSR:StopPlace:7218;mot Trondheim;;ONSTREET_BUS;
-NSR:StopPlace:7230;mot Hamar;;ONSTREET_BUS;
-NSR:StopPlace:7255;mot Elverum;;ONSTREET_BUS;
-NSR:StopPlace:7281;mot Gata;;ONSTREET_BUS;
-NSR:StopPlace:7314;Trysil;;ONSTREET_BUS;
-NSR:StopPlace:7327;mot Korsbakken;;ONSTREET_BUS;
-NSR:StopPlace:7329;Trysilfjellet;;ONSTREET_BUS;
-NSR:StopPlace:7338;mot Korsbakken;;ONSTREET_BUS;
-NSR:StopPlace:7385;mot Elverum;;ONSTREET_BUS;
-NSR:StopPlace:7389;mot Tynset;;ONSTREET_BUS;
-NSR:StopPlace:7465;Vestre Trysil;;ONSTREET_BUS;
-NSR:StopPlace:7472;mot Skarnes;;ONSTREET_BUS;
-NSR:StopPlace:7511;mot Tangen;;ONSTREET_BUS;
-NSR:StopPlace:7726;mot Rena;;ONSTREET_BUS;
-NSR:StopPlace:7749;Slettås;;ONSTREET_BUS;
-NSR:StopPlace:7792;mot Elverum;;ONSTREET_BUS;
-NSR:StopPlace:7801;Sveheim;;ONSTREET_BUS;
-NSR:StopPlace:7892;Ring;;ONSTREET_BUS;
-NSR:StopPlace:7936;mot Alvdal;;ONSTREET_BUS;
-NSR:StopPlace:8005;mot Alvdal;;ONSTREET_BUS;
-NSR:StopPlace:8113;mot Hamar;;ONSTREET_BUS;
-NSR:StopPlace:8123;mot Hamar;;ONSTREET_BUS;
-NSR:StopPlace:8137;mot Tynset;;ONSTREET_BUS;
-NSR:StopPlace:8146;mot Hamar;;ONSTREET_BUS;
-NSR:StopPlace:8149;mot Kolomoen;;ONSTREET_BUS;
-NSR:StopPlace:8178;mot Løten;;ONSTREET_BUS;
-NSR:StopPlace:8306;mot Hamar;;ONSTREET_BUS;
-NSR:StopPlace:8476;mot Årnes;;ONSTREET_BUS;
-NSR:StopPlace:8483;mot Årnes;;ONSTREET_BUS;
-NSR:StopPlace:8578;mot Oslo;;ONSTREET_BUS;
-NSR:StopPlace:8623;Hanestad;;ONSTREET_BUS;
-NSR:StopPlace:8769;mot Drevsjø;;ONSTREET_BUS;
-NSR:StopPlace:8811;mot Kongsvinger;;ONSTREET_BUS;
-NSR:StopPlace:8870;mot Kongsvinger;;ONSTREET_BUS;
-NSR:StopPlace:8988;Fallet;;ONSTREET_BUS;
-NSR:StopPlace:8993;Slemdalen;;ONSTREET_BUS;
-NSR:StopPlace:9023;mot Kongsvinger;;ONSTREET_BUS;
-NSR:StopPlace:9048;mot Kongsvinger;;ONSTREET_BUS;
-NSR:StopPlace:9125;mot Kongsvinger;;ONSTREET_BUS;
-NSR:StopPlace:9178;mot Kongsvinger;;ONSTREET_BUS;
-NSR:StopPlace:9207;Tangen;;ONSTREET_BUS;
-NSR:StopPlace:9289;Steinvik;;ONSTREET_BUS;
-NSR:StopPlace:9368;mot Ringebu;;ONSTREET_BUS;
-NSR:StopPlace:9464;mot Flisa;;ONSTREET_BUS;
-NSR:StopPlace:9590;mot Oslo;;ONSTREET_BUS;
-NSR:StopPlace:9595;mot Kongsvinger;;ONSTREET_BUS;
-NSR:StopPlace:9600;mot Kongsvinger;;ONSTREET_BUS;
-NSR:StopPlace:9607;mot Oslo;;ONSTREET_BUS;
-NSR:StopPlace:9617;mot Oslo;;ONSTREET_BUS;
-NSR:StopPlace:9645;mot Oslo;;ONSTREET_BUS;
-NSR:StopPlace:9659;mot Hamar;;ONSTREET_BUS;
-NSR:StopPlace:9700;mot Skarnes;;ONSTREET_BUS;
-NSR:StopPlace:9810;mot Kongsvinger;;ONSTREET_BUS;
-NSR:StopPlace:9868;mot Oslo;;ONSTREET_BUS;
-NSR:StopPlace:9869;mot Tingnes;;ONSTREET_BUS;
-NSR:StopPlace:9871;mot Moelv;;ONSTREET_BUS;
-NSR:StopPlace:9931;mot Moelv;;ONSTREET_BUS;
-NSR:StopPlace:9947;mot Roverud;;ONSTREET_BUS;
+NSR:StopPlace:10016;mot Kongsvinger;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[11.82511,60.650606]}"
+NSR:StopPlace:10077;Jessnes;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[10.990614,60.827484]}"
+NSR:StopPlace:10142;riksgrensen;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[12.495707,60.092705]}"
+NSR:StopPlace:10277;mot Tingnes;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[10.781523,60.841508]}"
+NSR:StopPlace:10342;mot Tingnes;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[10.870507,60.794933]}"
+NSR:StopPlace:10348;mot Elverum;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[11.998532,60.19124]}"
+NSR:StopPlace:10352;til sentrum;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[11.594939,60.897165]}"
+NSR:StopPlace:10402;Øvrebyen vgs.;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[12.008498,60.194946]}"
+NSR:StopPlace:10431;mot Hulleberg;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[10.896032,60.79266]}"
+NSR:StopPlace:10470;mot Hamar;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[11.543551,60.881709]}"
+NSR:StopPlace:10484;mot Hamar;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[11.531677,60.883622]}"
+NSR:StopPlace:10491;mot Hamar;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[11.562506,60.877825]}"
+NSR:StopPlace:10567;mot Hamar;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[11.071906,60.79365]}"
+NSR:StopPlace:10576;mot Elverum;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[11.625229,60.924682]}"
+NSR:StopPlace:10674;mot Hamar;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[11.056074,60.809492]}"
+NSR:StopPlace:10711;mot Solvang;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[11.072992,60.806614]}"
+NSR:StopPlace:10779;mot Hamar;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[11.192218,60.820278]}"
+NSR:StopPlace:10839;mot Gåsbu;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[11.225922,60.870341]}"
+NSR:StopPlace:142;(Alternativ transport);;ONSTREET_BUS;NSR:StopPlace:58873;"{""type"":""Point"",""coordinates"":[10.411448,59.390614]}"
+NSR:StopPlace:2;Alternativ transport;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[10.754923,59.90965]}"
+NSR:StopPlace:24632;i rundkjøringen;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[8.770569,58.464438]}"
+NSR:StopPlace:26415;Lagt ned.;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[6.218743,59.35499]}"
+NSR:StopPlace:27160;Lagt ned;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[5.692595,58.96779]}"
+NSR:StopPlace:27613;Lagt ned;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[5.619938,58.897503]}"
+NSR:StopPlace:28809;Lagt ned;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[5.705614,58.965954]}"
+NSR:StopPlace:290;(Alternativ transport);;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[10.730708,59.914722]}"
+NSR:StopPlace:3086;Ørbekk;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[11.240165,60.421807]}"
+NSR:StopPlace:31026;Midlertidig;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[6.414846,60.629528]}"
+NSR:StopPlace:31369;Elvebakken;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[5.345066,60.360026]}"
+NSR:StopPlace:37662;Stranda;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[6.937444,62.310731]}"
+NSR:StopPlace:37801;Ørsta;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[6.256156,62.141365]}"
+NSR:StopPlace:38764;tunet;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[6.614713,62.308144]}"
+NSR:StopPlace:388;Lademoen;;RAIL_STATION;;"{""type"":""Point"",""coordinates"":[10.43235,63.439944]}"
+NSR:StopPlace:391;Lademoen;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[10.430409,63.439384]}"
+NSR:StopPlace:41272;Volda;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[6.074299,62.148015]}"
+NSR:StopPlace:42185;Oppøyen;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[9.677098,63.159502]}"
+NSR:StopPlace:42638;skole;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[8.823524,63.648781]}"
+NSR:StopPlace:43134;Ikke i bruk;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[10.350509,63.427383]}"
+NSR:StopPlace:43866;Vikvarvet skole;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[10.965387,63.20725]}"
+NSR:StopPlace:498;(Alternativ transport);;ONSTREET_BUS;NSR:StopPlace:58843;"{""type"":""Point"",""coordinates"":[10.554514,59.89696]}"
+NSR:StopPlace:5351;Avgangshall, øvre plan;;ONSTREET_BUS;NSR:StopPlace:58211;"{""type"":""Point"",""coordinates"":[11.099649,60.193187]}"
+NSR:StopPlace:5357;Ankomsthall, nedre plan;;BUS_STATION;NSR:StopPlace:58211;"{""type"":""Point"",""coordinates"":[11.097244,60.193473]}"
+NSR:StopPlace:57587;Shell;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[11.039197,59.997343]}"
+NSR:StopPlace:57591;E6 mot Oslo;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[11.149226,60.081215]}"
+NSR:StopPlace:57647;Selje;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[5.431585,62.069678]}"
+NSR:StopPlace:57778;sverige;;RAIL_STATION;;"{""type"":""Point"",""coordinates"":[18.828737,68.348898]}"
+NSR:StopPlace:58239;Snuplass for bussen;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[24.299926,70.448607]}"
+NSR:StopPlace:58422;ved bensinstasjonen;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[10.916662,63.451843]}"
+NSR:StopPlace:7043;mot Elverum;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[11.538035,60.886418]}"
+NSR:StopPlace:7121;Trøanakeren;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[10.835544,62.416676]}"
+NSR:StopPlace:7167;mot Oslo;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[11.294387,60.730694]}"
+NSR:StopPlace:7218;mot Trondheim;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[11.255574,60.563246]}"
+NSR:StopPlace:7230;mot Hamar;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[11.551454,60.882365]}"
+NSR:StopPlace:7255;mot Elverum;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[10.67379,62.260891]}"
+NSR:StopPlace:7281;mot Gata;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[11.350813,60.719012]}"
+NSR:StopPlace:7314;Trysil;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[12.256638,61.31475]}"
+NSR:StopPlace:7327;mot Korsbakken;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[11.265507,60.752174]}"
+NSR:StopPlace:7329;Trysilfjellet;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[12.241981,61.305959]}"
+NSR:StopPlace:7338;mot Korsbakken;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[11.285933,60.7442]}"
+NSR:StopPlace:7385;mot Elverum;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[11.990689,61.087255]}"
+NSR:StopPlace:7389;mot Tynset;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[10.736117,62.304865]}"
+NSR:StopPlace:7465;Vestre Trysil;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[11.938283,61.14031]}"
+NSR:StopPlace:7472;mot Skarnes;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[11.289823,60.711944]}"
+NSR:StopPlace:7511;mot Tangen;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[11.206933,60.65679]}"
+NSR:StopPlace:7726;mot Rena;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[11.988368,61.383831]}"
+NSR:StopPlace:7749;Slettås;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[11.85983,61.362743]}"
+NSR:StopPlace:7792;mot Elverum;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[10.819524,62.021484]}"
+NSR:StopPlace:7801;Sveheim;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[10.896563,61.97195]}"
+NSR:StopPlace:7892;Ring;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[10.716362,60.99982]}"
+NSR:StopPlace:7936;mot Alvdal;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[10.172893,62.155778]}"
+NSR:StopPlace:8005;mot Alvdal;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[9.871593,62.150961]}"
+NSR:StopPlace:8113;mot Hamar;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[11.324731,60.832923]}"
+NSR:StopPlace:8123;mot Hamar;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[11.367243,60.848605]}"
+NSR:StopPlace:8137;mot Tynset;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[11.245517,62.497534]}"
+NSR:StopPlace:8146;mot Hamar;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[11.347821,60.825355]}"
+NSR:StopPlace:8149;mot Kolomoen;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[11.353423,60.834068]}"
+NSR:StopPlace:8178;mot Løten;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[11.384886,60.803961]}"
+NSR:StopPlace:8306;mot Hamar;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[11.304552,60.789723]}"
+NSR:StopPlace:8476;mot Årnes;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[11.641443,60.206544]}"
+NSR:StopPlace:8483;mot Årnes;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[11.588513,60.17875]}"
+NSR:StopPlace:8578;mot Oslo;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[11.637234,60.21745]}"
+NSR:StopPlace:8623;Hanestad;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[10.871192,61.8359]}"
+NSR:StopPlace:8769;mot Drevsjø;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[12.170347,61.873801]}"
+NSR:StopPlace:8811;mot Kongsvinger;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[12.243667,59.930262]}"
+NSR:StopPlace:8870;mot Kongsvinger;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[11.925125,60.603287]}"
+NSR:StopPlace:8988;Fallet;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[11.800821,61.242786]}"
+NSR:StopPlace:8993;Slemdalen;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[11.719147,61.329285]}"
+NSR:StopPlace:9023;mot Kongsvinger;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[11.934693,60.626708]}"
+NSR:StopPlace:9048;mot Kongsvinger;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[11.963738,60.617485]}"
+NSR:StopPlace:9125;mot Kongsvinger;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[12.067293,60.555526]}"
+NSR:StopPlace:9178;mot Kongsvinger;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[11.996859,60.534524]}"
+NSR:StopPlace:9207;Tangen;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[11.33129,60.600235]}"
+NSR:StopPlace:9289;Steinvik;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[11.324171,61.26141]}"
+NSR:StopPlace:9368;mot Ringebu;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[10.233801,61.851223]}"
+NSR:StopPlace:9464;mot Flisa;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[12.233858,60.660083]}"
+NSR:StopPlace:9590;mot Oslo;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[11.576814,60.197515]}"
+NSR:StopPlace:9595;mot Kongsvinger;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[11.743859,60.247596]}"
+NSR:StopPlace:9600;mot Kongsvinger;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[11.742247,60.246984]}"
+NSR:StopPlace:9607;mot Oslo;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[11.820664,60.234758]}"
+NSR:StopPlace:9617;mot Oslo;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[11.893309,60.208865]}"
+NSR:StopPlace:9645;mot Oslo;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[11.815573,60.232132]}"
+NSR:StopPlace:9659;mot Hamar;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[11.015332,60.850874]}"
+NSR:StopPlace:9700;mot Skarnes;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[11.627551,60.310724]}"
+NSR:StopPlace:9810;mot Kongsvinger;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[12.056414,60.348947]}"
+NSR:StopPlace:9868;mot Oslo;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[11.930073,60.214943]}"
+NSR:StopPlace:9869;mot Tingnes;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[10.728945,60.902643]}"
+NSR:StopPlace:9871;mot Moelv;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[10.754065,60.960833]}"
+NSR:StopPlace:9931;mot Moelv;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[10.721679,60.937933]}"
+NSR:StopPlace:9947;mot Roverud;;ONSTREET_BUS;;"{""type"":""Point"",""coordinates"":[12.103608,60.276089]}"
