@@ -3,20 +3,24 @@
 set -e
 
 pod=`kubectl get pods | grep tiamatdb-proxy | head -n1 | cut -d '-' -f 1-4 | awk '{print $1}'`
-psql="kubectl exec -t $pod -- psql -h tiamatdb-proxy-service postgresql://tiamat:$DB_PASS@/tiamat -qtA -c "
+psql="kubectl exec -i $pod -- psql -h tiamatdb-proxy-service postgresql://tiamat:$DB_PASS@/tiamat "
 echo "Tiamat proxy pod: $pod"
 
+SELECT_FILE=selectIdFile.sql
 
+if [ -f $SELECT_FILE ]; then
+  echo Deleting old $SELECT_FILE
+  rm $SELECT_FILE
+fi
 
 sed 1d NOPTIS2NSR.txt | tr ';' ' ' | while read -r line; do
-  echo "line is: "$line;
   read -r importedId quayId <<< "$line"
 
   prefixedImportedId="MOR:Quay:$importedId"
 
   echo "quayId: $quayId  prefixed imported id: "$prefixedImportedId
 
-  quaysSql="SELECT distinct qkv.key_values_id
+  quaysSql="copy(SELECT distinct q.netex_id, qkv.key_values_id
               FROM quay_key_values qkv
                 INNER JOIN stop_place_quays spq
                   ON spq.quays_id = qkv.quay_id
@@ -31,20 +35,14 @@ sed 1d NOPTIS2NSR.txt | tr ';' ' ' | while read -r line; do
                   ((p.netex_id IS NOT NULL AND (p.from_date IS NULL OR p.from_date <= now()) AND (p.to_date IS NULL OR p.to_date > now()))
                     OR (p.netex_id IS NULL AND (s.from_date IS NULL OR s.from_date <= now()) AND (s.to_date IS NULL OR s.to_date > now())))
                   AND qkv.key_values_key = 'imported-id'
-                  AND q.netex_id = '$quayId' ";
+                  AND q.netex_id = '$quayId') TO STDOUT WITH CSV;";
 
-  # echo $quaysSql
-
-  keyValId=$($psql "copy($quaysSql) TO STDOUT WITH CSV" | tr ',' ' ')
-
-  if [ -z $keyValId ]; then
-    echo "WARN: Cannot find keyValId from quay $quayId";
-  else
-
-    echo "Found keyvalid: " $keyValId
-
-    insertSql="insert into value_items (value_id, items) values($keyValId, '$prefixedImportedId');"
-    echo $insertSql >> statements.sql
-    # exit;
-  fi
+  echo $quaysSql >> $SELECT_FILE
+  break;
 done
+
+echo "Added "$(wc -l $SELECT_FILE)" select statements to file"
+echo "Running all selects"
+$psql < $SELECT_FILE > keyvalFile
+
+echo "Got "$(wc -l keyvalFile) " rows in return"
