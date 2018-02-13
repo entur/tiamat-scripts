@@ -7,20 +7,27 @@ psql="kubectl exec -i $pod -- psql -h tiamatdb-proxy-service postgresql://tiamat
 echo "Tiamat proxy pod: $pod"
 
 SELECT_FILE=selectIdFile.sql
+KEYVAL_FILE=keyvalfile.csv
+INSERT_FILE=insertFile.sql
 
 if [ -f $SELECT_FILE ]; then
   echo Deleting old $SELECT_FILE
   rm $SELECT_FILE
 fi
 
-sed 1d NOPTIS2NSR.txt | tr ';' ' ' | while read -r line; do
+if [ -f $INSERT_FILE ]; then
+  echo Deleting old $INSERT_FILE
+  rm $INSERT_FILE
+fi
+
+cat NOPTIS2NSR.txt | tr ';' ' ' | while read -r line; do
   read -r importedId quayId <<< "$line"
 
   prefixedImportedId="MOR:Quay:$importedId"
 
-  echo "quayId: $quayId  prefixed imported id: "$prefixedImportedId
+  # echo "quayId: $quayId. prefixed imported id: "$prefixedImportedId
 
-  quaysSql="copy(SELECT distinct q.netex_id, qkv.key_values_id
+  quaysSql="copy(SELECT distinct q.netex_id, qkv.key_values_id, '$prefixedImportedId'
               FROM quay_key_values qkv
                 INNER JOIN stop_place_quays spq
                   ON spq.quays_id = qkv.quay_id
@@ -38,11 +45,25 @@ sed 1d NOPTIS2NSR.txt | tr ';' ' ' | while read -r line; do
                   AND q.netex_id = '$quayId') TO STDOUT WITH CSV;";
 
   echo $quaysSql >> $SELECT_FILE
-  break;
 done
 
 echo "Added "$(wc -l $SELECT_FILE)" select statements to file"
 echo "Running all selects"
-$psql < $SELECT_FILE > keyvalFile
+$psql < $SELECT_FILE > $KEYVAL_FILE
 
-echo "Got "$(wc -l keyvalFile) " rows in return"
+echo "Got "$(cat $KEYVAL_FILE | wc -l)" rows of keyvals in return"
+
+cat $KEYVAL_FILE | tr ',' ' ' | while read -r line; do
+  read -r quayId keyvalId importedId <<< $line;
+
+  if [[ -z "${keyvalId// }" ]]
+  then
+    (>&2 echo "Ignoring quay $quayId, importedId: $importedId because keyvalId is empty ")
+  else
+    insertSql="insert into value_items(value_id, items) SELECT $keyvalId, '"$importedId"' WHERE NOT EXISTS (SELECT value_id FROM value_items WHERE value_id = $keyvalId AND items = '"$importedId"');"
+    echo $insertSql >> $INSERT_FILE
+  fi
+done
+
+echo "Executing "$(cat $INSERT_FILE | wc -l)" statements"
+$psql < $INSERT_FILE
