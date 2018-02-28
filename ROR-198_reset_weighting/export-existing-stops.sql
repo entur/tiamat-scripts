@@ -12,7 +12,7 @@ copy (SELECT s.netex_id,
            AND (p.from_date IS NULL
                 OR p.from_date <= now())
            AND (p.to_date IS NULL
-                OR p.to_date > now())
+                OR p.to_date > now()))
           OR (p.netex_id IS NULL
               AND (s.from_date IS NULL
                    OR s.from_date <= now())
