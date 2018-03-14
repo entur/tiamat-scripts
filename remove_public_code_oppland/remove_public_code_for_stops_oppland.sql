@@ -11,11 +11,14 @@ WHERE id IN
              AND (p.from_date IS NULL
                   OR p.from_date <= now())
              AND (p.to_date IS NULL
-                  OR p.to_date > now()))
+                  OR p.to_date > now())
+                  AND p.topographic_place_id IN (select pm.id from topographic_place pm where pm.parent_ref = 'KVE:TopographicPlace:05')
+                )
             OR (p.netex_id IS NULL
                 AND (s.from_date IS NULL
                      OR s.from_date <= now())
                 AND (s.to_date IS NULL
-                     OR s.to_date > now())))
-       AND s.stop_place_type IN('ONSTREET_BUS',
-                                'BUS_STATION') );
+                     OR s.to_date > now())
+                AND s.topographic_place_id IN (select pm.id from topographic_place pm where pm.parent_ref = 'KVE:TopographicPlace:05')
+                   ))
+       AND s.stop_place_type != 'RAIL_STATION');
