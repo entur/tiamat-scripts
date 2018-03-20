@@ -9,14 +9,14 @@ copy (SELECT s.netex_id,
      s.parent_stop_place = FALSE
      AND ((p.netex_id IS NOT NULL
            AND (p.from_date IS NULL
-                OR p.from_date <= '2017-11-02 01:00:00')
+                OR p.from_date <= now())
            AND (p.to_date IS NULL
-                OR p.to_date > '2017-11-02 01:00:00'))
+                OR p.to_date > now()))
           OR (p.netex_id IS NULL
               AND (s.from_date IS NULL
-                   OR s.from_date <= '2017-11-02 01:00:00')
+                   OR s.from_date <= now())
               AND (s.to_date IS NULL
-                   OR s.to_date > '2017-11-02 01:00:00')))
+                   OR s.to_date > now())))
    ORDER BY s.netex_id,
             s.version
 ) TO '/tmp/test.csv' DELIMITER ';' CSV;
