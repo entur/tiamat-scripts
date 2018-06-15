@@ -9,5 +9,4 @@ WHERE id IN
         FROM tariff_zone tz2
         WHERE tz2.netex_id = tz.netex_id
     )
-    AND tz.netex_id = 'NTR:TariffZone:731'   
 )
