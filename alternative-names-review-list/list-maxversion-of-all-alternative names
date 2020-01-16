@@ -1,0 +1,28 @@
+/* Will include active and expired stops and lists all types of alternative names.*/
+
+SELECT 
+	sp.version,
+	sp.to_date,
+	sp.netex_id,
+	sp.name_value,
+	sp.stop_place_type,
+	an.netex_id,
+	an.name_value,
+	an.name_type,
+	an.name_lang,
+	tp.name_value, 
+	tp.netex_id,
+	tp.parent_ref
+FROM stop_place sp
+INNER JOIN
+    (SELECT netex_id, MAX(version) as gspv 	
+    FROM stop_place
+    GROUP BY netex_id) groupedsp 
+ON sp.netex_id = groupedsp.netex_id
+AND sp.version = groupedsp.gspv
+
+left join stop_place_alternative_names sp_an on sp_an.stop_place_id = sp.id
+left join alternative_name an on sp_an.alternative_names_id = an.id
+left join topographic_place tp on sp.topographic_place_id = tp.id
+
+where an.netex_id is not null
